@@ -1,61 +1,238 @@
 {
-  "acast": "4aa0d922d662d1462c1120c6048b55c4a7de2b51c3a23cb050395a2fae4ae29e",
-  "bun": "5ff717b2b6f3037f82109d6e00942a8874b1bc17caa465f70d5770661e0a92cc",
-  "clang": "0b124b72f8a39770cef7df792b55485ff41ac33bc28cbf6a43f659bcf5bb6fcb",
-  "cmake": "1f695dc2dbf1fd4ad138da121b5866d9e6ac1e6b2266f0043ba71737e1dc9a98",
-  "codon": "278fb9dc267f07079681d436ce93e5e27e4875a1ee9f5b8f5192c4cff1519080",
-  "coursier": "e5e838c7793f0c69d6f3908362be89fc15d413c76bde337bb6e3712c9c6d9e77",
-  "cygwin": "34939546c754699364228f8b1fee5033370646ec983625733b4240eac90a71bb",
-  "deno": "26f2ad50806d93b6e1ca954e94ca54c4fee64595b8d91b65d936eb20606472cf",
-  "dlang": "5885e9a1f54d9b129a781cc5cd01e68e918aade286e1a60f9236793cedfbf260",
-  "dotnet": "0e34b0c86ae23aa14b569df5eb86c3ef7b6f3d3f88209b4bb3b11207739e6be5",
-  "elixir": "ccbae1f9c66c1dc2ddc1730b6d56db892de5c59a304efe26a5ac1ff9c608d651",
-  "erlang": "341c8eee7d1d330cd8320c23f3a08d5bbbe3e81cdd41f7e1163aca231ddc0abf",
-  "fd": "6bd118e0faed066cd7bac01b30853866d869959b78dcf163105d6822f56a4d83",
-  "flutter": "1a3c0221a130cfdfc215825f6215eea8dcac4518a315c5a3db2b601c7558bb42",
-  "fzf": "61870d80cc9f94f5e1d24b1a99a0b1f4f169a5b85a96cd5018be5d244a331162",
-  "gcc": "76cbe981db350990860fe2055c1328cbc844dfdb577f01f8eae07feda81e08a7",
-  "git-win": "adb6033a1230918f93a92afa6298d82e262a9a5c7a4f718b254cd2c0920d4780",
-  "gleam": "d481a50a3f738cd88c1517f8acf6764f7c075c8d9d5a445893cfeb055fc7714c",
-  "go": "b64a86f18088dfe2ab0786f4e21c24967727680818b6bfb1e2067bcff1439d34",
-  "gradle": "98f0e04effbc0326008a9a57f82d31bf806cd785be4e8c7c81e372ee8316a79e",
-  "groovy": "56dacde11c07b96ae0b591daa3bae3b78074dec16750a79dd5751167dfc7578c",
-  "gsudo": "b638164af17f12285d2482e2f27a4a8036416c08dd5fa8676d174319bfcf1e7c",
-  "jdk": "c1a8e64a4148df8aedc696ba5f5ee268352cd2691fe1ea5ec1f4d3b01b526bad",
-  "julia": "cb04414174506473e7a262b012e2b5f7a1a1dbc4d63b7f2ab2793f7198032ee3",
-  "kotlin": "9589fd582ab5db1ce1f0d4428fc83c85464b30664badbae9aa4e8db91b82e1c0",
-  "kubectl": "2927bef86f8814d30b7fef14f44c912cf09b9ba2b5a1c853bec75da87ed3bd0f",
-  "lazydocker": "73ac4258c5a4c59dd9c40a099330269962dccc637ac90f2789036fd1dfcb5aef",
-  "lazygit": "a635ed68fe5e00d5a8c02282aa28764df8e58e9671fa0e40d0d2bda42778f410",
-  "lfortran": "0a6e1e52b18301b79832476eb16305fd8f2e615f25095f9d93bfe6f8a99cab18",
-  "lua": "6acb09afac4e4379c1f0bad0d0e1853bcd4fccb44d25babd8bf724151c089fbf",
-  "maven": "f8d4e384641b8e80b37030d3b8181c1e86342163221c2ebd198b321866f2969b",
-  "miniconda": "44417a941f23e5ea6e6655e682140dc8e2eb7f1cd9644633c58fc1c834e30c07",
-  "msys2": "35c8445a8c3cb103ddb5e89d0c91811163ef79ef0565fd7829ad322060e95f32",
-  "node": "039966a06f6de352dccdf91e53fb39d1371c51bbc8ce26ea996622f183822a21",
-  "odin": "5223ef68aafe36f804dfa75f07bb531fcd3ecf1e45958b92d6e8be6d7200acdf",
-  "perl": "daf1fc143e89300ff32c7deaebb6c979493b1cfce430b3bf56557e0d8b349426",
-  "php": "581f795a269386ae09885384513421496fb8526f42b9abd54a32ac6c69c6b6fd",
-  "protoc": "5a209c7614402d40c4bc99c67df39a8295002d5a50e22a6d2464ab4a84da8994",
-  "pypy": "45aa930a9ed9f92d3d70adc8ec8208cb9cd6192e39cd2862b02ab5cc7f1da004",
-  "python": "d537c8a60359ddedebd6d4b27dba3d1c72f7c4fa73f2e0fa5fced276901fe5e0",
-  "r": "f7b2e83a96dfd5572d5a064f172282efc4e5933ef1894cefca7c3c17342986be",
-  "ripgrep": "c082bd10c4b5727b93d612627771f798e28765e5adee86061e5837fbca4642f7",
-  "ruby": "085f3887efc862a9c2c3fb639b0c3a4eaf6dcd9f7dc28e86aa8c8343cafbe278",
-  "rust": "7e9943a9f9f6534f23f06266a07df03f88e356b4ebe18a8a3a78bfdb22fd6e9c",
-  "rustup": "754176db1bfd19ecca5d0641bc07eb94783fc0606c610a36815aa3e0ffaf4df8",
-  "scala": "8e4e8bfbb1416de8de2a851dad4e8fb8047416e4e93e6d6b09cfa6bb6f6761a3",
-  "sdkmanager": "c12c3b2d36e728ed4a81edfb38e3ff52ccd0c45a12f13398a5d59016cbaa8c9e",
-  "served": "10a8d01a570604ace762fd25cf65cc9543b89b6f944f46fb5dc27ab1a5eba2d8",
-  "tree-sitter": "d8c8a68edda6ccb2ae23b2876acf8eeb3f687034fa016e475046f84465c1a8ee",
-  "typst": "9ac29c3d82e40d765c6a60cda5682e430f6978f39dc4c972789562ccf2403c34",
-  "typst-lsp": "c986b9bd241dee52b98f529a193d2196256ddad1b0ae17b38f40152fa749759c",
-  "typst-preview": "bd7db4cf4758a2ab2edf0e880da6fab2d30813a89baba58291b88df9b1fb83f3",
-  "upx": "9d26f71df1d37893747ecf86d8131c9b3adf801774d77d0a09de7ddc6e95aceb",
-  "v": "82f81d55c46b7ea0443140a0307315ef30f8fb989115a1b33e3954c6a18a15bb",
-  "v-analyzer": "d5a96a24f064728b7220a62c887675dce4f12b6806e88fedb1c228b32e6dac7a",
-  "vhs": "d86e9b8711481f47fac9e45564cb9ed6b25090b86808558b47afa2b3dde6e26b",
-  "vscode": "c108aef168379c707df6879cc66885935256b3744d969eb406682224586a8187",
-  "zig": "ffac81e2dbd22eee8564b40d80e7c008ea9006dff7b3ca6250dc98250b6318a2",
-  "zls": "36918e1abd78b2ca978f34de3ce5225f4bbee6e870f94772b99af588db1381da"
+  "acast": {
+    "sha256": "4aa0d922d662d1462c1120c6048b55c4a7de2b51c3a23cb050395a2fae4ae29e",
+    "homepage": "https://asciinema.org/"
+  },
+  "bun": {
+    "sha256": "5ff717b2b6f3037f82109d6e00942a8874b1bc17caa465f70d5770661e0a92cc",
+    "homepage": "https://bun.sh/"
+  },
+  "clang": {
+    "sha256": "0b124b72f8a39770cef7df792b55485ff41ac33bc28cbf6a43f659bcf5bb6fcb",
+    "homepage": "https://clang.llvm.org/"
+  },
+  "cmake": {
+    "sha256": "1f695dc2dbf1fd4ad138da121b5866d9e6ac1e6b2266f0043ba71737e1dc9a98",
+    "homepage": "https://cmake.org/"
+  },
+  "codon": {
+    "sha256": "278fb9dc267f07079681d436ce93e5e27e4875a1ee9f5b8f5192c4cff1519080",
+    "homepage": "https://github.com/exaloop/codon"
+  },
+  "coursier": {
+    "sha256": "e5e838c7793f0c69d6f3908362be89fc15d413c76bde337bb6e3712c9c6d9e77",
+    "homepage": "https://get-coursier.io/docs/cli-overview"
+  },
+  "cygwin": {
+    "sha256": "34939546c754699364228f8b1fee5033370646ec983625733b4240eac90a71bb",
+    "homepage": "https://cygwin.com/"
+  },
+  "deno": {
+    "sha256": "26f2ad50806d93b6e1ca954e94ca54c4fee64595b8d91b65d936eb20606472cf",
+    "homepage": "https://deno.com/"
+  },
+  "dlang": {
+    "sha256": "5885e9a1f54d9b129a781cc5cd01e68e918aade286e1a60f9236793cedfbf260",
+    "homepage": "https://dlang.org/"
+  },
+  "dotnet": {
+    "sha256": "0e34b0c86ae23aa14b569df5eb86c3ef7b6f3d3f88209b4bb3b11207739e6be5",
+    "homepage": "https://dotnet.microsoft.com/"
+  },
+  "elixir": {
+    "sha256": "ccbae1f9c66c1dc2ddc1730b6d56db892de5c59a304efe26a5ac1ff9c608d651",
+    "homepage": "https://elixir-lang.org/"
+  },
+  "erlang": {
+    "sha256": "6d9dc6fef5903dc7546e663d8e027c33d3ac061b2eef1af7d3465a64cd5efa65",
+    "homepage": "https://www.erlang.org/"
+  },
+  "fd": {
+    "sha256": "6bd118e0faed066cd7bac01b30853866d869959b78dcf163105d6822f56a4d83",
+    "homepage": "https://github.com/sharkdp/fd"
+  },
+  "flutter": {
+    "sha256": "1a3c0221a130cfdfc215825f6215eea8dcac4518a315c5a3db2b601c7558bb42",
+    "homepage": "https://flutter.dev/"
+  },
+  "fzf": {
+    "sha256": "61870d80cc9f94f5e1d24b1a99a0b1f4f169a5b85a96cd5018be5d244a331162",
+    "homepage": "https://github.com/junegunn/fzf"
+  },
+  "gcc": {
+    "sha256": "08ebcfc276bf2983906669602818d0b6efc6b5266feffa112a4be1068708096e",
+    "homepage": "https://gcc.gnu.org/"
+  },
+  "git-win": {
+    "sha256": "adb6033a1230918f93a92afa6298d82e262a9a5c7a4f718b254cd2c0920d4780",
+    "homepage": "https://git-scm.com/"
+  },
+  "gleam": {
+    "sha256": "d481a50a3f738cd88c1517f8acf6764f7c075c8d9d5a445893cfeb055fc7714c",
+    "homepage": "https://gleam.run/"
+  },
+  "go": {
+    "sha256": "b64a86f18088dfe2ab0786f4e21c24967727680818b6bfb1e2067bcff1439d34",
+    "homepage": "https://go.dev/"
+  },
+  "gradle": {
+    "sha256": "98f0e04effbc0326008a9a57f82d31bf806cd785be4e8c7c81e372ee8316a79e",
+    "homepage": "https://gradle.org/"
+  },
+  "groovy": {
+    "sha256": "56dacde11c07b96ae0b591daa3bae3b78074dec16750a79dd5751167dfc7578c",
+    "homepage": "http://www.groovy-lang.org/"
+  },
+  "gsudo": {
+    "sha256": "b638164af17f12285d2482e2f27a4a8036416c08dd5fa8676d174319bfcf1e7c",
+    "homepage": "https://gerardog.github.io/gsudo/"
+  },
+  "jdk": {
+    "sha256": "c1a8e64a4148df8aedc696ba5f5ee268352cd2691fe1ea5ec1f4d3b01b526bad",
+    "homepage": "https://bell-sw.com/pages/downloads/"
+  },
+  "julia": {
+    "sha256": "cb04414174506473e7a262b012e2b5f7a1a1dbc4d63b7f2ab2793f7198032ee3",
+    "homepage": "https://julialang.org/"
+  },
+  "kotlin": {
+    "sha256": "9589fd582ab5db1ce1f0d4428fc83c85464b30664badbae9aa4e8db91b82e1c0",
+    "homepage": "https://kotlinlang.org/"
+  },
+  "kubectl": {
+    "sha256": "2927bef86f8814d30b7fef14f44c912cf09b9ba2b5a1c853bec75da87ed3bd0f",
+    "homepage": "https://kubernetes.io/docs/tasks/tools/"
+  },
+  "lazydocker": {
+    "sha256": "73ac4258c5a4c59dd9c40a099330269962dccc637ac90f2789036fd1dfcb5aef",
+    "homepage": "https://github.com/jesseduffield/lazydocker"
+  },
+  "lazygit": {
+    "sha256": "a635ed68fe5e00d5a8c02282aa28764df8e58e9671fa0e40d0d2bda42778f410",
+    "homepage": "https://github.com/jesseduffield/lazygit"
+  },
+  "lfortran": {
+    "sha256": "6cf2c0c3f867e1c038b645ca69d116fa78335b3d2d6fdd728a7fae68754ecd3e",
+    "homepage": "https://lfortran.org/"
+  },
+  "lua": {
+    "sha256": "7c6534230cab3dcb45c8ac7a183574220be528d2c0a82a69ec480f7fbb961270",
+    "homepage": "https://www.lua.org/"
+  },
+  "maven": {
+    "sha256": "f8d4e384641b8e80b37030d3b8181c1e86342163221c2ebd198b321866f2969b",
+    "homepage": "https://maven.apache.org/"
+  },
+  "miniconda": {
+    "sha256": "44417a941f23e5ea6e6655e682140dc8e2eb7f1cd9644633c58fc1c834e30c07",
+    "homepage": "https://docs.anaconda.com/free/miniconda/index.html"
+  },
+  "msys2": {
+    "sha256": "35c8445a8c3cb103ddb5e89d0c91811163ef79ef0565fd7829ad322060e95f32",
+    "homepage": "https://www.msys2.org/"
+  },
+  "node": {
+    "sha256": "039966a06f6de352dccdf91e53fb39d1371c51bbc8ce26ea996622f183822a21",
+    "homepage": "https://nodejs.org/en"
+  },
+  "odin": {
+    "sha256": "5223ef68aafe36f804dfa75f07bb531fcd3ecf1e45958b92d6e8be6d7200acdf",
+    "homepage": "http://odin-lang.org/"
+  },
+  "perl": {
+    "sha256": "f377553575032e7a0495d9db5cdc02ca78d15953ab999d4997e36a77762a0c33",
+    "homepage": "https://www.perl.org/"
+  },
+  "php": {
+    "sha256": "62f90bac49578efef75fb605a01c6a7f792ec972047015ba8ffeb05aa4b92a2e",
+    "homepage": "https://www.php.net/"
+  },
+  "protoc": {
+    "sha256": "73273433e1c49212d34795b2c68d1f599d566334ba90b7c01e5d9d9482b0e7ba",
+    "homepage": "https://protobuf.dev/"
+  },
+  "pypy": {
+    "sha256": "9502ad3f85584d181891e5a228eabb2c3f3350613394dc20a21287c76a571a08",
+    "homepage": "https://www.pypy.org/"
+  },
+  "python": {
+    "sha256": "ca144e7e2e21c3d4da72199b376d2184c9732b9aaf8fb522d4f1efcebcc10418",
+    "homepage": "https://www.python.org/"
+  },
+  "r": {
+    "sha256": "f7b2e83a96dfd5572d5a064f172282efc4e5933ef1894cefca7c3c17342986be",
+    "homepage": "https://www.r-project.org/"
+  },
+  "ripgrep": {
+    "sha256": "c082bd10c4b5727b93d612627771f798e28765e5adee86061e5837fbca4642f7",
+    "homepage": "https://github.com/BurntSushi/ripgrep"
+  },
+  "ruby": {
+    "sha256": "b10f726e0409d6d6ea35093557b8c9c9c34aead728095d80303a4ef22cd43f09",
+    "homepage": "https://www.ruby-lang.org/en/"
+  },
+  "rust": {
+    "sha256": "7748048ab845303853bc05db0a35dcb44f7bf3f0bc6fac35f19967b18fb5082b",
+    "homepage": "https://www.rust-lang.org/"
+  },
+  "rustup": {
+    "sha256": "754176db1bfd19ecca5d0641bc07eb94783fc0606c610a36815aa3e0ffaf4df8",
+    "homepage": "https://rustup.rs/"
+  },
+  "scala": {
+    "sha256": "8e4e8bfbb1416de8de2a851dad4e8fb8047416e4e93e6d6b09cfa6bb6f6761a3",
+    "homepage": "https://www.scala-lang.org/"
+  },
+  "sdkmanager": {
+    "sha256": "c12c3b2d36e728ed4a81edfb38e3ff52ccd0c45a12f13398a5d59016cbaa8c9e",
+    "homepage": "https://developer.android.com/studio"
+  },
+  "served": {
+    "sha256": "10a8d01a570604ace762fd25cf65cc9543b89b6f944f46fb5dc27ab1a5eba2d8",
+    "homepage": "https://github.com/Pure-D/serve-d"
+  },
+  "tree-sitter": {
+    "sha256": "d8c8a68edda6ccb2ae23b2876acf8eeb3f687034fa016e475046f84465c1a8ee",
+    "homepage": "https://tree-sitter.github.io/tree-sitter/"
+  },
+  "typst": {
+    "sha256": "421500728a88f6f9dbe7431a3ab282be2ff7fa36e012aa41d7b8f1283364a143",
+    "homepage": "https://typst.app/"
+  },
+  "typst-lsp": {
+    "sha256": "c986b9bd241dee52b98f529a193d2196256ddad1b0ae17b38f40152fa749759c",
+    "homepage": "https://github.com/nvarner/typst-lsp"
+  },
+  "typst-preview": {
+    "sha256": "bd7db4cf4758a2ab2edf0e880da6fab2d30813a89baba58291b88df9b1fb83f3",
+    "homepage": "https://enter-tainer.github.io/typst-preview/"
+  },
+  "upx": {
+    "sha256": "9d26f71df1d37893747ecf86d8131c9b3adf801774d77d0a09de7ddc6e95aceb",
+    "homepage": "https://upx.github.io/"
+  },
+  "v": {
+    "sha256": "82f81d55c46b7ea0443140a0307315ef30f8fb989115a1b33e3954c6a18a15bb",
+    "homepage": "https://vlang.io/"
+  },
+  "v-analyzer": {
+    "sha256": "d5a96a24f064728b7220a62c887675dce4f12b6806e88fedb1c228b32e6dac7a",
+    "homepage": "https://github.com/v-analyzer/v-analyzer"
+  },
+  "vhs": {
+    "sha256": "d86e9b8711481f47fac9e45564cb9ed6b25090b86808558b47afa2b3dde6e26b",
+    "homepage": "https://github.com/charmbracelet/vhs"
+  },
+  "vscode": {
+    "sha256": "c108aef168379c707df6879cc66885935256b3744d969eb406682224586a8187",
+    "homepage": "https://code.visualstudio.com/"
+  },
+  "zig": {
+    "sha256": "e11725f368f09c57382fc22dd3e91b4e1b3e4638ce12fb0cf235dcfde44beced",
+    "homepage": "https://ziglang.org/"
+  },
+  "zls": {
+    "sha256": "36918e1abd78b2ca978f34de3ce5225f4bbee6e870f94772b99af588db1381da",
+    "homepage": "https://github.com/zigtools/zls"
+  }
 }
