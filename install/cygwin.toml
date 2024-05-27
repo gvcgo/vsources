@@ -1,0 +1,16 @@
+flag_dir_excepted = false
+additional_envs = []
+
+[flag_files]
+windows = ['setup-x86_64.exe']
+linux = ['setup-x86_64.exe']
+darwin = ['setup-x86_64.exe']
+
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
+
+[binary_rename]
+name_flag = 'setup-x86_64'
+rename_to = 'cygwin-installer'
