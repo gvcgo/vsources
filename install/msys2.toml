@@ -1,0 +1,16 @@
+flag_dir_excepted = false
+additional_envs = []
+
+[flag_files]
+windows = ['msys2-x86_64-latest.exe']
+linux = ['msys2-x86_64-latest.exe']
+darwin = ['msys2-x86_64-latest.exe']
+
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
+
+[binary_rename]
+name_flag = 'msys2-x86_64-latest'
+rename_to = 'msys2-installer'
