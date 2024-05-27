@@ -1,0 +1,16 @@
+flag_dir_excepted = false
+
+[flag_files]
+windows = ['VERSION', 'LICENSE']
+linux = ['VERSION', 'LICENSE']
+darwin = ['VERSION', 'LICENSE']
+
+[binary_dirs]
+windows = [['bin']]
+linux = [['bin']]
+darwin = [['bin']]
+
+[[additional_envs]]
+Name = 'GOROOT'
+Value = []
+Version = ''
