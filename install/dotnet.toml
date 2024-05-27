@@ -1,0 +1,11 @@
+flag_dir_excepted = false
+
+[flag_files]
+windows = ['shared', 'sdk', 'host']
+linux = ['shared', 'sdk', 'host']
+darwin = ['shared', 'sdk', 'host']
+
+[[additional_envs]]
+Name = 'DOTNET_ROOT'
+Value = []
+Version = ''
