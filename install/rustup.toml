@@ -1,0 +1,12 @@
+flag_dir_excepted = false
+additional_envs = []
+
+[flag_files]
+windows = ['rustup.exe']
+linux = ['rustup']
+darwin = ['rustup']
+
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
