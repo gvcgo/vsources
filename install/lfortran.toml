@@ -1,1 +1,7 @@
-{"FlagFiles":null,"FlagDirExcepted":false,"BinaryDirs":{"Windows":[["Library","bin"]],"Linux":[["bin"]],"MacOS":[["bin"]]},"BinaryRename":null,"AdditionalEnvs":null}
+flag_dir_excepted = false
+additional_envs = []
+
+[binary_dirs]
+windows = [['Library', 'bin']]
+linux = [['bin']]
+darwin = [['bin']]
