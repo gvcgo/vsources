@@ -1,0 +1,12 @@
+flag_dir_excepted = true
+additional_envs = []
+
+[flag_files]
+windows = ['rg.exe']
+linux = ['rg']
+darwin = ['rg']
+
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
