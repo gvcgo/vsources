@@ -1,0 +1,12 @@
+flag_dir_excepted = false
+additional_envs = []
+
+[flag_files]
+windows = ['bin', 'cmd', 'usr']
+linux = []
+darwin = []
+
+[binary_dirs]
+windows = [['bin'], ['usr', 'bin'], ['cmd'], ['mingw64', 'bin']]
+linux = []
+darwin = []
