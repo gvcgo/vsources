@@ -1,0 +1,12 @@
+flag_dir_excepted = true
+additional_envs = []
+
+[flag_files]
+windows = ['bun.exe']
+linux = ['bun']
+darwin = ['bun']
+
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
