@@ -1,0 +1,12 @@
+flag_dir_excepted = false
+additional_envs = []
+
+[flag_files]
+windows = ['php.exe', 'lib']
+linux = ['bin', 'lib']
+darwin = ['bin', 'lib']
+
+[binary_dirs]
+windows = []
+linux = [['bin']]
+darwin = [['bin']]
