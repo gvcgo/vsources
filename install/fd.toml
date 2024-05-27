@@ -1,0 +1,12 @@
+flag_dir_excepted = true
+additional_envs = []
+
+[flag_files]
+windows = ['fd.1', 'README.md']
+linux = ['fd.1', 'README.md']
+darwin = ['fd.1', 'README.md']
+
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
