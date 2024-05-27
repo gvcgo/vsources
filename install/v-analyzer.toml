@@ -1,0 +1,12 @@
+flag_dir_excepted = true
+additional_envs = []
+
+[flag_files]
+windows = ['v-analyzer.exe']
+linux = ['v-analyzer']
+darwin = ['v-analyzer']
+
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
