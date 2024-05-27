@@ -1,0 +1,21 @@
+flag_dir_excepted = false
+
+[flag_files]
+windows = ['bin', 'lib', 'include']
+linux = ['bin', 'lib', 'include']
+darwin = ['bin', 'lib', 'include']
+
+[binary_dirs]
+windows = [['bin'], ['jre', 'bin']]
+linux = [['bin'], ['jre', 'bin']]
+darwin = [['bin'], ['jre', 'bin']]
+
+[[additional_envs]]
+Name = 'JAVA_HOME'
+Value = []
+Version = ''
+
+[[additional_envs]]
+Name = 'CLASSPATH'
+Value = [['lib', 'dt.jar'], ['lib', 'tools.jar'], ['jre', 'lib', 'rt.jar']]
+Version = 'major<=8'
