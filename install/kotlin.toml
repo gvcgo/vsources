@@ -1,0 +1,12 @@
+flag_dir_excepted = false
+additional_envs = []
+
+[flag_files]
+windows = ['bin', 'tools', 'klib']
+linux = ['bin', 'tools', 'klib']
+darwin = ['bin', 'tools', 'klib']
+
+[binary_dirs]
+windows = [['bin']]
+linux = [['bin']]
+darwin = [['bin']]
