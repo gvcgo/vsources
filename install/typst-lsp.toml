@@ -1,0 +1,16 @@
+flag_dir_excepted = true
+additional_envs = []
+
+[flag_files]
+windows = ['typst-lsp.exe']
+linux = ['typst-lsp']
+darwin = ['typst-lsp']
+
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
+
+[binary_rename]
+name_flag = 'typst-lsp'
+rename_to = 'typst-lsp'
