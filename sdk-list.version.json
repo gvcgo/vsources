@@ -10,7 +10,7 @@
     "install_conf_sha256": "231d6c21bd9e235b5f4d1d1d76a266de4f1424fdb73a542b77963381acee4dd6"
   },
   "clang": {
-    "sha256": "807ac91cf2b904c1a95a7e54207f44a550d5e9f9fbac62bc625aa86a51e1a053",
+    "sha256": "01a9582d841c99e5d1767cfc9c7facba6eab55201d0db7a0cb4a69b2d65cddc3",
     "homepage": "https://clang.llvm.org/",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
@@ -23,6 +23,11 @@
     "sha256": "278fb9dc267f07079681d436ce93e5e27e4875a1ee9f5b8f5192c4cff1519080",
     "homepage": "https://github.com/exaloop/codon",
     "install_conf_sha256": "83f48feeb60b474b7cd10d73e33091d7647bf94e030606803bd03f5b075a2443"
+  },
+  "conda-forge-pkgs": {
+    "sha256": "",
+    "homepage": "",
+    "install_conf_sha256": "d3c0e1203a409d0dcaf1db34736f16c1eebd031bab7cb981906727e0a12f3a3e"
   },
   "coursier": {
     "sha256": "e5e838c7793f0c69d6f3908362be89fc15d413c76bde337bb6e3712c9c6d9e77",
@@ -45,9 +50,9 @@
     "install_conf_sha256": "6bdcc2f57874cbf5fe74482c8d9b37b33f83f7b8d6ccba76cc6defde86800d6b"
   },
   "dotnet": {
-    "sha256": "fc282187e1673e31f5ed2acc8d25b6a2e00b47ecaa4e968a7ac530201b7b52be",
+    "sha256": "0e34b0c86ae23aa14b569df5eb86c3ef7b6f3d3f88209b4bb3b11207739e6be5",
     "homepage": "https://dotnet.microsoft.com/",
-    "install_conf_sha256": ""
+    "install_conf_sha256": "88edbe982cfd47369a7bbdbaa99191e34d5ab43ab3dd86425733fe0e9ac085f8"
   },
   "elixir": {
     "sha256": "db137c8e405c46b7d3e35450ede99cde2bd19e02496db69e5fe6a9d65617c122",
@@ -55,9 +60,9 @@
     "install_conf_sha256": "83f48feeb60b474b7cd10d73e33091d7647bf94e030606803bd03f5b075a2443"
   },
   "erlang": {
-    "sha256": "8d9efd4024895b0349c4cc70faa47fc7707bc46ef983e5fe4dac904afabfe2ad",
+    "sha256": "341c8eee7d1d330cd8320c23f3a08d5bbbe3e81cdd41f7e1163aca231ddc0abf",
     "homepage": "https://www.erlang.org/",
-    "install_conf_sha256": ""
+    "install_conf_sha256": "83f48feeb60b474b7cd10d73e33091d7647bf94e030606803bd03f5b075a2443"
   },
   "fd": {
     "sha256": "6bd118e0faed066cd7bac01b30853866d869959b78dcf163105d6822f56a4d83",
@@ -75,7 +80,7 @@
     "install_conf_sha256": "9b7426ed35c2eb845787baffc1f959dba73a93b83565bb27be29a16b884cbc80"
   },
   "gcc": {
-    "sha256": "76cbe981db350990860fe2055c1328cbc844dfdb577f01f8eae07feda81e08a7",
+    "sha256": "08ebcfc276bf2983906669602818d0b6efc6b5266feffa112a4be1068708096e",
     "homepage": "https://gcc.gnu.org/",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
@@ -87,7 +92,7 @@
   "gleam": {
     "sha256": "643b25412c493447d66593f13c43f49609ddfc9ff92d5b6f2d40b5ca0a0566a6",
     "homepage": "https://gleam.run/",
-    "install_conf_sha256": ""
+    "install_conf_sha256": "a046b2733ee5813148484de9e990bb3504764f4abd5d4f0ff562947cab673da7"
   },
   "go": {
     "sha256": "b64a86f18088dfe2ab0786f4e21c24967727680818b6bfb1e2067bcff1439d34",
@@ -140,12 +145,12 @@
     "install_conf_sha256": "05e7b63242ed7f2f4865fb47f533f5d74d4165db857b89f53915afaa8bd37170"
   },
   "lfortran": {
-    "sha256": "6cf2c0c3f867e1c038b645ca69d116fa78335b3d2d6fdd728a7fae68754ecd3e",
+    "sha256": "0a6e1e52b18301b79832476eb16305fd8f2e615f25095f9d93bfe6f8a99cab18",
     "homepage": "https://lfortran.org/",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "lua": {
-    "sha256": "6acb09afac4e4379c1f0bad0d0e1853bcd4fccb44d25babd8bf724151c089fbf",
+    "sha256": "7c6534230cab3dcb45c8ac7a183574220be528d2c0a82a69ec480f7fbb961270",
     "homepage": "https://www.lua.org/",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
@@ -175,14 +180,14 @@
     "install_conf_sha256": "e50db18ace71bf38c58a07ea4bc7fb9d83f64f199eb6a72b259c30f6af8d741b"
   },
   "perl": {
-    "sha256": "daf1fc143e89300ff32c7deaebb6c979493b1cfce430b3bf56557e0d8b349426",
+    "sha256": "f377553575032e7a0495d9db5cdc02ca78d15953ab999d4997e36a77762a0c33",
     "homepage": "https://www.perl.org/",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "php": {
-    "sha256": "ef44f179f3513386f0c2846fc0f071d1d064a7ffdbfd552f805685565c11b626",
+    "sha256": "581f795a269386ae09885384513421496fb8526f42b9abd54a32ac6c69c6b6fd",
     "homepage": "https://www.php.net/",
-    "install_conf_sha256": ""
+    "install_conf_sha256": "cf9685a5b337b624dfd7376da30086efe67b1a90e599b78b389248bfbbcad020"
   },
   "protoc": {
     "sha256": "73273433e1c49212d34795b2c68d1f599d566334ba90b7c01e5d9d9482b0e7ba",
@@ -200,7 +205,7 @@
     "install_conf_sha256": "0a0057516d296b71ca90087655857fcb33f3f30f9d8332acb365f067ceaa86a3"
   },
   "r": {
-    "sha256": "a3677dc67770aef1d4183085acf574f8ead68ad78a809fe5b27561bd020dbdd4",
+    "sha256": "f7b2e83a96dfd5572d5a064f172282efc4e5933ef1894cefca7c3c17342986be",
     "homepage": "https://www.r-project.org/",
     "install_conf_sha256": "b05a6291e7ea55101b2969fc3016565bc9e76604faf8d40b5196c9784a722c13"
   },
@@ -210,7 +215,7 @@
     "install_conf_sha256": "3c6af7b0c22a9c6cd9d9fbeb58db4520fd88ecfeae6d01c7fe82931cf8e570ad"
   },
   "ruby": {
-    "sha256": "ea18e8466dfb59da346a0f330d85b882e1f7492b55839124871c37bd6cd01408",
+    "sha256": "085f3887efc862a9c2c3fb639b0c3a4eaf6dcd9f7dc28e86aa8c8343cafbe278",
     "homepage": "https://www.ruby-lang.org/en/",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
@@ -245,7 +250,7 @@
     "install_conf_sha256": "473dd48cadbc1b4ec176a573b8fdd803f197727b9cfdb4ce552a2902c83e207f"
   },
   "typst": {
-    "sha256": "421500728a88f6f9dbe7431a3ab282be2ff7fa36e012aa41d7b8f1283364a143",
+    "sha256": "cddfb3c224459db01e5cac145f419d3e33dbbd3cb19db165a39b923eb3d612ad",
     "homepage": "https://typst.app/",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
@@ -285,7 +290,7 @@
     "install_conf_sha256": "596a8cc386e1e28bcadc6adf4983fa11bbc617b9637d97f53c680619d4e292cc"
   },
   "zig": {
-    "sha256": "8b4cb5433065356d2c5b7498983a64b31e1f8f53615dd11d16a1ad4d1f4f1e04",
+    "sha256": "d5432eb15f2d1e5621f26efc0b42314dbad0de072e4c63c48320a47a83f6649b",
     "homepage": "https://ziglang.org/",
     "install_conf_sha256": "cbd064a2b316c5ddd2586e3817f5ced8e581feb505600926561c5e98a5e7b4ff"
   },
