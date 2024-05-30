@@ -2006,6 +2006,63 @@
       "extra": ""
     }
   ],
+  "1.11.0-beta2": [
+    {
+      "url": "https://julialang-s3.julialang.org/bin/linux/x64/1.11/julia-1.11.0-beta2-linux-x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "e92ae1cebd519180881770cc9ab903d39c49c6bcb9c8251861e6eac9acd566a6",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/linux/aarch64/1.11/julia-1.11.0-beta2-linux-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "71f7c0135c3dae94c069b6ab391f8a4a05f857acea3f8d6da0352d00cb86d49b",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/mac/x64/1.11/julia-1.11.0-beta2-mac64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "cfb7c11f8434b0e280a0deb1cf66c54891636c3705850fab9db017eacb576c90",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/mac/aarch64/1.11/julia-1.11.0-beta2-macaarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "f56a3873e6e2c6520caef5c80991d57ed8d6e0ed68ba42541f2e86301478d3b0",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.11/julia-1.11.0-beta2-win64.tar.gz",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "c3f0d1325defef8c5cdfe393f7a431c03a4f955af700b95eef5f7f296d7bdf44",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "1.2.0": [
     {
       "url": "https://julialang-s3.julialang.org/bin/linux/x64/1.2/julia-1.2.0-linux-x86_64.tar.gz",
