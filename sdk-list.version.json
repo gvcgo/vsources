@@ -15,9 +15,14 @@
     "install_conf_sha256": "231d6c21bd9e235b5f4d1d1d76a266de4f1424fdb73a542b77963381acee4dd6"
   },
   "clang": {
-    "sha256": "01a9582d841c99e5d1767cfc9c7facba6eab55201d0db7a0cb4a69b2d65cddc3",
+    "sha256": "807ac91cf2b904c1a95a7e54207f44a550d5e9f9fbac62bc625aa86a51e1a053",
     "homepage": "https://clang.llvm.org/",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
+  },
+  "clojure": {
+    "sha256": "b1c4e3c2478629dfa2e70e69a8af1115c50f78dc8072199538813c8d02663bbe",
+    "homepage": "https://clojure.org/",
+    "install_conf_sha256": "f976a6ed593c6b8aea4b040bc5d38eab1f898ff71e5b23707c1f28326bfd3c1c"
   },
   "cmake": {
     "sha256": "1f695dc2dbf1fd4ad138da121b5866d9e6ac1e6b2266f0043ba71737e1dc9a98",
@@ -55,7 +60,7 @@
     "install_conf_sha256": "6bdcc2f57874cbf5fe74482c8d9b37b33f83f7b8d6ccba76cc6defde86800d6b"
   },
   "dotnet": {
-    "sha256": "f3f6d2c9ae530120b138056c527c18c3a8b5d6f328d5c1681fbd7e3ce6d86fb6",
+    "sha256": "99f11dd6e6e31e6aa311a71821b025a38108a565e310c3043f083a06737fdd2d",
     "homepage": "https://dotnet.microsoft.com/",
     "install_conf_sha256": "88edbe982cfd47369a7bbdbaa99191e34d5ab43ab3dd86425733fe0e9ac085f8"
   },
@@ -65,7 +70,7 @@
     "install_conf_sha256": "83f48feeb60b474b7cd10d73e33091d7647bf94e030606803bd03f5b075a2443"
   },
   "erlang": {
-    "sha256": "6d9dc6fef5903dc7546e663d8e027c33d3ac061b2eef1af7d3465a64cd5efa65",
+    "sha256": "341c8eee7d1d330cd8320c23f3a08d5bbbe3e81cdd41f7e1163aca231ddc0abf",
     "homepage": "https://www.erlang.org/",
     "install_conf_sha256": "83f48feeb60b474b7cd10d73e33091d7647bf94e030606803bd03f5b075a2443"
   },
@@ -90,7 +95,7 @@
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
   "git-win": {
-    "sha256": "adb6033a1230918f93a92afa6298d82e262a9a5c7a4f718b254cd2c0920d4780",
+    "sha256": "31b2c7c60dfb9d597a037ef1d3e0be743b8117c960a4db3afbc311413b65add3",
     "homepage": "https://git-scm.com/",
     "install_conf_sha256": "84197e7d53a8f1298580fba58e43295a5dfaa0f1df147558b73681c620035a75"
   },
@@ -180,7 +185,7 @@
     "install_conf_sha256": "81595ddd30cb277c10e5bc2e460b6a2642bce046738f9f778b4164723f925d9b"
   },
   "nim": {
-    "sha256": "e129645d5abd725209adf8f0e2142ddff7d32001b09621a196b30162ac752c87",
+    "sha256": "490397f688bdfb4c4fa64790c9f6aa99f8ae74d13f2b86591c33bc7a5dec5af8",
     "homepage": "https://nim-lang.org/",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
@@ -200,7 +205,7 @@
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "php": {
-    "sha256": "cae390a6b62522ad743abf2020784776823bb2857030ae78e6f1f86dc41de0ff",
+    "sha256": "05eb3e3a1fe82c992cde0233dcb7fc983db7efa55752751dc280952689f1aa37",
     "homepage": "https://www.php.net/",
     "install_conf_sha256": "cf9685a5b337b624dfd7376da30086efe67b1a90e599b78b389248bfbbcad020"
   },
@@ -210,7 +215,7 @@
     "install_conf_sha256": "a2f9fc89c4a504d2de0500c117efa74f3e1fb3c2a20df93b51701536e1631bfe"
   },
   "pypy": {
-    "sha256": "ac3bbc89b0a1d7d3604896952d7a97e8cd492b977aece795ef746df4987291fe",
+    "sha256": "9502ad3f85584d181891e5a228eabb2c3f3350613394dc20a21287c76a571a08",
     "homepage": "https://www.pypy.org/",
     "install_conf_sha256": "0a0057516d296b71ca90087655857fcb33f3f30f9d8332acb365f067ceaa86a3"
   },
@@ -220,7 +225,7 @@
     "install_conf_sha256": "0a0057516d296b71ca90087655857fcb33f3f30f9d8332acb365f067ceaa86a3"
   },
   "r": {
-    "sha256": "10e153ec6d2629f4e093e9feb2941af1d106f33e30d079abf317d099de386834",
+    "sha256": "f7b2e83a96dfd5572d5a064f172282efc4e5933ef1894cefca7c3c17342986be",
     "homepage": "https://www.r-project.org/",
     "install_conf_sha256": "b05a6291e7ea55101b2969fc3016565bc9e76604faf8d40b5196c9784a722c13"
   },
@@ -230,12 +235,12 @@
     "install_conf_sha256": "3c6af7b0c22a9c6cd9d9fbeb58db4520fd88ecfeae6d01c7fe82931cf8e570ad"
   },
   "ruby": {
-    "sha256": "b10f726e0409d6d6ea35093557b8c9c9c34aead728095d80303a4ef22cd43f09",
+    "sha256": "762b9c8e38468a63175da051e7e22ef57b6e66e7ae403aa1f328c0348e599b76",
     "homepage": "https://www.ruby-lang.org/en/",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
   "rust": {
-    "sha256": "63832b90784f570e6d5abea9b7c3b96efc12d6d514d2028946683dbd36f12dbb",
+    "sha256": "7748048ab845303853bc05db0a35dcb44f7bf3f0bc6fac35f19967b18fb5082b",
     "homepage": "https://www.rust-lang.org/",
     "install_conf_sha256": "06e02bfe19b5639e69e3cda0a9b8516fc29d052bb15b9a2446a960817ba508ca"
   },
@@ -265,7 +270,7 @@
     "install_conf_sha256": "473dd48cadbc1b4ec176a573b8fdd803f197727b9cfdb4ce552a2902c83e207f"
   },
   "typst": {
-    "sha256": "421500728a88f6f9dbe7431a3ab282be2ff7fa36e012aa41d7b8f1283364a143",
+    "sha256": "cddfb3c224459db01e5cac145f419d3e33dbbd3cb19db165a39b923eb3d612ad",
     "homepage": "https://typst.app/",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
@@ -305,7 +310,7 @@
     "install_conf_sha256": "596a8cc386e1e28bcadc6adf4983fa11bbc617b9637d97f53c680619d4e292cc"
   },
   "zig": {
-    "sha256": "6a92dd63fe4913b570ba004c5e239f0977577905903b9d7a49f476883c237fd7",
+    "sha256": "ebe0dce9faf2491a5faca5340d5350735bb5a1b22dd2f14df0197972b79d6627",
     "homepage": "https://ziglang.org/",
     "install_conf_sha256": "cbd064a2b316c5ddd2586e3817f5ced8e581feb505600926561c5e98a5e7b4ff"
   },
