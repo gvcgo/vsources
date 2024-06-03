@@ -2,9 +2,9 @@ flag_dir_excepted = true
 additional_envs = []
 
 [flag_files]
-windows = ['clojure', 'clj']
-linux = ['clojure', 'clj']
-darwin = ['clojure', 'clj']
+windows = ['deps.edn', 'example-deps.edn']
+linux = ['deps.edn', 'example-deps.edn']
+darwin = ['deps.edn', 'example-deps.edn']
 
 [binary_dirs]
 windows = [['bin']]
