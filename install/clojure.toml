@@ -1,0 +1,12 @@
+flag_dir_excepted = true
+additional_envs = []
+
+[flag_files]
+windows = ['clojure', 'clj']
+linux = ['clojure', 'clj']
+darwin = ['clojure', 'clj']
+
+[binary_dirs]
+windows = [['bin']]
+linux = [['bin']]
+darwin = [['bin']]
