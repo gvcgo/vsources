@@ -2882,7 +2882,7 @@
     {
       "url": "",
       "arch": "amd64",
-      "os": "darwin",
+      "os": "linux",
       "sum": "",
       "sum_type": "",
       "size": 0,
@@ -2893,7 +2893,7 @@
     {
       "url": "",
       "arch": "amd64",
-      "os": "linux",
+      "os": "darwin",
       "sum": "",
       "sum_type": "",
       "size": 0,
@@ -2995,7 +2995,7 @@
     {
       "url": "",
       "arch": "amd64",
-      "os": "darwin",
+      "os": "linux",
       "sum": "",
       "sum_type": "",
       "size": 0,
@@ -3006,7 +3006,7 @@
     {
       "url": "",
       "arch": "amd64",
-      "os": "linux",
+      "os": "darwin",
       "sum": "",
       "sum_type": "",
       "size": 0,
@@ -3134,7 +3134,7 @@
     {
       "url": "",
       "arch": "amd64",
-      "os": "darwin",
+      "os": "linux",
       "sum": "",
       "sum_type": "",
       "size": 0,
@@ -3145,7 +3145,7 @@
     {
       "url": "",
       "arch": "amd64",
-      "os": "linux",
+      "os": "darwin",
       "sum": "",
       "sum_type": "",
       "size": 0,
@@ -3169,17 +3169,6 @@
     {
       "url": "",
       "arch": "amd64",
-      "os": "darwin",
-      "sum": "",
-      "sum_type": "",
-      "size": 0,
-      "installer": "conda",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "",
-      "arch": "amd64",
       "os": "linux",
       "sum": "",
       "sum_type": "",
@@ -3192,6 +3181,17 @@
       "url": "",
       "arch": "arm64",
       "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 0,
+      "installer": "conda",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "",
+      "arch": "amd64",
+      "os": "darwin",
       "sum": "",
       "sum_type": "",
       "size": 0,
@@ -3215,17 +3215,6 @@
     {
       "url": "",
       "arch": "amd64",
-      "os": "darwin",
-      "sum": "",
-      "sum_type": "",
-      "size": 0,
-      "installer": "conda",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "",
-      "arch": "amd64",
       "os": "linux",
       "sum": "",
       "sum_type": "",
@@ -3238,6 +3227,17 @@
       "url": "",
       "arch": "arm64",
       "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 0,
+      "installer": "conda",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "",
+      "arch": "amd64",
+      "os": "darwin",
       "sum": "",
       "sum_type": "",
       "size": 0,
@@ -3452,6 +3452,19 @@
       "extra": ""
     }
   ],
+  "8.2.19": [
+    {
+      "url": "https://windows.php.net/downloads/releases/archives/php-8.2.19-Win32-vs16-x64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "8.2.2": [
     {
       "url": "https://windows.php.net/downloads/releases/archives/php-8.2.2-Win32-vs16-x64.zip",
@@ -3624,6 +3637,19 @@
   "8.3.6": [
     {
       "url": "https://windows.php.net/downloads/releases/archives/php-8.3.6-Win32-vs16-x64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "8.3.7": [
+    {
+      "url": "https://windows.php.net/downloads/releases/archives/php-8.3.7-Win32-vs16-x64.zip",
       "arch": "amd64",
       "os": "windows",
       "sum": "",
