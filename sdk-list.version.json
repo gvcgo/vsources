@@ -15,7 +15,7 @@
     "install_conf_sha256": "231d6c21bd9e235b5f4d1d1d76a266de4f1424fdb73a542b77963381acee4dd6"
   },
   "clang": {
-    "sha256": "9091ef141ec0a2b52b87415f5f62712d38ca64b9e8527d6f8efad848b0f16cae",
+    "sha256": "986e11be434c09216ae2d6198446219b572d73da19d9043c69ec3ecf5b5dbf7a",
     "homepage": "https://clang.llvm.org/",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
@@ -78,6 +78,11 @@
     "sha256": "6bd118e0faed066cd7bac01b30853866d869959b78dcf163105d6822f56a4d83",
     "homepage": "https://github.com/sharkdp/fd",
     "install_conf_sha256": "a893e7ff7a7c685bae4dbd06acbcc78b1b7bad6d980a2d022793373449def7a0"
+  },
+  "ffmpeg": {
+    "sha256": "68bd297249910c1d801393353c80951f091ce39d851affb6b2bb95486c03e0e7",
+    "homepage": "https://ffmpeg.org/",
+    "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "flutter": {
     "sha256": "376c817e8c67dc49010ac5fcb1efbad059a3ef37b6a10f83c3c5db1e6fac5391",
@@ -155,12 +160,12 @@
     "install_conf_sha256": "05e7b63242ed7f2f4865fb47f533f5d74d4165db857b89f53915afaa8bd37170"
   },
   "lfortran": {
-    "sha256": "446c44ecae5b716c5d2c4f2d7f5cd1fd175b84f551b85bc30b62dc7afc21d8cc",
+    "sha256": "aedfd0c112d8569cec6638bf9caf24e0dd58a0d77ffe2c7c1472f013d2e3f3b4",
     "homepage": "https://lfortran.org/",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "lua": {
-    "sha256": "6acb09afac4e4379c1f0bad0d0e1853bcd4fccb44d25babd8bf724151c089fbf",
+    "sha256": "d77e301e8506f436284d4428975d509178f86527d1c4e7dfb3d2e8e5377ed65a",
     "homepage": "https://www.lua.org/",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
@@ -185,7 +190,7 @@
     "install_conf_sha256": "81595ddd30cb277c10e5bc2e460b6a2642bce046738f9f778b4164723f925d9b"
   },
   "nim": {
-    "sha256": "e129645d5abd725209adf8f0e2142ddff7d32001b09621a196b30162ac752c87",
+    "sha256": "490397f688bdfb4c4fa64790c9f6aa99f8ae74d13f2b86591c33bc7a5dec5af8",
     "homepage": "https://nim-lang.org/",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
@@ -200,12 +205,12 @@
     "install_conf_sha256": "e50db18ace71bf38c58a07ea4bc7fb9d83f64f199eb6a72b259c30f6af8d741b"
   },
   "perl": {
-    "sha256": "f377553575032e7a0495d9db5cdc02ca78d15953ab999d4997e36a77762a0c33",
+    "sha256": "27cdc0061d4fa611c776d17f5f57b66f75a2bc1a0383c2e56065d77596cd5850",
     "homepage": "https://www.perl.org/",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "php": {
-    "sha256": "5d9d529b55fcd2eb5eb98b48fc202f3a7e5dda1ac6d9e7a4bfd3ff59062babd7",
+    "sha256": "551ac1ad82ddb8f53c0a3128df4761133abc1f82671f7991c339973984686ec4",
     "homepage": "https://www.php.net/",
     "install_conf_sha256": "cf9685a5b337b624dfd7376da30086efe67b1a90e599b78b389248bfbbcad020"
   },
@@ -215,17 +220,17 @@
     "install_conf_sha256": "a2f9fc89c4a504d2de0500c117efa74f3e1fb3c2a20df93b51701536e1631bfe"
   },
   "pypy": {
-    "sha256": "985a5045528571ad0e7fe0470fe7ab41ecb714131c1025bae8f15d094a418adc",
+    "sha256": "9502ad3f85584d181891e5a228eabb2c3f3350613394dc20a21287c76a571a08",
     "homepage": "https://www.pypy.org/",
     "install_conf_sha256": "19864a76f84fbac114fa1ac02f84eeef451c33fe5008884e0f62c5a6824044ed"
   },
   "python": {
-    "sha256": "d537c8a60359ddedebd6d4b27dba3d1c72f7c4fa73f2e0fa5fced276901fe5e0",
+    "sha256": "ca144e7e2e21c3d4da72199b376d2184c9732b9aaf8fb522d4f1efcebcc10418",
     "homepage": "https://www.python.org/",
     "install_conf_sha256": "19864a76f84fbac114fa1ac02f84eeef451c33fe5008884e0f62c5a6824044ed"
   },
   "r": {
-    "sha256": "10e153ec6d2629f4e093e9feb2941af1d106f33e30d079abf317d099de386834",
+    "sha256": "f7b2e83a96dfd5572d5a064f172282efc4e5933ef1894cefca7c3c17342986be",
     "homepage": "https://www.r-project.org/",
     "install_conf_sha256": "b05a6291e7ea55101b2969fc3016565bc9e76604faf8d40b5196c9784a722c13"
   },
@@ -235,7 +240,7 @@
     "install_conf_sha256": "3c6af7b0c22a9c6cd9d9fbeb58db4520fd88ecfeae6d01c7fe82931cf8e570ad"
   },
   "ruby": {
-    "sha256": "b10f726e0409d6d6ea35093557b8c9c9c34aead728095d80303a4ef22cd43f09",
+    "sha256": "762b9c8e38468a63175da051e7e22ef57b6e66e7ae403aa1f328c0348e599b76",
     "homepage": "https://www.ruby-lang.org/en/",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
@@ -270,7 +275,7 @@
     "install_conf_sha256": "473dd48cadbc1b4ec176a573b8fdd803f197727b9cfdb4ce552a2902c83e207f"
   },
   "typst": {
-    "sha256": "421500728a88f6f9dbe7431a3ab282be2ff7fa36e012aa41d7b8f1283364a143",
+    "sha256": "27ec6efeb1511758a3a11f51a79beea99c05cc6efa2f87108779c7732a25e22b",
     "homepage": "https://typst.app/",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
