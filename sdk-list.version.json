@@ -15,7 +15,7 @@
     "install_conf_sha256": "231d6c21bd9e235b5f4d1d1d76a266de4f1424fdb73a542b77963381acee4dd6"
   },
   "clang": {
-    "sha256": "02630905a050473d24f4ddfbccb853a32ef83b7351e134a9ed38f17002e089bc",
+    "sha256": "bac6b2b12d548cc04197ee13079ce6e4a15ac26d453d94cf4be6b7f20eaca63a",
     "homepage": "https://clang.llvm.org/",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
@@ -50,7 +50,7 @@
     "install_conf_sha256": "204956b56d275f5fe3ab067de5011de89f7d192a7e8eac0602923bb72d61be08"
   },
   "deno": {
-    "sha256": "35d4f147511c4957eb4d7402529922143b021e9d3abe70a5886e022b2ec98fb2",
+    "sha256": "079fe7b426a3b7d9337429fd7d083f796cbb7839f7275ff3e1b70eb35592ec8d",
     "homepage": "https://deno.com/",
     "install_conf_sha256": "71ec0dd15ec0eb1359dc7bda2a035c8e2fa4974c9060905f158fee9aea151885"
   },
@@ -60,7 +60,7 @@
     "install_conf_sha256": "6bdcc2f57874cbf5fe74482c8d9b37b33f83f7b8d6ccba76cc6defde86800d6b"
   },
   "dotnet": {
-    "sha256": "cc0f315ee922ef4f0736f0613199bf78c9b77d802be31fac3f65d4eb110db13d",
+    "sha256": "36f1242764837c53d5ce2764ac7da0b8bfcdbcca40296d1ab219892dcfba06a8",
     "homepage": "https://dotnet.microsoft.com/",
     "install_conf_sha256": "88edbe982cfd47369a7bbdbaa99191e34d5ab43ab3dd86425733fe0e9ac085f8"
   },
@@ -70,7 +70,7 @@
     "install_conf_sha256": "83f48feeb60b474b7cd10d73e33091d7647bf94e030606803bd03f5b075a2443"
   },
   "erlang": {
-    "sha256": "6d9dc6fef5903dc7546e663d8e027c33d3ac061b2eef1af7d3465a64cd5efa65",
+    "sha256": "341c8eee7d1d330cd8320c23f3a08d5bbbe3e81cdd41f7e1163aca231ddc0abf",
     "homepage": "https://www.erlang.org/",
     "install_conf_sha256": "83f48feeb60b474b7cd10d73e33091d7647bf94e030606803bd03f5b075a2443"
   },
@@ -80,7 +80,7 @@
     "install_conf_sha256": "a893e7ff7a7c685bae4dbd06acbcc78b1b7bad6d980a2d022793373449def7a0"
   },
   "ffmpeg": {
-    "sha256": "269afa385988c95c3680169b4c10fe068fc0b40801a700044e3e75d1599c58d5",
+    "sha256": "68bd297249910c1d801393353c80951f091ce39d851affb6b2bb95486c03e0e7",
     "homepage": "https://ffmpeg.org/",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
@@ -160,12 +160,12 @@
     "install_conf_sha256": "05e7b63242ed7f2f4865fb47f533f5d74d4165db857b89f53915afaa8bd37170"
   },
   "lfortran": {
-    "sha256": "577416c43f7e4541181251a9aceb2d2d30c9389dd02296fb1a9f55e0544c984f",
+    "sha256": "aedfd0c112d8569cec6638bf9caf24e0dd58a0d77ffe2c7c1472f013d2e3f3b4",
     "homepage": "https://lfortran.org/",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "lua": {
-    "sha256": "d77e301e8506f436284d4428975d509178f86527d1c4e7dfb3d2e8e5377ed65a",
+    "sha256": "6acb09afac4e4379c1f0bad0d0e1853bcd4fccb44d25babd8bf724151c089fbf",
     "homepage": "https://www.lua.org/",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
@@ -210,7 +210,7 @@
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "php": {
-    "sha256": "fd087d372bc7e6ba8d078c87e7da2a0e9b3c30a9247a65bcf7ba441fa49cce46",
+    "sha256": "5d9d529b55fcd2eb5eb98b48fc202f3a7e5dda1ac6d9e7a4bfd3ff59062babd7",
     "homepage": "https://www.php.net/",
     "install_conf_sha256": "cf9685a5b337b624dfd7376da30086efe67b1a90e599b78b389248bfbbcad020"
   },
@@ -220,17 +220,17 @@
     "install_conf_sha256": "a2f9fc89c4a504d2de0500c117efa74f3e1fb3c2a20df93b51701536e1631bfe"
   },
   "pypy": {
-    "sha256": "ac3bbc89b0a1d7d3604896952d7a97e8cd492b977aece795ef746df4987291fe",
+    "sha256": "45aa930a9ed9f92d3d70adc8ec8208cb9cd6192e39cd2862b02ab5cc7f1da004",
     "homepage": "https://www.pypy.org/",
     "install_conf_sha256": "19864a76f84fbac114fa1ac02f84eeef451c33fe5008884e0f62c5a6824044ed"
   },
   "python": {
-    "sha256": "ca144e7e2e21c3d4da72199b376d2184c9732b9aaf8fb522d4f1efcebcc10418",
+    "sha256": "86e9055a366169c528d50509aedc5320e1ef573881e998c9a7bab8e1ed6707a7",
     "homepage": "https://www.python.org/",
     "install_conf_sha256": "19864a76f84fbac114fa1ac02f84eeef451c33fe5008884e0f62c5a6824044ed"
   },
   "r": {
-    "sha256": "f7b2e83a96dfd5572d5a064f172282efc4e5933ef1894cefca7c3c17342986be",
+    "sha256": "aff628b6c655551c58fa6020b0781a61633c0f1139eb68b7ec77a9e1a54dbd04",
     "homepage": "https://www.r-project.org/",
     "install_conf_sha256": "b05a6291e7ea55101b2969fc3016565bc9e76604faf8d40b5196c9784a722c13"
   },
@@ -240,12 +240,12 @@
     "install_conf_sha256": "3c6af7b0c22a9c6cd9d9fbeb58db4520fd88ecfeae6d01c7fe82931cf8e570ad"
   },
   "ruby": {
-    "sha256": "49316e7d7c06bf86ac2e8dab2e28bed70d0a25956ea6f1acafdfae7799abc60b",
+    "sha256": "b10f726e0409d6d6ea35093557b8c9c9c34aead728095d80303a4ef22cd43f09",
     "homepage": "https://www.ruby-lang.org/en/",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
   "rust": {
-    "sha256": "7748048ab845303853bc05db0a35dcb44f7bf3f0bc6fac35f19967b18fb5082b",
+    "sha256": "60999a72821ea71069eed473cf0c00a3d8980427104b6b90876f0579cb360f3b",
     "homepage": "https://www.rust-lang.org/",
     "install_conf_sha256": "06e02bfe19b5639e69e3cda0a9b8516fc29d052bb15b9a2446a960817ba508ca"
   },
@@ -275,7 +275,7 @@
     "install_conf_sha256": "473dd48cadbc1b4ec176a573b8fdd803f197727b9cfdb4ce552a2902c83e207f"
   },
   "typst": {
-    "sha256": "27ec6efeb1511758a3a11f51a79beea99c05cc6efa2f87108779c7732a25e22b",
+    "sha256": "9ac29c3d82e40d765c6a60cda5682e430f6978f39dc4c972789562ccf2403c34",
     "homepage": "https://typst.app/",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
@@ -315,7 +315,7 @@
     "install_conf_sha256": "596a8cc386e1e28bcadc6adf4983fa11bbc617b9637d97f53c680619d4e292cc"
   },
   "zig": {
-    "sha256": "3bedc93398301de738f7f9ea32129f0fe0f5b37b5b9cdece00356852fd28376b",
+    "sha256": "6c697bd3192320a2b1aaa3134b7cffc14edbc2691368698c4afa377efc1bcfcb",
     "homepage": "https://ziglang.org/",
     "install_conf_sha256": "cbd064a2b316c5ddd2586e3817f5ced8e581feb505600926561c5e98a5e7b4ff"
   },
