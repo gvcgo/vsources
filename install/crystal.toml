@@ -1,0 +1,12 @@
+flag_dir_excepted = false
+additional_envs = []
+
+[flag_files]
+windows = ['lib', 'crystal.exe']
+linux = ['bin', 'lib']
+darwin = ['bin', 'src']
+
+[binary_dirs]
+windows = []
+linux = [['bin']]
+darwin = [['bin']]
