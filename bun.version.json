@@ -1588,34 +1588,12 @@
   ],
   "0.1.2": [
     {
-      "url": "https://github.com/oven-sh/bun/releases/download/bun-v0.1.2/bun-darwin-aarch64.dSYM.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "",
-      "sum_type": "",
-      "size": 16132439,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://github.com/oven-sh/bun/releases/download/bun-v0.1.2/bun-darwin-aarch64.zip",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "",
-      "sum_type": "",
-      "size": 13067841,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://github.com/oven-sh/bun/releases/download/bun-v0.1.2/bun-darwin-x64.dSYM.tar.gz",
+      "url": "https://github.com/oven-sh/bun/releases/download/bun-v0.1.2/bun-linux-x64.zip",
       "arch": "amd64",
-      "os": "darwin",
+      "os": "linux",
       "sum": "",
       "sum_type": "",
-      "size": 18069148,
+      "size": 29871747,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
@@ -1632,12 +1610,34 @@
       "extra": ""
     },
     {
-      "url": "https://github.com/oven-sh/bun/releases/download/bun-v0.1.2/bun-linux-x64.zip",
+      "url": "https://github.com/oven-sh/bun/releases/download/bun-v0.1.2/bun-darwin-x64.dSYM.tar.gz",
       "arch": "amd64",
-      "os": "linux",
+      "os": "darwin",
       "sum": "",
       "sum_type": "",
-      "size": 29871747,
+      "size": 18069148,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/oven-sh/bun/releases/download/bun-v0.1.2/bun-darwin-aarch64.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 13067841,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/oven-sh/bun/releases/download/bun-v0.1.2/bun-darwin-aarch64.dSYM.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 16132439,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
@@ -5715,6 +5715,63 @@
       "sum": "",
       "sum_type": "",
       "size": 35989731,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "1.1.14": [
+    {
+      "url": "https://github.com/oven-sh/bun/releases/download/bun-v1.1.14/bun-darwin-aarch64.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 18471782,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/oven-sh/bun/releases/download/bun-v1.1.14/bun-darwin-x64.zip",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 20528360,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/oven-sh/bun/releases/download/bun-v1.1.14/bun-linux-aarch64.zip",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 34186628,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/oven-sh/bun/releases/download/bun-v1.1.14/bun-linux-x64.zip",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 35583296,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/oven-sh/bun/releases/download/bun-v1.1.14/bun-windows-x64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 36058027,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
