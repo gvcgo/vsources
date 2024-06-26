@@ -1682,23 +1682,23 @@
   ],
   "11.0.7.0_10": [
     {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.7+10/bellsoft-jdk11.0.7+10-linux-amd64-full.tar.gz",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "31a27ccecfff0cddb48bd7e65a21a66bfd923bdd",
-      "sum_type": "sha1",
-      "size": 294585556,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": "11.0.7+10"
-    },
-    {
       "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.7+10/bellsoft-jdk11.0.7+10-macos-amd64-full.zip",
       "arch": "amd64",
       "os": "darwin",
       "sum": "27df6d1ecf245baac0666fc641875eda3f61dc95",
       "sum_type": "sha1",
       "size": 279835526,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "11.0.7+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.7+10/bellsoft-jdk11.0.7+10-linux-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "31a27ccecfff0cddb48bd7e65a21a66bfd923bdd",
+      "sum_type": "sha1",
+      "size": 294585556,
       "installer": "unarchiver",
       "lts": "1",
       "extra": "11.0.7+10"
@@ -5660,12 +5660,12 @@
   ],
   "8.0.252.0_9": [
     {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/8u252+9/bellsoft-jdk8u252+9-linux-amd64-full.tar.gz",
+      "url": "https://github.com/bell-sw/Liberica/releases/download/8u252+9/bellsoft-jdk8u252+9-windows-amd64-full.zip",
       "arch": "amd64",
-      "os": "linux",
-      "sum": "b77f2b6b6f261842b0c1085153dea8199681a3fb",
+      "os": "windows",
+      "sum": "4db2e397932dc7db2fb645e7bc27c61c59e74e7d",
       "sum_type": "sha1",
-      "size": 145949674,
+      "size": 140011667,
       "installer": "unarchiver",
       "lts": "1",
       "extra": "8u252+9"
@@ -5682,12 +5682,12 @@
       "extra": "8u252+9"
     },
     {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/8u252+9/bellsoft-jdk8u252+9-windows-amd64-full.zip",
+      "url": "https://github.com/bell-sw/Liberica/releases/download/8u252+9/bellsoft-jdk8u252+9-linux-amd64-full.tar.gz",
       "arch": "amd64",
-      "os": "windows",
-      "sum": "4db2e397932dc7db2fb645e7bc27c61c59e74e7d",
+      "os": "linux",
+      "sum": "b77f2b6b6f261842b0c1085153dea8199681a3fb",
       "sum_type": "sha1",
-      "size": 140011667,
+      "size": 145949674,
       "installer": "unarchiver",
       "lts": "1",
       "extra": "8u252+9"
