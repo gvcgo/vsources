@@ -100,7 +100,7 @@
     "install_conf_sha256": "9b7426ed35c2eb845787baffc1f959dba73a93b83565bb27be29a16b884cbc80"
   },
   "gcc": {
-    "sha256": "9ad0a1354b35b55089422a762cb46a105cc6c19d02334c3fc06775e05c21683f",
+    "sha256": "2cdbadbce236bba13e93f92ab076ad9a00a0a66de72e2a0a33d261c95c21bcdb",
     "homepage": "https://gcc.gnu.org/",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
@@ -189,6 +189,11 @@
     "homepage": "https://www.msys2.org/",
     "install_conf_sha256": "ea9f659bb9e884ee39b131003748cd8e656cb77a7190cc09867d7da68cb66d5c"
   },
+  "mysql": {
+    "sha256": "095bedc565e519739c4d28beeb5649270a2b4a3c641e814c392bad2ab7a59e45",
+    "homepage": "https://www.mysql.com/",
+    "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
+  },
   "neovim": {
     "sha256": "e78af60d984c0cc467cc7afc885ff406348412b28f442b2c13e7e78a2c726746",
     "homepage": "https://neovim.io/",
@@ -219,6 +224,11 @@
     "homepage": "https://www.php.net/",
     "install_conf_sha256": "cf9685a5b337b624dfd7376da30086efe67b1a90e599b78b389248bfbbcad020"
   },
+  "postgresql": {
+    "sha256": "cda6f4c53d995beaacbc532b1ed581511d3952d00ee0993374446368ad963509",
+    "homepage": "https://www.postgresql.org/",
+    "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
+  },
   "protoc": {
     "sha256": "e3566ce803b3d11f70d02714e4a19f56a6238d1f7156b3c921c1a542f44db998",
     "homepage": "https://protobuf.dev/",
@@ -245,7 +255,7 @@
     "install_conf_sha256": "3c6af7b0c22a9c6cd9d9fbeb58db4520fd88ecfeae6d01c7fe82931cf8e570ad"
   },
   "ruby": {
-    "sha256": "b10f726e0409d6d6ea35093557b8c9c9c34aead728095d80303a4ef22cd43f09",
+    "sha256": "6450961694ec008760669cec195757315fc51819675e6c6c2a5bf6c95fc66a38",
     "homepage": "https://www.ruby-lang.org/en/",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
