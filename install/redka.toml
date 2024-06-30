@@ -1,0 +1,12 @@
+flag_dir_excepted = true
+additional_envs = []
+
+[flag_files]
+windows = ['redka.exe']
+linux = ['redka']
+darwin = ['redka']
+
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
