@@ -1,0 +1,12 @@
+flag_dir_excepted = true
+additional_envs = []
+
+[flag_files]
+windows = ['GarnetServer.exe']
+linux = ['GarnetServer']
+darwin = ['GarnetServer']
+
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
