@@ -65,7 +65,7 @@
     "install_conf_sha256": "6bdcc2f57874cbf5fe74482c8d9b37b33f83f7b8d6ccba76cc6defde86800d6b"
   },
   "dotnet": {
-    "sha256": "8a145a07824ed84e271231d47276931e03c6f82319b44332fd4682369ca24095",
+    "sha256": "0e2496ef65637bf51b484abef5838cbfdc5c32d1df1a072dedaf413a95d21eee",
     "homepage": "https://dotnet.microsoft.com/",
     "install_conf_sha256": "88edbe982cfd47369a7bbdbaa99191e34d5ab43ab3dd86425733fe0e9ac085f8"
   },
@@ -95,7 +95,7 @@
     "install_conf_sha256": "3828398e2230ad1347ade9e91a3004b0048eedb3b0b3ce2082ab79a764f4c6a4"
   },
   "fzf": {
-    "sha256": "79b894ae3b4b325e42bdcf3fa7173ec8acf59a70586cd1c54b17aa8dea60e67d",
+    "sha256": "0cc67a19d0d17c64b01ca7ea76bd4cd1d22cd0daaac27411e0571d9b3cbe0b21",
     "homepage": "https://github.com/junegunn/fzf",
     "install_conf_sha256": "9b7426ed35c2eb845787baffc1f959dba73a93b83565bb27be29a16b884cbc80"
   },
@@ -165,7 +165,7 @@
     "install_conf_sha256": "3bde288bf187e39436bc8ac35a20e814aa0e7a5668bd75a6f842e9768066f246"
   },
   "kubectl": {
-    "sha256": "e71e6fe345e1e4d25c77bb96c3a26d9cff1c06463c98a0e858c4316eda8a979b",
+    "sha256": "3a047b294159b2ba71babc48456e8f9795ba12f6a57d6af6f9b1eb83e8e993a1",
     "homepage": "https://kubernetes.io/docs/tasks/tools/",
     "install_conf_sha256": "1aed6ff154d099f9773ae07a6b568e3dff4f06330c37981c362d6aeb0a60a6eb"
   },
@@ -200,7 +200,7 @@
     "install_conf_sha256": "84ae51ee8f4e252b05e55af82e3eed3855e7c594bd0f7ef1eb7bd8b01de59e34"
   },
   "mongodb": {
-    "sha256": "e1c19199f834a053e18c079bc9a6a964864376c08b0d9849a27904a031adb9d6",
+    "sha256": "5dbebcec1de2f219858000d9dd6c53f05fdbc8cecfba4a297d6d81afcf110410",
     "homepage": "https://www.mongodb.com/",
     "install_conf_sha256": "dd6a21845a338f3c57fd8147353dd41aea9de898b33a528b357ab875116995c3"
   },
@@ -224,8 +224,13 @@
     "homepage": "https://nim-lang.org/",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
+  "ninja": {
+    "sha256": "6bff2e9605f2dab668f00038ab690af215b73d8dffe3eb93d00b1eabe199178b",
+    "homepage": "https://ninja-build.org/",
+    "install_conf_sha256": "21d0d868f2bd55e7bf4ab06315b271421e37535fede409c99c6535f62b0bbe88"
+  },
   "node": {
-    "sha256": "f8216692ed39d78fa1a98b741860696aa3ec32116316170a03f4a7e8ec33a6f2",
+    "sha256": "46e4568b236f7ee6c04dbd09b91849acb4b6169bfc7877bcef5dac8dd2cb99db",
     "homepage": "https://nodejs.org/en",
     "install_conf_sha256": "60699a59af4c777ba8d052343a57b31b4a90040adae1fec22136b0c00c0f495e"
   },
@@ -285,7 +290,7 @@
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
   "rust": {
-    "sha256": "e6510466c0b86cd5178b386a1e51392f114e32abb2ec7e2c215fbe1650c4e152",
+    "sha256": "d175e47266f34ce379d2ce394b74ac253ec5344e53443a1b674c9ae0a10c4e04",
     "homepage": "https://www.rust-lang.org/",
     "install_conf_sha256": "06e02bfe19b5639e69e3cda0a9b8516fc29d052bb15b9a2446a960817ba508ca"
   },
@@ -308,6 +313,16 @@
     "sha256": "10a8d01a570604ace762fd25cf65cc9543b89b6f944f46fb5dc27ab1a5eba2d8",
     "homepage": "https://github.com/Pure-D/serve-d",
     "install_conf_sha256": "de755f2150287ef23285cae420d04b0671204886c150094f93ca7ae9f754047c"
+  },
+  "thrift-compiler": {
+    "sha256": "9e42fca610a30d04b32814f6b980f55fa1b3bbf5b6491d386fa760de46288de5",
+    "homepage": "https://thrift.apache.org/",
+    "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
+  },
+  "tinymist": {
+    "sha256": "6c23975fee7c8bd9e90e7d64ccf3d29b0fcf0cbeb70e7758920b608cf061cbba",
+    "homepage": "https://github.com/Myriad-Dreamin/tinymist",
+    "install_conf_sha256": "e2706e378cbddebc02c07606c36a70bce0c1ea118e1155a426320bbcef2db74e"
   },
   "tree-sitter": {
     "sha256": "d8c8a68edda6ccb2ae23b2876acf8eeb3f687034fa016e475046f84465c1a8ee",
@@ -335,7 +350,7 @@
     "install_conf_sha256": "917c5cd12e2c6e761c4cc9f4dda30e71371d3797f81d2ec145b43d77bc1ca400"
   },
   "v": {
-    "sha256": "4bd9ec7daf17a7577009db37bc83406469c93081e9d6140e29facab5e20b0d9f",
+    "sha256": "1568b1e8c409b21df86de94643f4ad3f0791c5eec1795b0c4a0e1cb4bf63e774",
     "homepage": "https://vlang.io/",
     "install_conf_sha256": "c56044c1c506c8a1b13726e711733b685707fccd3f90fec77469cc443ecf543b"
   },
@@ -355,7 +370,7 @@
     "install_conf_sha256": "596a8cc386e1e28bcadc6adf4983fa11bbc617b9637d97f53c680619d4e292cc"
   },
   "zig": {
-    "sha256": "71abf45c187090b7e73fac6b772fd624bce9296778978afdf51f2ec1d2d14289",
+    "sha256": "1c49b9432ad81880bf781297d31a75e547c1b887daf05fe5ade09a3fc2b6d09f",
     "homepage": "https://ziglang.org/",
     "install_conf_sha256": "cbd064a2b316c5ddd2586e3817f5ced8e581feb505600926561c5e98a5e7b4ff"
   },
