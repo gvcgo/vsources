@@ -643,52 +643,6 @@
       "extra": ""
     }
   ],
-  "10.16.1": [
-    {
-      "url": "https://nodejs.org/download/release/v10.16.1/node-v10.16.1-darwin-x64.tar.gz",
-      "arch": "any",
-      "os": "darwin",
-      "sum": "328e61fdacfe2f6f1a049d57e248b3eafc0345747831323a14fe1edf98d9b3bb",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v10.16.1/node-v10.16.1-linux-arm64.tar.gz",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "c5f1df1ae559a9e40fc7216f4c82379d4e8ce64a96921ab0bed216c82cf9a1f3",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v10.16.1/node-v10.16.1-linux-x64.tar.gz",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "32db9700d2ba926e774c17e7cd8952499e64e241b095d22e05d3d62ebe4cb6d4",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v10.16.1/node-v10.16.1-win-x64.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "1ff8b26670e1b935b51f4b795728f29845c31a3c38b3220b4fe71fb139bc5623",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": ""
-    }
-  ],
   "10.16.2": [
     {
       "url": "https://nodejs.org/download/release/v10.16.2/node-v10.16.2-darwin-x64.tar.gz",
@@ -3495,52 +3449,6 @@
       "extra": ""
     }
   ],
-  "12.18.1": [
-    {
-      "url": "https://nodejs.org/download/release/v12.18.1/node-v12.18.1-darwin-x64.tar.gz",
-      "arch": "any",
-      "os": "darwin",
-      "sum": "80e1d644fe78838da47cd16de234b612c20e06ffe14447125db9622e381ed1ba",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v12.18.1/node-v12.18.1-linux-arm64.tar.gz",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "b78fc542858b83a96d712d6a2f493ae87e1af55040bc55fb68671af191016d19",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v12.18.1/node-v12.18.1-linux-x64.tar.gz",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "b89a0d497674f388705c877ad4f57766695cfe26ea6c6c9d3ad6ff98827edbfe",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v12.18.1/node-v12.18.1-win-x64.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "93039ebfc7c5bfad168b015f77667757925070fff3ae84c3eb73348b3123a82a",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": ""
-    }
-  ],
   "12.18.2": [
     {
       "url": "https://nodejs.org/download/release/v12.18.2/node-v12.18.2-darwin-x64.tar.gz",
@@ -3856,52 +3764,6 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "60653195f04fd4f3fd2ae6eef85a4c872d31e3a10fded9b75904195c60b143de",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": ""
-    }
-  ],
-  "12.20.1": [
-    {
-      "url": "https://nodejs.org/download/release/v12.20.1/node-v12.20.1-darwin-x64.tar.gz",
-      "arch": "any",
-      "os": "darwin",
-      "sum": "da5d32de2e0f3e82b4bc4a33754a9ceedb3c031f8804e984de89d82074897795",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v12.20.1/node-v12.20.1-linux-arm64.tar.gz",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "3154628c02f2c920fed77e8dce1a8ae32333260666ebaaa7a3cd230f45d13e42",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v12.20.1/node-v12.20.1-linux-x64.tar.gz",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "c4d45bf46d4ef4b6a72384dfb0ab6c07aed5750bcd1c2fc9f29c0aaccc6a4363",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v12.20.1/node-v12.20.1-win-x64.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "63cb0ccb17d6071e5418661b9755dc6a47f89db6e0945cb92dafbd000d9cc654",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -10096,6 +9958,63 @@
       "extra": ""
     }
   ],
+  "16.20.1": [
+    {
+      "url": "https://nodejs.org/download/release/v16.20.1/node-v16.20.1-darwin-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "5f6b31c5a75567d382ba67220f3d7a2d9bb0c03d8af9307cd35a9cb32a6fde9d",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": ""
+    },
+    {
+      "url": "https://nodejs.org/download/release/v16.20.1/node-v16.20.1-darwin-x64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "d1f9c2a7c3a0fe09860f701af5fb8ff9ac72d72faa7ebabfeb5794503e79f955",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": ""
+    },
+    {
+      "url": "https://nodejs.org/download/release/v16.20.1/node-v16.20.1-linux-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "e67a75da24bd72da5b60568774ee9814bf034959e3768fe6f16eb6cfb3fc4158",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": ""
+    },
+    {
+      "url": "https://nodejs.org/download/release/v16.20.1/node-v16.20.1-linux-x64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "c76d2aabd2d02542505fd24e18876fb8515e23638531249277272def42ab54e3",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": ""
+    },
+    {
+      "url": "https://nodejs.org/download/release/v16.20.1/node-v16.20.1-win-x64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "2a7fde996c57a969f0498742f99385a520eb14aac864e0eff9c32e3f3633ff0a",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": ""
+    }
+  ],
   "16.20.2": [
     {
       "url": "https://nodejs.org/download/release/v16.20.2/node-v16.20.2-darwin-arm64.tar.gz",
@@ -13459,63 +13378,6 @@
       "extra": ""
     }
   ],
-  "18.8.0": [
-    {
-      "url": "https://nodejs.org/download/release/v18.8.0/node-v18.8.0-darwin-arm64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "4952a8ec7ca07328571ba0b06d228c2a8220041a6f07df4f46765c341a80ccd4",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v18.8.0/node-v18.8.0-darwin-x64.tar.gz",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "57457aeb1b3bfa2295235a134ebcdb58a72144b88049b72d9f7739f6591f850f",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v18.8.0/node-v18.8.0-linux-arm64.tar.gz",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "94cbe9128f1319b18fe33255f753da16ae7eca2f652afdfb1aabe75c3aa75631",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v18.8.0/node-v18.8.0-linux-x64.tar.gz",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "01c2060503bb42caa1c6cc2ee4b432f80c0b38ad46b4eed956774fb36302f46e",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v18.8.0/node-v18.8.0-win-x64.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "b53996eac3eccd229b647ec042f338e4b4ba00352ece05b2e3162e25cb19ab19",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    }
-  ],
   "18.9.0": [
     {
       "url": "https://nodejs.org/download/release/v18.9.0/node-v18.9.0-darwin-arm64.tar.gz",
@@ -13794,63 +13656,6 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "9ca998da2063fd5b374dc889ee1937ada5a1e1f4fb50b5f989412dda7c6bb357",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "19.2.0": [
-    {
-      "url": "https://nodejs.org/download/release/v19.2.0/node-v19.2.0-darwin-arm64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "394341380de1b1c6e5a5ab8af86e08e8f097ba7d101d4315bdd7cdcf3b306467",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v19.2.0/node-v19.2.0-darwin-x64.tar.gz",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "e3cfa8f82ea334c3c23bc1d9c9c3a87c4ffff8d29eab17e6bb9d53008103b08b",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v19.2.0/node-v19.2.0-linux-arm64.tar.gz",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "5010dc1b0e6417c61906de1a8d05e752c23d0493e5f419a59e8bf959a2f52628",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v19.2.0/node-v19.2.0-linux-x64.tar.gz",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "64cad7fb9ff6c0bc85b7f58275f23177a11c820240a0a7cb036e764a98c3527e",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://nodejs.org/download/release/v19.2.0/node-v19.2.0-win-x64.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "689ca4285fb924dbd6e26adb156b3df0178a20f0e9a9cea59eca79d34c8dd9da",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -17571,6 +17376,74 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "71b74712aa5c6587c428b39d9ec9aa013bfcfa38a2a0ed8e68b3922dda1b69f4",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "22.6.0": [
+    {
+      "url": "https://nodejs.org/download/release/v22.6.0/node-v22.6.0-darwin-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "9ea60766807cd3c3a3ad6ad419f98918d634a60fe8dea5b9c07507ed0f176d4c",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://nodejs.org/download/release/v22.6.0/node-v22.6.0-darwin-x64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "8766c5968ca22d20fc6237c54c7c5d12ef12e15940d6119a79144ccb163ea737",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://nodejs.org/download/release/v22.6.0/node-v22.6.0-linux-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "c6c7ee62de3637401c15df9a022afaa248d236d59ceca8c188944cf97d0be372",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://nodejs.org/download/release/v22.6.0/node-v22.6.0-linux-x64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "f2f4ccbcbc0a443e5fadebd1149a22f96087ec09cef52ff343a15ee835206d96",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://nodejs.org/download/release/v22.6.0/node-v22.6.0-win-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "86d148c83f85d7dc23b85da6d8152a74ad1e77cab987df839d7b29d33d653ff2",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://nodejs.org/download/release/v22.6.0/node-v22.6.0-win-x64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "1fdb0b8e59c98157ba927d51ef7eb050f9459beddc64ebc5a8897b90fd1f46f6",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
