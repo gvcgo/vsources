@@ -1881,6 +1881,63 @@
       "extra": ""
     }
   ],
+  "1.10.5": [
+    {
+      "url": "https://julialang-s3.julialang.org/bin/linux/x64/1.10/julia-1.10.5-linux-x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "33497b93cf9dd65e8431024fd1db19cbfbe30bd796775a59d53e2df9a8de6dc0",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/linux/aarch64/1.10/julia-1.10.5-linux-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "59620a93cd64542d1f901ef9cfaecd310d0673b2bab2e2345774d456952a7ad0",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/mac/x64/1.10/julia-1.10.5-mac64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "fb2754d6038c54abc8c04aff6dfe5b51987a6834d4a7a4658130f59e36d9b403",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/mac/aarch64/1.10/julia-1.10.5-macaarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "d503d720169e58dd60244063831a6f7bc72a345529a9622f6dc9f3825b0b9ab6",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.10/julia-1.10.5-win64.tar.gz",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "7db84368953716275d3f6a6487cc2b3ac0f4822d605ff8b26b737aaf9bd633da",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "1.11.0-alpha1": [
     {
       "url": "https://julialang-s3.julialang.org/bin/linux/x64/1.11/julia-1.11.0-alpha1-linux-x86_64.tar.gz",
@@ -2260,6 +2317,63 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "b73214b19c1789acbb466b7843fc26c0ef810a8bfa6997d61ae43e736bdfbc8e",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "1.11.0-rc3": [
+    {
+      "url": "https://julialang-s3.julialang.org/bin/linux/x64/1.11/julia-1.11.0-rc3-linux-x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "fc7e199ac4921a83150c2863425b203196436d12d8dc73054aeba5ad8a5d7d72",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/linux/aarch64/1.11/julia-1.11.0-rc3-linux-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "5aff7e677a45dc7cf65c9ac7f2e6182083304e883a4ce33ab2d701915730c21d",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/mac/x64/1.11/julia-1.11.0-rc3-mac64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "9460927a89cd9020368c7d9d6f695da4adb32b49216344c8048a0b57d758e6ec",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/mac/aarch64/1.11/julia-1.11.0-rc3-macaarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "2cda2172a13cbcae4487a2789518984fc08b7edf09043afc14b5e5d7408462a9",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.11/julia-1.11.0-rc3-win64.tar.gz",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "eaf3b190c266b08db29efbbb8d97e9390f8f089d9faad0f56cf9cd8238273f59",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
