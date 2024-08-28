@@ -9,6 +9,11 @@
     "homepage": "https://github.com/asciinema/agg",
     "install_conf_sha256": "0fce270d64b032fe027a24676acf70f55c9cd5dabceb3e9ad810205760617f25"
   },
+  "bazel": {
+    "sha256": "cfef2159cdfd77aa22167152c0ca6869481a093b63098fb066859048949066f9",
+    "homepage": "https://github.com/bazelbuild/bazel",
+    "install_conf_sha256": "62ffa3844fa0e13a0f5d5614bca489c9bdbdbdd99fbefcef068835a353a99425"
+  },
   "bun": {
     "sha256": "4e5a088ce1dded812d75e8f87196064f5f15082fe2aa6537f8f95a2f36e15fdd",
     "homepage": "https://bun.sh/",
@@ -65,7 +70,7 @@
     "install_conf_sha256": "6bdcc2f57874cbf5fe74482c8d9b37b33f83f7b8d6ccba76cc6defde86800d6b"
   },
   "dotnet": {
-    "sha256": "4ccbb54e08c3f44b881d2ae2bea821c50422bd549ac6a55406df9348a4a5d403",
+    "sha256": "7da0ad3d82a321b845f5ef067acdfc9f377e21d067ca6334f15eb61e5ccf3f9e",
     "homepage": "https://dotnet.microsoft.com/",
     "install_conf_sha256": "88edbe982cfd47369a7bbdbaa99191e34d5ab43ab3dd86425733fe0e9ac085f8"
   },
@@ -135,7 +140,7 @@
     "install_conf_sha256": "4c1d51e2c42b9425258c079eea303db733ca03230ccb2d18566eace48d371024"
   },
   "groovy": {
-    "sha256": "66f882bec69934ef82cbdd31f3c597893e2fb5ce6e9d1d34d3e780fc3be3f7ce",
+    "sha256": "bdf070ed7d7174e33079d0dbc025e701fcb7ec2317a84023763b93942b76e981",
     "homepage": "http://www.groovy-lang.org/",
     "install_conf_sha256": "a2f9fc89c4a504d2de0500c117efa74f3e1fb3c2a20df93b51701536e1631bfe"
   },
@@ -150,7 +155,7 @@
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
   "jdk": {
-    "sha256": "2fc0bf6e1ffc7972c91df412f658d098bce0ec033d095fdd43be8dbb6d91f4af",
+    "sha256": "eb537e3e3d82918de09aaa2fb12e5a570f9963b658b7c079b77325fa061e0baf",
     "homepage": "https://bell-sw.com/pages/downloads/",
     "install_conf_sha256": "09101f81433d83ab3cc83ca3f7273b717b14595bed48efbaa030f97732450d25"
   },
@@ -165,7 +170,7 @@
     "install_conf_sha256": "3bde288bf187e39436bc8ac35a20e814aa0e7a5668bd75a6f842e9768066f246"
   },
   "kubectl": {
-    "sha256": "46b74f992a5cd19215044d389758bc455800adf665a0ee56a2f47e6927c0d385",
+    "sha256": "e67a892d8f479ea328118e34a104bdd713d9ac04f385df1f4c0d02f37912d298",
     "homepage": "https://kubernetes.io/docs/tasks/tools/",
     "install_conf_sha256": "1aed6ff154d099f9773ae07a6b568e3dff4f06330c37981c362d6aeb0a60a6eb"
   },
@@ -183,6 +188,11 @@
     "sha256": "b0b6b1fb133d83157e482a459553969ff31d4b3b0e6f1a49e62721ec41cd2865",
     "homepage": "https://lfortran.org/",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
+  },
+  "llvm-mingw": {
+    "sha256": "52218cf42aed1cdd25bfe1126b57ffc3d9a8751ec39dc0f56bdacad6bfd13f1a",
+    "homepage": "https://github.com/mstorsjo/llvm-mingw",
+    "install_conf_sha256": "dcc0848787d66037be1f1f99f2dade28aa1a8f67542c5fe1c8d8fa06a3733b45"
   },
   "lua": {
     "sha256": "43fd9db0f338f00ddd2a1f5dfe3c611c3437024cfb5d498ff55db80bf75da974",
@@ -245,7 +255,7 @@
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "php": {
-    "sha256": "30460fbccb0e4b7b7e19fb5ca55728d302b4258ad72b9c487b7f2495a837b7ec",
+    "sha256": "c4a2f396ba2a310699efdf72baaec2f1ed8d655b72f8a6646e8983be907eda18",
     "homepage": "https://www.php.net/",
     "install_conf_sha256": "cf9685a5b337b624dfd7376da30086efe67b1a90e599b78b389248bfbbcad020"
   },
@@ -370,7 +380,7 @@
     "install_conf_sha256": "596a8cc386e1e28bcadc6adf4983fa11bbc617b9637d97f53c680619d4e292cc"
   },
   "zig": {
-    "sha256": "483229d50006bb78df059e08d40fb85e9002a546ea57147f4793df7c2a85e8c9",
+    "sha256": "e4f3f7b21eec44afea008754162d1fc89e48db53bb2b27554965373b9dca460f",
     "homepage": "https://ziglang.org/",
     "install_conf_sha256": "cbd064a2b316c5ddd2586e3817f5ced8e581feb505600926561c5e98a5e7b4ff"
   },
