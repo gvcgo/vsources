@@ -1,0 +1,12 @@
+flag_dir_excepted = true
+additional_envs = []
+
+[flag_files]
+windows = ['moon.exe', 'moonc.exe']
+linux = ['moon', 'moonc']
+darwin = ['moon', 'moonc']
+
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
