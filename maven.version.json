@@ -30,7 +30,7 @@
       "url": "https://archive.apache.org/dist/maven/maven-3/3.1.0/binaries/apache-maven-3.1.0-bin.tar.gz",
       "arch": "any",
       "os": "any",
-      "sum": "",
+      "sum": "af0867027f0907631c1f85ecf668f74c08f5d5e9\n",
       "sum_type": "sha1",
       "size": 0,
       "installer": "unarchiver",
@@ -82,7 +82,7 @@
       "url": "https://archive.apache.org/dist/maven/maven-3/3.2.2/binaries/apache-maven-3.2.2-bin.tar.gz",
       "arch": "any",
       "os": "any",
-      "sum": "",
+      "sum": "edc1653038137314f0140b0e62d0e3169432882f",
       "sum_type": "sha1",
       "size": 0,
       "installer": "unarchiver",
@@ -298,6 +298,19 @@
       "extra": "3.8.1/"
     }
   ],
+  "3.8.2": [
+    {
+      "url": "https://archive.apache.org/dist/maven/maven-3/3.8.2/binaries/apache-maven-3.8.2-bin.tar.gz",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "sha1",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "3.8.2/"
+    }
+  ],
   "3.8.3": [
     {
       "url": "https://archive.apache.org/dist/maven/maven-3/3.8.3/binaries/apache-maven-3.8.3-bin.tar.gz",
@@ -324,6 +337,19 @@
       "extra": "3.8.4/"
     }
   ],
+  "3.8.5": [
+    {
+      "url": "https://archive.apache.org/dist/maven/maven-3/3.8.5/binaries/apache-maven-3.8.5-bin.tar.gz",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "sha1",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "3.8.5/"
+    }
+  ],
   "3.8.6": [
     {
       "url": "https://archive.apache.org/dist/maven/maven-3/3.8.6/binaries/apache-maven-3.8.6-bin.tar.gz",
@@ -335,6 +361,19 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": "3.8.6/"
+    }
+  ],
+  "3.8.7": [
+    {
+      "url": "https://archive.apache.org/dist/maven/maven-3/3.8.7/binaries/apache-maven-3.8.7-bin.tar.gz",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "sha1",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "3.8.7/"
     }
   ],
   "3.8.8": [
@@ -402,6 +441,19 @@
       "extra": "3.9.3/"
     }
   ],
+  "3.9.4": [
+    {
+      "url": "https://archive.apache.org/dist/maven/maven-3/3.9.4/binaries/apache-maven-3.9.4-bin.tar.gz",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "sha1",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "3.9.4/"
+    }
+  ],
   "3.9.5": [
     {
       "url": "https://archive.apache.org/dist/maven/maven-3/3.9.5/binaries/apache-maven-3.9.5-bin.tar.gz",
@@ -413,6 +465,19 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": "3.9.5/"
+    }
+  ],
+  "3.9.6": [
+    {
+      "url": "https://archive.apache.org/dist/maven/maven-3/3.9.6/binaries/apache-maven-3.9.6-bin.tar.gz",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "sha1",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "3.9.6/"
     }
   ],
   "3.9.7": [
@@ -480,12 +545,25 @@
       "extra": "4.0.0-alpha-12/"
     }
   ],
+  "4.0.0-alpha-13": [
+    {
+      "url": "https://archive.apache.org/dist/maven/maven-4/4.0.0-alpha-13/binaries/apache-maven-4.0.0-alpha-13-bin.tar.gz",
+      "arch": "any",
+      "os": "any",
+      "sum": "29c181ae18f72c2c8ff738e6aedaecf6faaa4cebd737b11b7e8f3a05d341468e93a5685fa26f3b8299bbe6ddda3b9652c9c4df135af6f146eebad5dd6b6c47ed",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "4.0.0-alpha-13/"
+    }
+  ],
   "4.0.0-alpha-2": [
     {
       "url": "https://archive.apache.org/dist/maven/maven-4/4.0.0-alpha-2/binaries/apache-maven-4.0.0-alpha-2-bin.tar.gz",
       "arch": "any",
       "os": "any",
-      "sum": "",
+      "sum": "48064fd8b8b707eddad0949182ea2eeb89515e0b8e4044a80873738ee55f352d29596a12d70d23003629bbedc6bc41b4ca6e8f6750dab9d01a16df16149b53f7",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -524,7 +602,7 @@
       "url": "https://archive.apache.org/dist/maven/maven-4/4.0.0-alpha-5/binaries/apache-maven-4.0.0-alpha-5-bin.tar.gz",
       "arch": "any",
       "os": "any",
-      "sum": "",
+      "sum": "b5ceab2d66ba1a428675f8db6ee96c723a3cc109cc14a2d708e57508090ba243868eca07f33c82ca3cf339eea0dbde8ef2e307b8b41ec7d5f5fc794d96849f0a",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -576,7 +654,7 @@
       "url": "https://archive.apache.org/dist/maven/maven-4/4.0.0-beta-3/binaries/apache-maven-4.0.0-beta-3-bin.tar.gz",
       "arch": "any",
       "os": "any",
-      "sum": "",
+      "sum": "9df71ce42689e1942c9f134b91f93e29be29b521d898c25015dd4edf45249ea4a20000623bbffba7bb585e223e563fa6292241dda7b9034b9822bdfcb29bb269",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
