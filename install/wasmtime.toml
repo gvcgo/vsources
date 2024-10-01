@@ -1,10 +1,10 @@
-flag_dir_excepted = false
+flag_dir_excepted = true
 additional_envs = []
 
 [flag_files]
-windows = ['wasmtime.exe']
-linux = ['wasmtime']
-darwin = ['wasmtime']
+windows = ['wasmtime.exe', 'LICENSE']
+linux = ['wasmtime', 'LICENSE']
+darwin = ['wasmtime', 'LICENSE']
 
 [binary_dirs]
 windows = [[]]
