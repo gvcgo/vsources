@@ -70,7 +70,7 @@
     "install_conf_sha256": "6bdcc2f57874cbf5fe74482c8d9b37b33f83f7b8d6ccba76cc6defde86800d6b"
   },
   "dotnet": {
-    "sha256": "8f8cc4b2cd960cff4fe3c4b7f4c291f7402fcd75bbb808af5531178f88e6a919",
+    "sha256": "09256f65d121983ffee810011e9f8530acccbbca744491c4da197a45e20c2a53",
     "homepage": "https://dotnet.microsoft.com/",
     "install_conf_sha256": "88edbe982cfd47369a7bbdbaa99191e34d5ab43ab3dd86425733fe0e9ac085f8"
   },
@@ -80,7 +80,7 @@
     "install_conf_sha256": "83f48feeb60b474b7cd10d73e33091d7647bf94e030606803bd03f5b075a2443"
   },
   "erlang": {
-    "sha256": "c887453c2cf855c75e2fb876358b2780dcb10cd6a1ab05d35442fda9d315b956",
+    "sha256": "e3bd10604a089c4879af8c242d522773eb3038711b5a8be8636bff2f2c9e35a2",
     "homepage": "https://www.erlang.org/",
     "install_conf_sha256": "83f48feeb60b474b7cd10d73e33091d7647bf94e030606803bd03f5b075a2443"
   },
@@ -175,7 +175,7 @@
     "install_conf_sha256": "a2f9fc89c4a504d2de0500c117efa74f3e1fb3c2a20df93b51701536e1631bfe"
   },
   "kubectl": {
-    "sha256": "5a128245d61f77f008f330890207a864106e2b708d17a63b045f21943eaa1a6d",
+    "sha256": "3155b71d2ef997ab0793190bab842603285b86d4c02fcb08fcbf2ae5c08582d7",
     "homepage": "https://kubernetes.io/docs/tasks/tools/",
     "install_conf_sha256": "1aed6ff154d099f9773ae07a6b568e3dff4f06330c37981c362d6aeb0a60a6eb"
   },
@@ -270,7 +270,7 @@
     "install_conf_sha256": "cf9685a5b337b624dfd7376da30086efe67b1a90e599b78b389248bfbbcad020"
   },
   "postgresql": {
-    "sha256": "d92ea45e34c836a56ed81e50bf86312eaba242e15043e198d11aa513632f8e4b",
+    "sha256": "360fb2d42d4f5b2e1224e0931418a7f512ba90de9032fcd46f6898a6429a54c4",
     "homepage": "https://www.postgresql.org/",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
@@ -388,6 +388,21 @@
     "sha256": "1de8b0e568c4a9b922ef86485a475bf4418cc991341b315cc8e4e52c69d51b9e",
     "homepage": "https://code.visualstudio.com/",
     "install_conf_sha256": "596a8cc386e1e28bcadc6adf4983fa11bbc617b9637d97f53c680619d4e292cc"
+  },
+  "wasmedge": {
+    "sha256": "a5267dec08747418775924a13de5c4c85c48818ee0a6a884ac50c4d5770d8727",
+    "homepage": "https://wasmedge.org/",
+    "install_conf_sha256": "a2f9fc89c4a504d2de0500c117efa74f3e1fb3c2a20df93b51701536e1631bfe"
+  },
+  "wasmer": {
+    "sha256": "c5d97238b0c4f6d5a9c91f155711ba814aa90b754819ca9318e3b75ed42105cd",
+    "homepage": "https://wasmer.io/",
+    "install_conf_sha256": "a2f9fc89c4a504d2de0500c117efa74f3e1fb3c2a20df93b51701536e1631bfe"
+  },
+  "wasmtime": {
+    "sha256": "f946db1bf7e02d2aa96d912e6fdd7d3041d7c2a3d1b794be1efeb59b7ec2eb81",
+    "homepage": "https://wasmtime.dev/",
+    "install_conf_sha256": "66b2eacf43c34529dfcdb960ead1423b10b7cb8b4fa4f55ee18c70b0cca9e21d"
   },
   "zig": {
     "sha256": "7007dcea098b9e8d9420237bbb6ebd83483199c0415eb43091b196cbea54d224",
