@@ -1,0 +1,2417 @@
+{
+  "0.10.0": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.0/WasmEdge-0.10.0-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 1649203,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.0/WasmEdge-0.10.0-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 1893660,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.0/WasmEdge-0.10.0-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 40476156,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.0/WasmEdge-0.10.0-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 32077577,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.10.0-alpha.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.0-alpha.1/WasmEdge-0.10.0-alpha.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 2014045,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.0-alpha.1/WasmEdge-0.10.0-alpha.1-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 40478515,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.0-alpha.1/WasmEdge-0.10.0-alpha.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 32069427,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.10.0-alpha.2": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.0-alpha.2/WasmEdge-0.10.0-alpha.2-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 2014988,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.0-alpha.2/WasmEdge-0.10.0-alpha.2-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 40476970,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.0-alpha.2/WasmEdge-0.10.0-alpha.2-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 32077426,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.10.0-rc.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.0-rc.1/WasmEdge-0.10.0-rc.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 2013813,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.0-rc.1/WasmEdge-0.10.0-rc.1-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 40476257,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.0-rc.1/WasmEdge-0.10.0-rc.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 32077656,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.10.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.1/WasmEdge-0.10.1-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 859787,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.1/WasmEdge-0.10.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 946795,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.1/WasmEdge-0.10.1-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 20332710,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.1/WasmEdge-0.10.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 15826891,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.10.1-alpha.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.1-alpha.1/WasmEdge-0.10.1-alpha.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 1999847,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.1-alpha.1/WasmEdge-0.10.1-alpha.1-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 40554241,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.1-alpha.1/WasmEdge-0.10.1-alpha.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 31946045,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.10.1-alpha.2": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.1-alpha.2/WasmEdge-0.10.1-alpha.2-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 2098857,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.1-alpha.2/WasmEdge-0.10.1-alpha.2-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 40554540,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.1-alpha.2/WasmEdge-0.10.1-alpha.2-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 31946348,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.10.1-alpha.3": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.1-alpha.3/WasmEdge-0.10.1-alpha.3-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 945544,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.1-alpha.3/WasmEdge-0.10.1-alpha.3-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 20332968,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.1-alpha.3/WasmEdge-0.10.1-alpha.3-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 15825522,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.10.1-rc.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.1-rc.1/WasmEdge-0.10.1-rc.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 946240,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.1-rc.1/WasmEdge-0.10.1-rc.1-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 20332421,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.10.1-rc.1/WasmEdge-0.10.1-rc.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 15826780,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.11.0": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.0/WasmEdge-0.11.0-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 29095997,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.0/WasmEdge-0.11.0-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 30818974,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.0/WasmEdge-0.11.0-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 15834597,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.11.0-alpha.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.0-alpha.1/WasmEdge-0.11.0-alpha.1-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 45491081,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.0-alpha.1/WasmEdge-0.11.0-alpha.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 95415759,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.0-alpha.1/WasmEdge-0.11.0-alpha.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 15831696,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.11.0-rc.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.0-rc.1/WasmEdge-0.11.0-rc.1-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 14605535,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.0-rc.1/WasmEdge-0.11.0-rc.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 30864362,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.0-rc.1/WasmEdge-0.11.0-rc.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 15834707,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.11.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.1/WasmEdge-0.11.1-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 29103584,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.1/WasmEdge-0.11.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 24913018,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.1/WasmEdge-0.11.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 15887748,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.11.1-alpha.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.1-alpha.1/WasmEdge-0.11.1-alpha.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 30843774,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.1-alpha.1/WasmEdge-0.11.1-alpha.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 15889718,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.11.1-rc.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.1-rc.1/WasmEdge-0.11.1-rc.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 24918232,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.1-rc.1/WasmEdge-0.11.1-rc.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 15889612,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.11.2": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.2/WasmEdge-0.11.2-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 29097566,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.2/WasmEdge-0.11.2-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 24892048,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.2/WasmEdge-0.11.2-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 15916641,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.11.2-alpha.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.2-alpha.1/WasmEdge-0.11.2-alpha.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 24890675,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.2-alpha.1/WasmEdge-0.11.2-alpha.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 15905777,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.11.2-rc.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.2-rc.1/WasmEdge-0.11.2-rc.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 24890678,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.2-rc.1/WasmEdge-0.11.2-rc.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 15906150,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.11.2-rc.2": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.2-rc.2/WasmEdge-0.11.2-rc.2-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 24890950,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.2-rc.2/WasmEdge-0.11.2-rc.2-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 15906147,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.11.2-rc.3": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.2-rc.3/WasmEdge-0.11.2-rc.3-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 24892078,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.11.2-rc.3/WasmEdge-0.11.2-rc.3-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 15916780,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.12.0": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.12.0/WasmEdge-0.12.0-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 23614500,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.12.0/WasmEdge-0.12.0-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 25021003,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.12.0/WasmEdge-0.12.0-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 16074731,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.12.0-alpha.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.12.0-alpha.1/WasmEdge-0.12.0-alpha.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 24891044,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.12.0-alpha.1/WasmEdge-0.12.0-alpha.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 15928287,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.12.0-alpha.2": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.12.0-alpha.2/WasmEdge-0.12.0-alpha.2-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 23530534,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.12.0-alpha.2/WasmEdge-0.12.0-alpha.2-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 24925107,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.12.0-alpha.2/WasmEdge-0.12.0-alpha.2-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 15984727,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.12.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.12.1/WasmEdge-0.12.1-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 51236488,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.12.1/WasmEdge-0.12.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 53931312,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.12.1/WasmEdge-0.12.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 16073841,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.13.0": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.0/WasmEdge-0.13.0-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 51266606,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.0/WasmEdge-0.13.0-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 53961442,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.0/WasmEdge-0.13.0-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 16138781,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.13.0-alpha.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.0-alpha.1/WasmEdge-0.13.0-alpha.1-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 51266468,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.0-alpha.1/WasmEdge-0.13.0-alpha.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 53960750,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.0-alpha.1/WasmEdge-0.13.0-alpha.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 16138779,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.0-alpha.1/WasmEdge-0.13.0-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 51266606,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.13.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.1/WasmEdge-0.13.1-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 51265700,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.1/WasmEdge-0.13.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 53961462,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.1/WasmEdge-0.13.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 16138979,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.13.2": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.2/WasmEdge-0.13.2-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 51681549,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.2/WasmEdge-0.13.2-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 53962729,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.2/WasmEdge-0.13.2-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 16139525,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.13.3": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.3/WasmEdge-0.13.3-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 51680541,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.3/WasmEdge-0.13.3-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 53961243,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.3/WasmEdge-0.13.3-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 16139292,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.13.4": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.4/WasmEdge-0.13.4-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 51671695,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.4/WasmEdge-0.13.4-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 54536462,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.4/WasmEdge-0.13.4-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 17618842,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.13.5": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.5/WasmEdge-0.13.5-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 50292690,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.5/WasmEdge-0.13.5-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 53178659,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.13.5/WasmEdge-0.13.5-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 17598200,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.0": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0/WasmEdge-0.14.0-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 58460521,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0/WasmEdge-0.14.0-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 60920174,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0/WasmEdge-0.14.0-manylinux_2_28_aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 24173673,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0/WasmEdge-0.14.0-manylinux_2_28_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 26023172,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0/WasmEdge-0.14.0-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18964067,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.0-alpha.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-alpha.1/WasmEdge-0.14.0-alpha.1-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 50376763,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-alpha.1/WasmEdge-0.14.0-alpha.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 53313512,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-alpha.1/WasmEdge-0.14.0-alpha.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 17718375,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.0-alpha.2": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-alpha.2/WasmEdge-0.14.0-alpha.2-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 53909101,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-alpha.2/WasmEdge-0.14.0-alpha.2-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 56679132,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-alpha.2/WasmEdge-0.14.0-alpha.2-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18292615,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.0-alpha.3": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-alpha.3/WasmEdge-0.14.0-alpha.3-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 53830875,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-alpha.3/WasmEdge-0.14.0-alpha.3-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 56609004,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-alpha.3/WasmEdge-0.14.0-alpha.3-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18292303,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.0-alpha.4": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-alpha.4/WasmEdge-0.14.0-alpha.4-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 54243947,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-alpha.4/WasmEdge-0.14.0-alpha.4-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 57100158,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-alpha.4/WasmEdge-0.14.0-alpha.4-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18963475,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.0-rc.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-rc.1/WasmEdge-0.14.0-rc.1-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 54234626,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-rc.1/WasmEdge-0.14.0-rc.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 57029670,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-rc.1/WasmEdge-0.14.0-rc.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18929984,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.0-rc.2": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-rc.2/WasmEdge-0.14.0-rc.2-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 54237550,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-rc.2/WasmEdge-0.14.0-rc.2-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 57029211,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-rc.2/WasmEdge-0.14.0-rc.2-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18929844,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.0-rc.3": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-rc.3/WasmEdge-0.14.0-rc.3-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 54223952,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-rc.3/WasmEdge-0.14.0-rc.3-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 57029208,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-rc.3/WasmEdge-0.14.0-rc.3-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18929845,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.0-rc.4": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-rc.4/WasmEdge-0.14.0-rc.4-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 54224167,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-rc.4/WasmEdge-0.14.0-rc.4-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 57051656,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-rc.4/WasmEdge-0.14.0-rc.4-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18929810,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.0-rc.5": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-rc.5/WasmEdge-0.14.0-rc.5-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 54243281,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-rc.5/WasmEdge-0.14.0-rc.5-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 57099452,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.0-rc.5/WasmEdge-0.14.0-rc.5-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18963110,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1/WasmEdge-0.14.1-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 58134028,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1/WasmEdge-0.14.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 60560976,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1/WasmEdge-0.14.1-manylinux_2_28_aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 23308478,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1/WasmEdge-0.14.1-manylinux_2_28_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 25154563,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1/WasmEdge-0.14.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18776277,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.1-beta.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-beta.1/WasmEdge-0.14.1-beta.1-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 58212751,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-beta.1/WasmEdge-0.14.1-beta.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 60674582,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-beta.1/WasmEdge-0.14.1-beta.1-manylinux_2_28_aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 23338566,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-beta.1/WasmEdge-0.14.1-beta.1-manylinux_2_28_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 25179680,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-beta.1/WasmEdge-0.14.1-beta.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18780124,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.1-beta.2": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-beta.2/WasmEdge-0.14.1-beta.2-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 58212551,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-beta.2/WasmEdge-0.14.1-beta.2-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 60675950,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-beta.2/WasmEdge-0.14.1-beta.2-manylinux_2_28_aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 23337082,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-beta.2/WasmEdge-0.14.1-beta.2-manylinux_2_28_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 25178640,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-beta.2/WasmEdge-0.14.1-beta.2-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18787180,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.1-rc.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.1/WasmEdge-0.14.1-rc.1-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 58237429,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.1/WasmEdge-0.14.1-rc.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 60690789,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.1/WasmEdge-0.14.1-rc.1-manylinux_2_28_aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 23352809,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.1/WasmEdge-0.14.1-rc.1-manylinux_2_28_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 25200324,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.1/WasmEdge-0.14.1-rc.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18804785,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.1-rc.2": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.2/WasmEdge-0.14.1-rc.2-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 58131470,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.2/WasmEdge-0.14.1-rc.2-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 60561535,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.2/WasmEdge-0.14.1-rc.2-manylinux_2_28_aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 23309506,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.2/WasmEdge-0.14.1-rc.2-manylinux_2_28_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 25160623,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.2/WasmEdge-0.14.1-rc.2-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18768264,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.1-rc.3": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.3/WasmEdge-0.14.1-rc.3-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 58140396,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.3/WasmEdge-0.14.1-rc.3-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 60561762,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.3/WasmEdge-0.14.1-rc.3-manylinux_2_28_aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 23309752,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.3/WasmEdge-0.14.1-rc.3-manylinux_2_28_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 25159556,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.3/WasmEdge-0.14.1-rc.3-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18774150,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.1-rc.4": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.4/WasmEdge-0.14.1-rc.4-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 58134343,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.4/WasmEdge-0.14.1-rc.4-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 60560903,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.4/WasmEdge-0.14.1-rc.4-manylinux_2_28_aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 23308499,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.4/WasmEdge-0.14.1-rc.4-manylinux_2_28_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 25154607,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.4/WasmEdge-0.14.1-rc.4-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18776506,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.14.1-rc.5": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.5/WasmEdge-0.14.1-rc.5-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 58134346,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.5/WasmEdge-0.14.1-rc.5-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 60560927,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.5/WasmEdge-0.14.1-rc.5-manylinux_2_28_aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 23308517,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.5/WasmEdge-0.14.1-rc.5-manylinux_2_28_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 25154589,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.14.1-rc.5/WasmEdge-0.14.1-rc.5-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 18776503,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.5.0": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.5.0/libssvmEVMC-linux-x86_64.so",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 888120,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.7.3": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.7.3/SSVM-0.7.3-manylinux1_x86_64.tar.bz2",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 17018947,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.7.3/SSVM-0.7.3-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 19246708,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.7.3/SSVM-0.7.3-manylinux1_x86_64.tar.zst",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 18828450,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.8.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.8.1/WasmEdge-0.8.1-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 40940413,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.8.2": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.8.2/WasmEdge-0.8.2-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 3021570,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.8.2/WasmEdge-0.8.2-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 3300910,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.8.2/WasmEdge-0.8.2-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 41096535,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.8.2-rc.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.8.2-rc.1/WasmEdge-0.8.2-rc.1-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 41053545,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.8.2-rc.2": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.8.2-rc.2/WasmEdge-0.8.2-rc.2-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 41053513,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.8.2-rc.3": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.8.2-rc.3/WasmEdge-0.8.2-rc.3-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 41053016,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.8.2-rc.4": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.8.2-rc.4/WasmEdge-0.8.2-rc.4-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 41052198,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.8.2-rc.5": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.8.2-rc.5/WasmEdge-0.8.2-rc.5-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 42438229,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.9.0": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0/WasmEdge-0.9.0-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 2921975,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0/WasmEdge-0.9.0-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 3220267,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0/WasmEdge-0.9.0-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 41042211,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0/WasmEdge-0.9.0-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 32942085,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.9.0-rc.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0-rc.1/WasmEdge-0.9.0-rc.1-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 2881285,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0-rc.1/WasmEdge-0.9.0-rc.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 3128166,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0-rc.1/WasmEdge-0.9.0-rc.1-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 41033874,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.9.0-rc.2": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0-rc.2/WasmEdge-0.9.0-rc.2-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 2921893,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0-rc.2/WasmEdge-0.9.0-rc.2-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 3138157,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0-rc.2/WasmEdge-0.9.0-rc.2-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 41042661,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.9.0-rc.3": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0-rc.3/WasmEdge-0.9.0-rc.3-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 2922339,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0-rc.3/WasmEdge-0.9.0-rc.3-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 3138689,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0-rc.3/WasmEdge-0.9.0-rc.3-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 41039969,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.9.0-rc.4": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0-rc.4/WasmEdge-0.9.0-rc.4-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 2922399,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0-rc.4/WasmEdge-0.9.0-rc.4-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 3138682,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0-rc.4/WasmEdge-0.9.0-rc.4-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 41040848,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.9.0-rc.5": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0-rc.5/WasmEdge-0.9.0-rc.5-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 2918097,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0-rc.5/WasmEdge-0.9.0-rc.5-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 3216311,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.0-rc.5/WasmEdge-0.9.0-rc.5-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 41039812,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.9.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.1/WasmEdge-0.9.1-darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 3390909,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.1/WasmEdge-0.9.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 3286684,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.1/WasmEdge-0.9.1-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 41084189,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.1/WasmEdge-0.9.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 33015015,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.9.1-alpha.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.1-alpha.1/WasmEdge-0.9.1-alpha.1-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 41066738,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.1-alpha.1/WasmEdge-0.9.1-alpha.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 33009353,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.9.1-beta.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.1-beta.1/WasmEdge-0.9.1-beta.1-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 41067150,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.1-beta.1/WasmEdge-0.9.1-beta.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 33015067,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.9.1-beta.2": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.1-beta.2/WasmEdge-0.9.1-beta.2-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 3286717,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.1-beta.2/WasmEdge-0.9.1-beta.2-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 41075149,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.1-beta.2/WasmEdge-0.9.1-beta.2-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 33015061,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.9.1-rc.1": [
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.1-rc.1/WasmEdge-0.9.1-rc.1-darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 3286714,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.1-rc.1/WasmEdge-0.9.1-rc.1-manylinux1_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 41071539,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/WasmEdge/WasmEdge/releases/download/0.9.1-rc.1/WasmEdge-0.9.1-rc.1-windows.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 33015012,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ]
+}
