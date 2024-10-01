@@ -2643,6 +2643,19 @@
       "extra": ""
     }
   ],
+  "2.0.21-RC": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.21-RC/kotlin-compiler-2.0.21-RC.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 85822125,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "2.1.0-Beta1": [
     {
       "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.0-Beta1/kotlin-compiler-2.1.0-Beta1.zip",
@@ -5779,6 +5792,52 @@
       "sum": "",
       "sum_type": "",
       "size": 182838873,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "native-2.0.21-RC": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.21-RC/kotlin-native-prebuilt-linux-x86_64-2.0.21-RC.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 190583575,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.21-RC/kotlin-native-prebuilt-macos-aarch64-2.0.21-RC.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 329504689,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.21-RC/kotlin-native-prebuilt-macos-x86_64-2.0.21-RC.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 330676945,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.0.21-RC/kotlin-native-prebuilt-windows-x86_64-2.0.21-RC.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 183293331,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
