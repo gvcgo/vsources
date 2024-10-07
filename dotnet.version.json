@@ -111,17 +111,6 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/971194ae-f2fc-48d1-bf90-378f61591188/e7fbf3421848aa2edf3d360005630125/dotnet-sdk-6.0.100-preview.1.21103.13-win-arm64.zip",
-      "arch": "arm64",
-      "os": "windows",
-      "sum": "66b6d3e4d7c3ccfcb99ec01f7b97601d8a20e5c9de2640b327099c5cde4e6e637f4ccd3d4ac94137684719a056bd05ed946ec628bd457288ca7d59ea24bbc376",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
     }
   ],
   "6.0.100-preview.2": [
@@ -247,17 +236,6 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/f97da6a0-48da-427f-9c1c-17b506df5451/da85f3aea217299c5de0f6d00e960773/dotnet-sdk-6.0.100-preview.3.21202.5-win-arm64.zip",
-      "arch": "arm64",
-      "os": "windows",
-      "sum": "c0eb8327a8147232130314248f5c181c00022832af491c2fb2518fe8c998b23651f47fcd54fc5311a5c04f5dc631ceb9f874a8dd2025d0dafc43d7c7b7c912c2",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
     }
   ],
   "6.0.100-preview.4": [
@@ -266,17 +244,6 @@
       "arch": "arm64",
       "os": "linux",
       "sum": "40dbb1cf48f7f27ba95e36b5638ce5529cdba8bbfb03b2ad84e03924067f17ecc1de12132a66bb07f6b432d247bfb80e86cda7f7832d34565b880acc65940321",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/f5c00d7a-e1c8-494a-a88b-9ed1dc62249e/8438122af4fd928900a0ebf129c6c1d6/dotnet-sdk-6.0.100-preview.4.21255.9-linux-x64.tar.gz",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "9b4554f9c223ff70083618da7c12a70686d39f7b413583c6a7449bfbb5e871ef281b3f692eefca53864ea57217685bf4d7f80383015b2462666a0a26376e0f97",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -466,32 +433,10 @@
   ],
   "6.0.100-preview.7": [
     {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/084d5037-7dee-4654-b91a-fe303fa62d74/553744c6fcf2ed1128e40fa9f6cd4516/dotnet-sdk-6.0.100-preview.7.21379.14-linux-arm64.tar.gz",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "7ee5fbb4e700bcc8a840ec950a764c6ec4cbb8e23394d75a3b4b547e1178f0ae16b0edc262b0fbec5bb9dde3e870225928b147b440f1c27ffada60c03b903dde",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/ce3fd989-b69d-439a-9cac-09ad40597db8/2848d49480b6e7b1b2a18cfa46d724e2/dotnet-sdk-6.0.100-preview.7.21379.14-linux-x64.tar.gz",
       "arch": "amd64",
       "os": "linux",
       "sum": "c8757325407b5eb1e3870f0db87eeaf44df978313c0b2a7f465ec7d0a5647317cba597264ec81577ea0b3bd97bd33d782234392e8e592e073126792a0406df7b",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/97e7dc57-24e3-4c5b-8c30-c9112c8e6f78/497423126e47e546f13cd06cc480b392/dotnet-sdk-6.0.100-preview.7.21379.14-osx-arm64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "aaacc91eefabbcecb9aa37590cdcff48c0d568233c4cd851237beaa4da158868d520a24e1494d47959acca9f210f2e01c3c2a05c3560ce3e1e0734d1ba8357e0",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -806,6 +751,17 @@
   ],
   "6.0.103": [
     {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/84b9132d-f18e-4f54-bd34-ed4ffcbfa1f7/8a4cc6ca1d60a58963a1866a2b1857fe/dotnet-sdk-6.0.103-linux-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "e9efdbbb36a064b2cddcadc7b8c3a92dabc0da5c9491a6a39580720739d9a7517fee8e9ea2073d2dbfc91685f093a950bcb80713ba77413da07c17cddbbbfe55",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/5e689959-c361-447f-af43-7c9da2595cc6/7cbba6786fe0c132d3c5a6053c85f80b/dotnet-sdk-6.0.103-linux-x64.tar.gz",
       "arch": "amd64",
       "os": "linux",
@@ -821,6 +777,17 @@
       "arch": "arm64",
       "os": "darwin",
       "sum": "a14547f3538ac5f859b138b8d0674fba1ea79ed12f5daf9e7cc1eeb41519610a5ffd353fd8ca5fd3284ed6594becb2909bf4616633ea315354a66e15345e2a7e",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/9aab0a86-666a-4656-9187-193bad4faf1f/2c7373d856efe68b19d3c52f8e253885/dotnet-sdk-6.0.103-osx-x64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "5bbfc0cd384c978d427add5058edbed2bc7c53fec15416f228aa09b66bba0a1580b992b8350490036df75f9098ed68f28910713af8cdfa0ad58572471caa4cd8",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -856,6 +823,17 @@
       "arch": "arm64",
       "os": "linux",
       "sum": "91fa1114a656173a988aafd65c657c9498c34ef9145eac60b6feacc8a08f68538defeb38af472e2626ffd0669eb62140fdb1408771db0e2b63501baf2a646f29",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/ecbf40a3-ec68-4d08-9240-17b8530731bf/56aed66e46a72269c29bc3cc0f94ffc8/dotnet-sdk-6.0.104-linux-x64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "126f22f48cdbbf59ff21ac1a6cd354b4dab500cef372c42a7e4a9546c755ab6d1670a096be3c66f5fe80b6e2a5c31b16901a2c3ccbe928b501e25bb86339ec6c",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -962,6 +940,17 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/9cff1d6e-a301-4dd6-bd87-4d994331acc5/9f133776f229adff5ae722b49395c872/dotnet-sdk-6.0.105-win-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "77cdb15fb8eef1eddae375d691ea2a3e79f798861c0b5067fd0022a6ad077e154da788dc71518184406765968c8409c502a5009bcf8751e7234a66e8bd9090bd",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
     }
   ],
   "6.0.106": [
@@ -981,6 +970,17 @@
       "arch": "amd64",
       "os": "linux",
       "sum": "baf66ac51feef61c16557cc87d54d5e347f175922098aa45fd1e03dbc2669b97f602c4de378884d95da25968df4700871a82484d8882b5cd0f9a2b049c15212e",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/150e763d-fea2-4c15-97fc-862df9defe05/0bdf52cbdd9b9e2999584f9ff1ace651/dotnet-sdk-6.0.106-osx-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "51ae7a02bff806499e5c1a5a9ef6378e68fc6c3bcc3d68fdd83f992cb77d0a1468b4c532a4be1cf3c6966a186748361fa74f796dd59c9899413977fea84b165f",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -1023,6 +1023,17 @@
   ],
   "6.0.107": [
     {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/dd4f49ba-39b0-4358-bd82-18cb5b1350d1/ec891910fd6f13c22448a8162fe1f017/dotnet-sdk-6.0.107-linux-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "946b43f0da3e5d94d20163d6a94fc4fcef66c1c18d6fa02530e769201d96c9e2125c0f35532ea87e0c5b4f3a491daa6d4b8d6dd23f4eb9da32625ca0a4065e14",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/1cf99a7b-0eb2-42b1-8902-7ba3bbc825c2/05c48fc1df50db04762a852b321779ce/dotnet-sdk-6.0.107-linux-x64.tar.gz",
       "arch": "amd64",
       "os": "linux",
@@ -1054,9 +1065,42 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/5dad33d8-a389-4d80-8099-b6fe46416191/4b656bf694e80c8ee9f43ce6857ee806/dotnet-sdk-6.0.107-win-x64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "8607e122c4827b3c0f178cc6cabf38bc5efe7dcb52c535b49e5dd006650769ceba09e94f31664f1d58523e613709b7437c7167bf65b71ddd1f3e002f6100535f",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/e980a5d7-6801-4c4e-90ae-30ba97311b68/467ff9470f07525bc0e00c5219f2bd86/dotnet-sdk-6.0.107-win-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "0ad65d407a24cea892192868e7c4c5416e747626616d42b3b2b76f6717f9b2a4ef5265e399555fc350c7311e232988515243acb6a282f4cee6eccdeb53dd4ac5",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
     }
   ],
   "6.0.108": [
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/f3162067-d239-4518-9423-32559f4b6ebe/e944b933ee94602074678b2ea1374b6e/dotnet-sdk-6.0.108-linux-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "95f5c47fb27882f5554b0ee0befb813357875d6bfd19447c7c902ce225ed394bbb6cd945c5f7d5233fe0d3a16a1c006f47eba9d6be51cf8578fc5fbeba2806f0",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
     {
       "url": "https://download.visualstudio.microsoft.com/download/pr/1b3376f4-75a4-4a71-a2e1-e0e205d15941/0f53d2e7b5edd2824d2008fd38353076/dotnet-sdk-6.0.108-linux-x64.tar.gz",
       "arch": "amd64",
@@ -1095,6 +1139,17 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "90611fb657036e0bec930d7512022a0f60eb62bf3b2aabdba4f89958de1ddf033ce0255a1ce8c3e3f2928ef04cd05b807a20c298cc1583667e4f7e5e6b795720",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/00a516f9-5bb3-4965-8122-8117401d0b9b/bf72eb6fe7728e5c21748c896b8263bd/dotnet-sdk-6.0.108-win-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "a6f7e0d9cf93ebcfbbaa4973d71217e92785d85c9cbc7e11ffdc6bda1aae3c1c8dc293175b2174bb5c39ee9868dc5aa0a91589793e294ceccbc72633c8399121",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -1187,6 +1242,17 @@
       "arch": "amd64",
       "os": "linux",
       "sum": "104da00b7bfe1f564723e2314d432ad9044cbfa9ad851bc99e06e730a032c6178e487a8bee3f28f8309a32652df0143301be0b827a0c7ad00614a1ce850495e8",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/f24b1026-8430-4eb1-936c-9a157b4a616c/b52edaf7d05aeb478e8e887d8fbc03a4/dotnet-sdk-6.0.110-osx-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "66be3a01d07ba93d881172037b8254c988ed457b002a4f5b536b68faefbe82778efebfc2c43a1db11df4aeec104c2d856821ff1c342ae27f54dbb9ff2a9a2efd",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -1716,17 +1782,6 @@
       "extra": ""
     },
     {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/b569a54a-e063-49c3-a00d-17ecb360b5d2/3f67c674345eacac517a698a81d22bed/dotnet-sdk-6.0.119-linux-x64.tar.gz",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "16eea6bbee81062d2580e6465acf3248cb3c436b88f875d7eb2d44a1cc1aa73db3b5c9426e95e36868067bb2cfee7f595a2c8a91d098558b0f0e76d2b5225ef5",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/564b960c-5dc2-4919-9e59-0200126d9267/059ccd490ed3d91bd7e8264d956d321a/dotnet-sdk-6.0.119-osx-arm64.tar.gz",
       "arch": "arm64",
       "os": "darwin",
@@ -1753,17 +1808,6 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "32002ac36ff30535c5e6e5b89e5ca2599edb24409ba7e5c51b0412b06fbce9d33a83c6038ba76887d81d980cbef007d41667f0faf642c4b19afb8589554ef10a",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/bd422dc0-dcd3-4db2-a6ab-408d211dee50/4f651ed38fd9ab665268e14bc4741853/dotnet-sdk-6.0.119-win-arm64.zip",
-      "arch": "arm64",
-      "os": "windows",
-      "sum": "540fe6d86b14d2b5691fbf344ace0489d99d4d2e4a62b505badaf447ae9b7d0ef00ddcd272712b8bfae9af65e28fb78b1530e065655a43283e3790c9cb59bb90",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -1826,31 +1870,9 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/7490057b-e19d-43cb-9018-becebfc0dce7/8a233d6f103325288f35e444569d591f/dotnet-sdk-6.0.120-win-arm64.zip",
-      "arch": "arm64",
-      "os": "windows",
-      "sum": "fd4ccacbf3748a1580c08be36a4ba03c45fb0db2f8ea6199f6ba2d3b264fb43051501e21cd45b2cfa1abb7405f557be5d0502f065b8272b25e4445b03d3c2745",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
     }
   ],
   "6.0.121": [
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/811c65b9-3502-46f5-b101-d3d3ff009335/899df37b38b7cb0c2fbbed748d9a19c7/dotnet-sdk-6.0.121-linux-arm64.tar.gz",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "f654bfd76851e3373fc9cc2f71fc8c1096115e078d3d461fd438cc0e0b36d261f7f7c66e67ecb3db862dd75ef487e280976f98206fa7c45c8845b9f7b085f5ef",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
     {
       "url": "https://download.visualstudio.microsoft.com/download/pr/78dfd3dd-8eab-4dde-b856-0856cbbf1871/30580eea5b691aa5702c2013bc9864ed/dotnet-sdk-6.0.121-linux-x64.tar.gz",
       "arch": "amd64",
@@ -1878,17 +1900,6 @@
       "arch": "amd64",
       "os": "darwin",
       "sum": "aefcf46b7a1e10f4bb31374d78f93321dc14e5b02745153fcc66a07882a625e6b7826b80ec66fc3bb3f35833a89961019b90e3ceecd64a93e7f1d18238a20641",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/f436e955-4cf1-4dbf-b4c9-62aa446b0d38/f9e98dff90da93f3a74212ebf22c4dc9/dotnet-sdk-6.0.121-win-x64.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "10434a43d7bda8f029360348862e6aa36710bdc72013fccccf78a12477d10b6fc14176325ed84ee7e1136c3b17d56ed2572aa19e0a5779136e57f890b56d7529",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -1942,17 +1953,6 @@
       "extra": ""
     },
     {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/b7f10feb-06fe-4a6b-8b85-7d5890b6c124/b63d8174d1627f16ff989044502275a8/dotnet-sdk-6.0.122-osx-x64.tar.gz",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "9aee0e610cc987a045facd33c80acb70fd86660477c8a01442f9293b217bd621a747c5526761dc60def05dad390fc66cbf3dd01ee3625a43b652dcbe4e379d86",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/35c4f088-dc00-4827-b6d8-6308db211889/c91f43ac186b53e77f5b9d097166f52e/dotnet-sdk-6.0.122-win-x64.zip",
       "arch": "amd64",
       "os": "windows",
@@ -1999,17 +1999,6 @@
       "extra": ""
     },
     {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/2ae6fb84-1ab8-4671-8908-cef1bad26676/d2371118157de3ee9ec0b3095191f9f7/dotnet-sdk-6.0.123-osx-arm64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "61329bcb26979cf3c804aeff836ccd82ff67172bfe1abb12dce30b8c5e03f28c989c2874eeb04118da94a6634654e2b2bb4443a26191dd078124e209ed8e9197",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/689b5bd7-0a18-40ca-b88b-afb71480e2f4/812f324851d316409f1b3b9fabff14d4/dotnet-sdk-6.0.123-osx-x64.tar.gz",
       "arch": "amd64",
       "os": "darwin",
@@ -2049,17 +2038,6 @@
       "arch": "arm64",
       "os": "linux",
       "sum": "f682166bacec8b73f20581e8616454b5d09efa277df6831eca28f51c828d6280ee188a81fd080e997e3e3c295ea505fd3a91b5dc1fb7c3af3954dcb7be5e296c",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/70d22516-2a60-4c76-9233-6ba83a8f8ed3/bc432585db11b62867118420a48b576e/dotnet-sdk-6.0.124-linux-x64.tar.gz",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "7ac7f2600ac769f2448376b314da84c893dd3239bd34c440715568e8fa8b4dbda97b184173e0a1e5d65432c13876b9a52f0b287c698cc1118b3c647cc12a1148",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -2565,6 +2543,17 @@
       "extra": ""
     },
     {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/ce77d3f6-4248-463d-931c-30f67208dd2c/ee2e8a08f2e490028d58450cf40a9cca/dotnet-sdk-6.0.131-win-x64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "2655938bc0e94e788b847c45adcc87a8c4afd160294a0f374c7306a1015ec83d300c1092f11f386958686b70431cec109257ace163a79551f5be797fb8b6a0ba",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/a7a8621d-8261-49dd-ba62-341b0737ad22/a55274c5fc6ef62805a30626ffdc1a63/dotnet-sdk-6.0.131-win-arm64.zip",
       "arch": "arm64",
       "os": "windows",
@@ -2604,6 +2593,17 @@
       "arch": "arm64",
       "os": "darwin",
       "sum": "076f890802a0446b43a6aecad0efad939f100e70ed7b5f4ceeab87b0781598b23d647bd77773ce8d895a1573fe68e05cffbcc0d5368cdf954b0471abcdd2780e",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/45415455-e8cf-42a7-a827-96d189fbc330/36452e5dceca0b0bba3b70a024ee9c15/dotnet-sdk-6.0.132-osx-x64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "479a45792663144f386ac9ce7f387e2c6d04024dd85de07a83956b4aeff7e91e062937e6e5c341fbc447566284145a491a2faaf6af929cf1940c09ef4966f7bf",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -2782,6 +2782,17 @@
       "extra": ""
     },
     {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/c505a449-9ecf-4352-8629-56216f521616/bd6807340faae05b61de340c8bf161e8/dotnet-sdk-6.0.201-linux-x64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "a4d96b6ca2abb7d71cc2c64282f9bd07cedc52c03d8d6668346ae0cd33a9a670d7185ab0037c8f0ecd6c212141038ed9ea9b19a188d1df2aae10b2683ce818ce",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/628be5e6-7fc7-42b6-99c9-ea46fbcc3d14/d94bb4198af2d5013c75b1c70751ec8f/dotnet-sdk-6.0.201-osx-arm64.tar.gz",
       "arch": "arm64",
       "os": "darwin",
@@ -2797,6 +2808,17 @@
       "arch": "amd64",
       "os": "darwin",
       "sum": "1df27ca5a1db1a8712acd95083aa00ec7b266618770e164d6460d0cf781b3643a7365ef35232140c83b588f7aa4e2d7e5f5b6d627f1851b2d0ec197172f9fb4d",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/5432b207-da43-4524-810c-563f1820d6b4/f5ca8777ecca3fd9dff35ca90502c960/dotnet-sdk-6.0.201-win-x64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "8b7e16202cd67f8a2eac251b33fcb9099bc8113c5d76a0eff99c74a768dd2cda5db7c70aa3224e9731d94b5d7f2c46257f64b6a4a613679266bf16a733f79e01",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -2821,6 +2843,17 @@
       "arch": "arm64",
       "os": "linux",
       "sum": "2d0021bb4cd221ffba6888dbd6300e459f45f4f9d3cf7323f3b97ee0f093ef678f5a36d1c982296f4e15bbcbd7275ced72c3e9b2fc754039ba663d0612ffd866",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/9d8c7137-2091-4fc6-a419-60ba59c8b9de/db0c5cda94f31d2260d369123de32d59/dotnet-sdk-6.0.202-linux-x64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "81e9c368d445d9e92e3af471d52dc2aa05e3ecb75ce95c13a2ed1d117852dae43d23d913bbe92eab730aef7f38a14488a1ac65c3b79444026a629647322c5798",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -2885,6 +2918,28 @@
       "extra": ""
     },
     {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/e075dadf-22a9-482b-9387-bf8341a4f837/ab20e3e34c2c8be290d9938590f208ed/dotnet-sdk-6.0.203-linux-x64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "08b97f34a74c9605eb2fef414b9df89e0bff5c0564672a1a7653fe37fce4e10c272aa0ddc1121d981bca04a3e98cd2346c679a18b6052f2afb08d767f49626f8",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/5bb286c5-8c12-4eb0-91b3-0d673675f569/f925842decf6c320e0db41397e7636e7/dotnet-sdk-6.0.203-osx-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "fb7841f78f658c863f88e82eda9694454ad2c8ddd01d81faef46a94cdc93d52b6a35d22e49ae28e36d205d3a915a924b6dbb7d16766e25180be597639f0ead28",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/82aef4a2-e57f-4795-af33-e21840bc0413/2df621abe3e88ce9a0fa0b1a69943b01/dotnet-sdk-6.0.203-osx-x64.tar.gz",
       "arch": "amd64",
       "os": "darwin",
@@ -2900,6 +2955,17 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "71b5b2d99ebe1fe025bb341e463b1f6c459d1725e12e9dba14327e958849fa2f8e0dd310f77a705d0926e560f77df40476b9f9f5002a63bde43f07bc082b1715",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/eef29a59-02fe-471c-8071-f9f8ea564093/f215dab02beb59eb1706d990dcb0c0a2/dotnet-sdk-6.0.203-win-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "a84da4178bbc4ac36c9f44b3a7bc54567bab092b767a47b5c0f3a1a0e66c84f3d574f42de67b85d52c8a084832599c9c39b9749abf30d15c5a9adb34e96003b7",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -2931,6 +2997,17 @@
       "extra": ""
     },
     {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/da2f2a2c-df3a-4866-a248-a8ff14d1c515/5136a4e95ecbbe2c8a44c07a7043edaa/dotnet-sdk-6.0.300-osx-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "174cecbfdfcd1187ca71e5b741eadacc0e103cea75262f7dd15fdab6845226cec8def75cf4cbec3dc07bd085d003ac456670115b2f2a4a88f902be8a5c3bb3ae",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/5c55a0f8-8f53-4b62-8fc5-9f428b8679a5/af7a2e2804c6cad414e6a686866baad7/dotnet-sdk-6.0.300-osx-x64.tar.gz",
       "arch": "amd64",
       "os": "darwin",
@@ -2946,6 +3023,17 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "579d886a6778540ac36098b511322fb99e9d5bdc07dd4cc1cb840da04286422019c091b133d306abd4dff9fae1154abf6e996625895db853c9140e6d9dba560a",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/6d0c9fe2-30f1-47bd-9a6b-8adbdd083875/67ea0b44525e220b1f7c81ff88ec19c5/dotnet-sdk-6.0.300-win-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "55f58f99afbdde247504b700594389fe5a95c95b2c0cb4a8c7ba45f6c57b74fe801803a918c704e1e84329d97e95cbb53b9f914e62f57af443c2dbf440b940f3",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -3034,10 +3122,32 @@
       "extra": ""
     },
     {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/0e83f50a-0619-45e6-8f16-dc4f41d1bb16/e0de908b2f070ef9e7e3b6ddea9d268c/dotnet-sdk-6.0.302-linux-x64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "ac1d124802ca035aa00806312460b371af8e3a55d85383ddd8bb66f427c4fabae75b8be23c45888344e13b283a4f9c7df228447c06d796a57ffa5bb21992e6a4",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/01a17a2d-6b92-4521-97a2-ad7d845a8064/44aa4e10f71e70a38b5f6f59d211cbab/dotnet-sdk-6.0.302-osx-arm64.tar.gz",
       "arch": "arm64",
       "os": "darwin",
       "sum": "59caea897a56b785245dcd3a6082247aeb879c39ecfab16db60e9dc3db447ca4e3ebe68e992c0551af886cd81f6f0088cb1433f1be6df865afa357f90f37ccf6",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/60719796-b5c5-46dc-a26a-7e8126a292c8/a7b871d6c46136b61c30403d085ef97c/dotnet-sdk-6.0.302-osx-x64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "003a06be76bf6228b4c033f34773039d57ebd485cf471a8117f5516f243a47a24d1b485ab9307becc1973107bb1d5b6c3028bbcbb217cbb42f5bee4c6c01c458",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -3080,10 +3190,32 @@
       "extra": ""
     },
     {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/dce68d71-9fd9-47d6-9d66-4fc9f517a41d/3e3e67f5e16f9ca2607a46abfa8750d7/dotnet-sdk-6.0.303-linux-x64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "f4ad1bce2d677c4068a32290a1cbeb32f2784c258c0e569547119ccb8ffed04b42d163ed9795acefb2116bc20b91cee5493556f399dad2853641b0403517dcaa",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/cfb4203a-0c0a-4e9c-99f3-315f1e06f197/0fe3ee6df42b35c8cdc9c1cfc91bab4b/dotnet-sdk-6.0.303-osx-arm64.tar.gz",
       "arch": "arm64",
       "os": "darwin",
       "sum": "43a7d600b6e19e27e588d038691289846f42c7fc988e60eb4c7cbef946d3f12c15b4c2fb85b3153bad7bf94a08a3ad340871e992b88bb7a099d9e88c307a28a5",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/283d6ec3-03c6-4ca9-aaea-a69417fc5ad7/30326aa813cf448e827b697940539d43/dotnet-sdk-6.0.303-osx-x64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "671ad0d7e77ea86159fe798616c0fda8e817e1a28ee4958258da329adcb8f694ae4476d93236d63106b8bf4fd2b533a622254cf105d74046bd87ea71c3680537",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -3137,10 +3269,43 @@
       "extra": ""
     },
     {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/7e5a4c1f-6b52-4f18-83d2-f0364d9c8bac/9833fec0570aa7e3d6a1470a9c5e4455/dotnet-sdk-6.0.304-osx-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "84db8eaf1ea3ae9b8b74609989a2d67367533ebe1ef2d39db5c3320c488b3cec9106a4f89b826c33d7bae2e44124e1f6b8093b8156c5f08fe80c1d6d8f961f10",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/127aac26-63ff-4c0a-b8a0-403e71d9716a/e9a87326b1ad30e7131d9be4cf7d9e57/dotnet-sdk-6.0.304-osx-x64.tar.gz",
       "arch": "amd64",
       "os": "darwin",
       "sum": "6ab14abb005b9d9704291f342d8d9bdf2095c780bb443216b220d3e78be3ba8b03b7104b6b3dbb69e24fb45cac8b719ec9bd92a93bb5635de77dba54cabc3e22",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/3eb75b2c-c9e4-4ad5-8178-75956bb976d0/1be42b3e86ee3a65e7220d6137c6b7ba/dotnet-sdk-6.0.304-win-x64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "702246b6767f9aec2ea788cc4b3446a1a09afd4559c4419cca0047830c4a07dfb50c744746effa516eed171b3cd47202bdae83044725b687c9442e19c048372b",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/f5aa894e-1c2a-4c19-9ba6-0c9ba4a14afd/328c789e2fa177535df382a944fcdc38/dotnet-sdk-6.0.304-win-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "01a8e2a72badebc96b6efa4f3e5df04feb01870a1a709f01d52b192983eec430436470f15cbeb0cad1ade42262ef757838608b4ab0bd0b692897d9925cf30cc1",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -3161,10 +3326,32 @@
       "extra": ""
     },
     {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/eb15bbfe-c330-448b-9808-075610943fba/cf8bc8799a562f76bb82ee0d1c11c5ff/dotnet-sdk-6.0.305-linux-x64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "783859f84ca572c461392a6a42a6ae05d92a5a28741e2ed829bb5d9a3bfe122e343516a9d56b4aa6bff9190f15c229574b06033999e02feac59689f567c8a80c",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/e9c3e9a3-26da-4dc4-ae3d-b234b3659a7a/0fc19a87c495b161a2136d8c37a04303/dotnet-sdk-6.0.305-osx-arm64.tar.gz",
       "arch": "arm64",
       "os": "darwin",
       "sum": "18cd914a6809d0ab783596c7a06318fea39d7c198e7171f39ba29ee1e87114c1d68a7483d9a7d22099d2e712b815d92b77c13beef9ce9f203949df26df0df4ed",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/708db014-a6c4-4284-8e5a-3a5aaadf6900/722f30b917a088f11878120c4daa80f2/dotnet-sdk-6.0.305-osx-x64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "a548e0dd9e5e869f358e121bbd03a36bd7af3b753e08f32cf99957e5e21213046547eca1cbcfe256d9d53d25231a3643021fb34f1f8ab5221f233875bff6d1b3",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -3233,6 +3420,28 @@
       "arch": "amd64",
       "os": "darwin",
       "sum": "df319f562b20c1fceaccd0d328fbfab3ac5f2363adbf63038a9332869b32cf7090d077ff3a783f3d7c12a9a00f1b15412d01f33d586b2ab815faf088f9c76685",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/2550a430-8306-4bd3-931b-e33a033dd348/d53dd029ac4edc3fd5b0bd4525862198/dotnet-sdk-6.0.306-win-x64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "0fc8df00fd30665c7dc36173c16b39cd0110638315771defd2981a595018838c045df23c1247ed1e1fe766cf20112fcebf59a3f62d3926b73f6585d3405aac30",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/a2bfb136-267d-4356-8cf6-f20d4e144d45/5863fdccb15e6b74b1163bd41292c884/dotnet-sdk-6.0.306-win-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "40a59da6264e30bb03a837d46f3c8a14e894be25e6f1e60ad293c53430af36c455caffb93d91be07c6c2ea83f9a1e3e6916ab167021ac4fe2afa00e8a4ad1492",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -3672,17 +3881,6 @@
       "extra": ""
     },
     {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/b5fa4aab-9276-4658-ae39-912378c73448/1e9cc82197b7b21ce2b6f42da969bb97/dotnet-sdk-6.0.314-osx-arm64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "0f50fe1bb2845d947cd44e12b831011cf7ec2644f772920ff90bae5cca36a265624c1742ce05ea46635216a636b66611c2fe96405bf1a90c37e5e21ad51a3b8e",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/5409f71a-b66d-4ca1-99d0-3505154bd565/8dc3f0fa6d635a7a9ac1ce97749e1a5a/dotnet-sdk-6.0.314-osx-x64.tar.gz",
       "arch": "amd64",
       "os": "darwin",
@@ -3955,28 +4153,6 @@
       "extra": ""
     },
     {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/dc77de14-1429-44db-8ec1-957dd7b6ac5b/58c5a24a46bbb03043ab348050369678/dotnet-sdk-6.0.318-osx-x64.tar.gz",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "c9a6aac5a981bf1c10d9c136583df9fc3d34687ea7db0232804796e17e176655f9ae9b42611abdac77b8747c14ba37b09b7c9542a621353e25fe98c314dd0ec8",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/8e2bfffc-3a16-4cd8-949e-53ec8b4172f1/044c24393d9bcaa17e940daeca68ece5/dotnet-sdk-6.0.318-win-x64.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "2455589dd4e63034cca4200c07ef82e77bd794a6e4d46f98015e7323125ee3c715b3d05805b218ec26d7d2c58916ad55e846b1bdcee0c80a725a671b492a1d91",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/d42dccd7-c22d-4884-89da-b78785361996/9b8488b3649f0775d2d2e48b36e2a40b/dotnet-sdk-6.0.318-win-arm64.zip",
       "arch": "arm64",
       "os": "windows",
@@ -4016,17 +4192,6 @@
       "arch": "arm64",
       "os": "darwin",
       "sum": "3baebf0bf619f18102918c5b336f2c2d1149323c2b1f32fc923edac3a1463774230d91300b1e0c5c1df4fd0e5a6bc8e6bab8c4604c5705208448c778c7edb113",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/91393e5b-ae39-4637-8dfb-0a93b67ba9b1/d1a5c64a200ba58e08239ff0c3e63431/dotnet-sdk-6.0.319-osx-x64.tar.gz",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "05d816b9ad79db474fd84c9e87334ed829dfc5f3b262b0d8ea75026733c3deb95bca2e14a8ee81cf41f5aaf98e4c178ca4783cb7289c2669feac759478ebf2bd",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -4084,17 +4249,6 @@
       "arch": "arm64",
       "os": "darwin",
       "sum": "6014ddc61a1d80d600542e957a52ed31ce2105758557342e51287450ea7d36ffe2e00746010bfe070c0dc3e7c9d65bb3fed214855a1f0e64fed94a823f60d42d",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/645b6c37-9d3e-4b4c-a948-bcc1429353d6/18917645918060a178fe5327e1ec9a0c/dotnet-sdk-6.0.320-osx-x64.tar.gz",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "342178f3204f8a9417737270f06d1929c9ca01e5dad984533b4181f66ddc4086e03d7ed096bbf06dcb029b75bcba339159f3e529cd7dead5ca0b0e0ffab230a2",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -4238,6 +4392,17 @@
       "extra": ""
     },
     {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/8686fa48-b378-424e-908b-afbd66d6e120/2d75d5c3574fb5d917c5a3cd3f624287/dotnet-sdk-6.0.400-win-x64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "382d0ea5d78e18691a4e5789db174df1ee0d64062a7198793776db1b0857e303bd23d12008dd87d952fe8d5a4d3fd2eb58735a46db7c26b5b9e3fb51f3435c66",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/9d41452a-c2e3-4167-99f6-6fed68f9ae2d/82dfd382a47ff65636375851dadaa924/dotnet-sdk-6.0.400-win-arm64.zip",
       "arch": "arm64",
       "os": "windows",
@@ -4266,6 +4431,17 @@
       "arch": "amd64",
       "os": "linux",
       "sum": "6fce5f29e6cfc80da1df86d2de3a637108023397d275e0dcfa0b79ef36eb85c2c3433db467aa5d8fda7e32bc21205a126636b53d56c4eb4c547d9d3b2370cb31",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/dfeaba35-b5b0-4299-b4fa-56735e3f224e/80cc6c2404d0319fb3eab5d0f407b169/dotnet-sdk-6.0.401-osx-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "0e1974a99863afe0b2c03fe52874ad388c3e019e34c7e0a1dc29955dfa9783a946082270fbd767272817509b30d1928d0c9f12cda43777292587693e0b0fc604",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -4375,6 +4551,17 @@
     }
   ],
   "6.0.403": [
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/67ca3f83-3769-4cd8-882a-27ab0c191784/bf631a0229827de92f5c026055218cc0/dotnet-sdk-6.0.403-linux-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "fe62f6eca80acb6774f0a80c472dd02851d88f7ec09cc7f1cadd9981ec0ee1ceb87224911fc0c544cb932c7f5a91c66471a0458b50f85c899154bc8c3605a88e",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
     {
       "url": "https://download.visualstudio.microsoft.com/download/pr/1d2007d3-da35-48ad-80cc-a39cbc726908/1f3555baa8b14c3327bb4eaa570d7d07/dotnet-sdk-6.0.403-linux-x64.tar.gz",
       "arch": "amd64",
@@ -4784,28 +4971,6 @@
       "extra": ""
     },
     {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/ac5809b0-7930-4ae9-9005-58f2fd7912f3/4cf0cb18d22a162b33149b1f28a8e045/dotnet-sdk-6.0.410-linux-x64.tar.gz",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "8c85f5b10eb786c8cf31bf268131a2345a295d88d318310dc8457d831f0a587ec1600e43beb7f55aec2248483b9a95e905a468b592f0c910443b4aaa9baeb2e3",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/c9f8cecc-df92-4720-bb4f-273c55762b68/7abd1ebeb6241949dae538dc72532190/dotnet-sdk-6.0.410-osx-arm64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "c52d9bcf96605b2cd76eaa7c09455d8fea29bce119c7072c94b4c51dacc171ffd3ee3d38ffa4a84f1d1c750ac8d957447aa4c77c71c4a90af4407ac9a1afa6ad",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/190b69f8-f50a-4d68-bd44-8bfc5271265a/a29b1769b5e5d73366cb34ba3bccf9d9/dotnet-sdk-6.0.410-osx-x64.tar.gz",
       "arch": "amd64",
       "os": "darwin",
@@ -4874,28 +5039,6 @@
       "extra": ""
     },
     {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/d53a8cc3-7c70-4374-8072-5ddd6a75ff5b/0b64e3ca7c14755bd4d806ca235a2760/dotnet-sdk-6.0.411-osx-x64.tar.gz",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "11068da9ae996d0f0c2410ab2fc0a6637d5daa25ef9c152cbd509ee9ef51e452134a787b5214e8122a797b3cd00771fa3bd54c2e4aacbb3cf8ef103dc85b0a99",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/61f44f70-0f5a-4b89-ae95-b26c80567917/abac586ea20fb485702ea496fe83b9ee/dotnet-sdk-6.0.411-win-x64.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "96efc948434bdb88aa2d609c65a8eadd9df750fcdf156b0384caa004e170e16113d5bcb719de423e4f0b184a36004ea86bac8e3d553047485001976740d59bc9",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/67ddd8f3-5a64-433d-8194-eb50fca0e1a6/e635545de1ec4875546aa744de78264c/dotnet-sdk-6.0.411-win-arm64.zip",
       "arch": "arm64",
       "os": "windows",
@@ -4957,17 +5100,6 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "824f5dd4390cad4ac7ddc344a6cdecda3ff9f19adef0ac77430302a2fa8df57e1e044c2c3ea83545ff25223b856873364239067b448707bb009788dce7f0c732",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/9bbf1d58-ff39-456b-8a27-9b43287d1a55/c6a0aa81a9438addb61d6ecc050de09b/dotnet-sdk-6.0.412-win-arm64.zip",
-      "arch": "arm64",
-      "os": "windows",
-      "sum": "0591fc394ca5e8cd52d4ee7dd6884b57b0d46678bba4cc95e6582eb091eb34b53ee7f7fdd8d1aee3d6cfdeb0a09cedb66761852fc4d7a8954e0821b35f6305f5",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -5045,28 +5177,6 @@
   ],
   "6.0.414": [
     {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/a2afb4da-478b-4ffa-aeeb-a37a313d6fc8/0897a8456d42f306519de9a15b1e14ef/dotnet-sdk-6.0.414-linux-arm64.tar.gz",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "225367725fa2af00240654863c4dbe2370b95542d8c411a78017e37e13031a67049bcf570b94d9fdc9f61b1d13db7bf7ff9772bceccb70f43dd468302a47016c",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/d97d1625-d7ed-444c-a7e9-e7b469842960/d8b97220d0d79119e3026da2b956854e/dotnet-sdk-6.0.414-linux-x64.tar.gz",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "79bb0576df990bb1bdb2008756587fbf6068562887b67787f639fa51cf1a73d06a7272a244ef34de627dee4bb82377f91f49de9994cbaeb849412df4e711db40",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/72bd5609-d0bd-4fb5-a563-6f426038a7d9/01507b650934aab36c340284d0819ba3/dotnet-sdk-6.0.414-osx-arm64.tar.gz",
       "arch": "arm64",
       "os": "darwin",
@@ -5093,17 +5203,6 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "6f9cec518cd1c39ab0a161e890d486a920d553f2011d9b0f68ad962b0f5e16a4c14124c99c5bc09cae007ba01603118a3f0f2aaaaec7f4578e7e57f8d3d43480",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/f30157af-c3e4-4a1a-8668-a96c9a4fb8bf/e9a6d55be6224ac35f79c7c1d81fa844/dotnet-sdk-6.0.414-win-arm64.zip",
-      "arch": "arm64",
-      "os": "windows",
-      "sum": "4b81d0299bcfa43a05b2f65d8fad35ba4876631776d4569d8e093ec3512f08ba833a399efb193283f414df3384c49a4ef3ab9e9fb8ce871c1021329d0e2cd723",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -5139,17 +5238,6 @@
       "arch": "arm64",
       "os": "darwin",
       "sum": "fa5e6c19cbbc7ed431ce08d84ed6c37a96a225df62a0abe4c70c81d5bc563ba5a84e4672829d3278ae5f8ed6e2e02f98314e6a287b5c5faff34d7f887c6c31fd",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/d5060b22-1d6d-4372-9ae1-6240fad6925c/74040d3b0c729b6c780b526978b29446/dotnet-sdk-6.0.415-osx-x64.tar.gz",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "545e2241f083942d907b6b9bb5f45ecf5a678568c85be49924ca797457d57ce9ff0486614f2951999a22d3f97828ea67e9fb5790ff68ccb13fa6751d8477aae9",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -5565,6 +5653,17 @@
       "extra": ""
     },
     {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/14804c03-4206-411a-80a5-8e26cd6ddcbc/e4e1e88d75be3a6f5c84ea3d39f60c19/dotnet-sdk-6.0.421-win-x64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "e4ef642a5f02245a44424559f186d26a4e9a6ffa9bea83dda7d439d86eb97419f618bb5479572dd7f48a4fa981b3f88125e74c14c2a7e1ffb04cb8b083bb245e",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/94270c9d-949b-412a-9a6b-078f8fe2f95d/9dad0f822e025fd3c35175f8bc7e7067/dotnet-sdk-6.0.421-win-arm64.zip",
       "arch": "arm64",
       "os": "windows",
@@ -5600,10 +5699,43 @@
       "extra": ""
     },
     {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/2f0c0bae-a26c-44c1-bd9e-9fcd42548066/c88dc835e8ac824d992696122c10d959/dotnet-sdk-6.0.422-osx-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "7bb885b605f51cffcb235a6bb6f0eccef7a211e67480fa6243b0cb8899dfd60c4c0501579c0c1dc7fb267aea5db5a6d35cf9e2a35903772797a66360fa171b3b",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/818b0c97-95cc-4da8-b5af-05f6854c5e89/200ee246643a1d6a0436ad967ae705f1/dotnet-sdk-6.0.422-osx-x64.tar.gz",
       "arch": "amd64",
       "os": "darwin",
       "sum": "a301982e64a18cf06577463fc3e2e179c06a31597b1b32127b1196dba755bcc3323edb618f6000c9f4f9ed902c671377a459e9ac90da2c761744fc1d57e220cf",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/078b7ea9-b26e-4c4e-80eb-3a79be9906d8/a20046f51d2e14c20ac4d5872f29d174/dotnet-sdk-6.0.422-win-x64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "3f764f7f5a0ee80382a321a98509a50746a4cf5e8d30fbbaddbeffbdb48a34a1f60b9735d021d56c15a42038cd7276e170e3932b42f7c7fba97e541381a21865",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/09f68839-eb40-4bd5-a356-d5b5d50294c2/cf2a1373e137b30b6e61960ed2f4935c/dotnet-sdk-6.0.422-win-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "501fc28174cdb1037b9297923c7545dba7e56f7945ff32c8e41d76cbf559316d60c1066c17512effdfdc325c67e62b3ccc8c46e3a40bf26d4c2515d9b40bd522",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -5661,17 +5793,6 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "2fae66117bca22d76afde89e91bf8a40b4602254db4f831b0647e69e3ced23f972f335521847955069e6b8a74e7320ffe2af1f2bfc48842216451216845c3301",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/50b92e6f-930f-43f3-8e81-80e8422b4ea2/f455097aaa991617fb540b557c9c187b/dotnet-sdk-6.0.423-win-arm64.zip",
-      "arch": "arm64",
-      "os": "windows",
-      "sum": "16f8be3df06766bb6e285665e3542c5ad857a5efc5e9239754d235de11ac71f2e15612bb96d702c84a354923ff2b9c1ceac057fd7cbd3edbecd7cf9658ef3e9d",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
