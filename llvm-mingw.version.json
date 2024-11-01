@@ -2161,5 +2161,51 @@
       "lts": "",
       "extra": ""
     }
+  ],
+  "20241030": [
+    {
+      "url": "https://github.com/mstorsjo/llvm-mingw/releases/download/20241030/llvm-mingw-20241030-msvcrt-x86_64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 152169372,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/mstorsjo/llvm-mingw/releases/download/20241030/llvm-mingw-20241030-ucrt-macos-universal.tar.xz",
+      "arch": "any",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 109356564,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/mstorsjo/llvm-mingw/releases/download/20241030/llvm-mingw-20241030-ucrt-ubuntu-20.04-aarch64.tar.xz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 83023572,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/mstorsjo/llvm-mingw/releases/download/20241030/llvm-mingw-20241030-ucrt-ubuntu-20.04-x86_64.tar.xz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 88323404,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
   ]
 }
