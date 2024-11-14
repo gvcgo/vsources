@@ -1,10 +1,10 @@
-flag_dir_excepted = false
+flag_dir_excepted = true
 additional_envs = []
 
 [flag_files]
-windows = ['rustup.exe']
-linux = ['rustup']
-darwin = ['rustup']
+windows = ['rustup-init.exe']
+linux = ['rustup-init']
+darwin = ['rustup-init']
 
 [binary_dirs]
 windows = []
