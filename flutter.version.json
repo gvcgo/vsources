@@ -1,10 +1,36 @@
 {
-  "1.17.0-3.4.pre": [
+  "1.17.0-3.2.pre": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.17.0-3.4.pre-beta.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.17.0-3.2.pre-beta.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "9120c5044fbbec16b639b2a5256f37fd0774e976798ff5aa44b9ecbc4c173152",
+      "sum": "a249672dfec50eeb20bbe9e32e2cc17a5de80f7c52b1f8592e2125ab3233907d",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "1.17.0-3.3.pre": [
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.17.0-3.3.pre-beta.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "561ace7f7cb60e496da6e918f36aa88c494f40faeffa5567ef728b3b9e4f8654",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "1.17.0-dev.2.0": [
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.17.0-dev.2.0-dev.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "effe8c03100acafb7e2ea7aa431adb85f9216a844b484aa44aed5e486c299c4c",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -25,12 +51,12 @@
       "extra": ""
     }
   ],
-  "1.17.0-dev.4.0": [
+  "1.17.0-dev.3.1": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.17.0-dev.4.0-dev.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.17.0-dev.3.1-beta.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "7db6249feff730a8c5423fc74c66953feccc411d02b68af96744855cf853cab1",
+      "sum": "d5a437151d72e4a43269d1da9686a3f2aadadd2d9f7d09706f447131d3744f7b",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -67,7 +93,7 @@
   "1.17.3": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_1.17.3-stable.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "44eb682c73824c0e9e3b68779079a11286108e0993aeb17d722c7a3dab6f7f98",
       "sum_type": "sha256",
@@ -80,7 +106,7 @@
   "1.17.4": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_1.17.4-stable.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "eef98db85ea6170868d4c1b1fc0262dacf9207635b8191c0c7c690b58a661961",
       "sum_type": "sha256",
@@ -93,7 +119,7 @@
   "1.17.5": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_1.17.5-stable.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "690946999d8a88ddf41247e516d74debac11743b94c192afdc8587c2ec48a817",
       "sum_type": "sha256",
@@ -116,12 +142,12 @@
       "extra": ""
     }
   ],
-  "1.18.0-7.0.pre": [
+  "1.18.0-13.0.pre": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.18.0-7.0.pre-dev.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.18.0-13.0.pre-dev.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "64b4d6ca0ac3cf86c60af935274224ce3f269e710b8e4f02b06f7d0f05227028",
+      "sum": "c5dc98f69d162d647bd82a5cb9b313b039d27c95689934dc65ef2ec8f94899ab",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -129,12 +155,12 @@
       "extra": ""
     }
   ],
-  "1.18.0-dev.1.0": [
+  "1.18.0-dev.0.0": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.18.0-dev.1.0-dev.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.18.0-dev.0.0-dev.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "e52b4639eb9b93d80fd5c5f7e1917d935c4641b23938c01ac6393870474243a3",
+      "sum": "c9780941e6fedba23cf3c78b5ac23f51777eeca4ae76809b2453c0f10c930698",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -148,19 +174,6 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "358f415bc9d8f5337202bac7fc100bec261cb546a4d899a3e4078093f93659b2",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "1.18.0-dev.3.0": [
-    {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.18.0-dev.3.0-dev.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "54addbd6b0c6af7e47b0b20885761d6b2146dac04712f15c91f4d76128f67f17",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -197,7 +210,7 @@
   "1.19.0-2.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.19.0-2.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "929db832e3504ebe92b9519938fc5ce2e28cd9a89bd2dd29709aa69d6a35c2be",
       "sum_type": "sha256",
@@ -210,7 +223,7 @@
   "1.19.0-3.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.19.0-3.0.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "9e696fc4d572c7f42dc1661f247160fea80f8ca63611c9584d359c502cad107d",
       "sum_type": "sha256",
@@ -236,7 +249,7 @@
   "1.19.0-4.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.19.0-4.1.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "a7e5cd0a2725617633f6ff5eec483b756ecf560a9ed7bfdd9164a45817de2182",
       "sum_type": "sha256",
@@ -249,7 +262,7 @@
   "1.19.0-4.2.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.19.0-4.2.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "91adc51c627ba75c993eb33d43c54c1897546e03cc2dd0d2b9ddb8ea93802cbf",
       "sum_type": "sha256",
@@ -262,7 +275,7 @@
   "1.19.0-4.3.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.19.0-4.3.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "7a6ffa058e83e736aad836232e9d089bdb0e9d0fa7ca2ff9e9b9311529060103",
       "sum_type": "sha256",
@@ -275,7 +288,7 @@
   "1.19.0-5.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.19.0-5.0.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "e7d9a3557a765fdd4a816fef88e37f810f8930fd0729200abb5ddc137294cc22",
       "sum_type": "sha256",
@@ -323,7 +336,7 @@
   "1.20.0-0.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.20.0-0.0.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "02a62f577d8bbb87b40360b49a13a3530af1e769c02bb87baf5bba78ec0b3e29",
       "sum_type": "sha256",
@@ -336,7 +349,7 @@
   "1.20.0-2.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.20.0-2.0.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "c0189f6228510bfa1a46341ade13ae3a80d3e7a5b85ef63815abf0f653cbbac8",
       "sum_type": "sha256",
@@ -349,7 +362,7 @@
   "1.20.0-3.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.20.0-3.0.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "71e98dd58eecb59943dba836715487e889679459d02df8268ac1bcef489d7847",
       "sum_type": "sha256",
@@ -362,7 +375,7 @@
   "1.20.0-7.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.20.0-7.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "33709a0b9d6944d20183d07f2ab4f8b387691ba5c4bcc2e51dd4af178fa18bef",
       "sum_type": "sha256",
@@ -375,7 +388,7 @@
   "1.20.0-7.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.20.0-7.1.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "edd76342cf2f34b495fcbeb781101ed8ca8093972a41f55e726d0f2b55f02268",
       "sum_type": "sha256",
@@ -388,7 +401,7 @@
   "1.20.0-7.2.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.20.0-7.2.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "f6db3fb22adb60c84c649718bc7555e8fc5e84cbf6aae197e58af7c5068fe992",
       "sum_type": "sha256",
@@ -401,7 +414,7 @@
   "1.20.0-7.3.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.20.0-7.3.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "aa8f9c088790b164290a631cbd8e7b40632aed097a44bb051d158ededaf45008",
       "sum_type": "sha256",
@@ -414,7 +427,7 @@
   "1.20.0-7.4.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.20.0-7.4.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "a6d8a16dc33c4fe0648a1b67a5d0a45acb617ca8378f6167291a1255c4fd7a32",
       "sum_type": "sha256",
@@ -600,7 +613,7 @@
   "1.21.0-1.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.21.0-1.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "004d5aa5f0366b1eb8bc9c2767816ce6bcaa9a173a24235d8e37a0d2ed7c2b3a",
       "sum_type": "sha256",
@@ -626,7 +639,7 @@
   "1.21.0-9.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.21.0-9.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "cbeb33cc4a0961c7e282cfa512cbc15e969e62517425ea3a47e9882cacb64fd0",
       "sum_type": "sha256",
@@ -652,7 +665,7 @@
   "1.21.0-9.2.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.21.0-9.2.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "496c23fdde65a276f8b8b7bf9e9d0735e6428e8106bd14759074601e53923076",
       "sum_type": "sha256",
@@ -700,7 +713,7 @@
   "1.22.0-1.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.22.0-1.0.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "3023efc5cf6be1276ae42f85b3b9975fa244e12776b6f96094b44a4e5b2cee31",
       "sum_type": "sha256",
@@ -713,7 +726,7 @@
   "1.22.0-12.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.22.0-12.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "65b7f68bce2f73c0881f127e68d376bffa3bbe90757a7bced19698b673085964",
       "sum_type": "sha256",
@@ -726,7 +739,7 @@
   "1.22.0-12.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.22.0-12.1.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "a779a5d41233affa1460d3a4152b343df3d2bacf7be1eeedfd777c1fa6c21b3f",
       "sum_type": "sha256",
@@ -739,7 +752,7 @@
   "1.22.0-12.2.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.22.0-12.2.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "fc5e70612bec2350cd68c4a5f93de5196b72208b9c65af19d4f1bd55a0daca88",
       "sum_type": "sha256",
@@ -765,7 +778,7 @@
   "1.22.0-12.4.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.22.0-12.4.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "684eafa09a20c20d947b889f56069197709ba92433b42942d96b83903fa59c08",
       "sum_type": "sha256",
@@ -778,7 +791,7 @@
   "1.22.0-9.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.22.0-9.0.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "bf6b52e21810388d154f8b16ecea8890ecac3d21e39577084f4426d932c0899d",
       "sum_type": "sha256",
@@ -931,7 +944,7 @@
   "1.22.5": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_1.22.5-stable.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "84f28062f15362934b9f427bb3312a010443f4ce663af465edf80be8a7099b8d",
       "sum_type": "sha256",
@@ -944,7 +957,7 @@
   "1.22.6": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_1.22.6-stable.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "8a1bb036c8495c768b6d94855dcc4f603c7b1a76dceb70a15b2c48e0c9853ef3",
       "sum_type": "sha256",
@@ -957,7 +970,7 @@
   "1.23.0-13.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.23.0-13.0.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "5ea8c7122be27e3070770e028e9fe9880166658b785fa584a3fa306e5ab8f9e3",
       "sum_type": "sha256",
@@ -970,7 +983,7 @@
   "1.23.0-18.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.23.0-18.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "092089200ee11d3033fd956e4dec66ae190d4030daf40265ee78c0b6c5a77306",
       "sum_type": "sha256",
@@ -983,7 +996,7 @@
   "1.23.0-18.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.23.0-18.1.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "54c1d70792a9008794293a9e0fcaaf9ddace6e4085120f8b168b3c4fb75d699f",
       "sum_type": "sha256",
@@ -996,7 +1009,7 @@
   "1.23.0-4.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.23.0-4.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "3847dc6add2caad5c8bfd5820fb2ce6ce4a404094f1ab664d1c881b9194d92a5",
       "sum_type": "sha256",
@@ -1022,7 +1035,7 @@
   "1.24.0-1.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.24.0-1.0.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "50440e8ccb1ffc97ee10b156f626e88e3d7c5aa9a1b6c99956c8c7c574c8baba",
       "sum_type": "sha256",
@@ -1035,7 +1048,7 @@
   "1.24.0-10.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.24.0-10.1.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "60a70fd07cfee4df7298e19699900cd560ac5d0a26be399ec7acbafc293919fc",
       "sum_type": "sha256",
@@ -1048,7 +1061,7 @@
   "1.24.0-10.2.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.24.0-10.2.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "86459c48c6cf81c16afd4e8a6f7c77cda030b88b983ac677d7ec7a16427fe215",
       "sum_type": "sha256",
@@ -1059,7 +1072,7 @@
     },
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.24.0-10.2.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "4c22139db82a405ec82cd17603174a2743be13be7b0320b800b8a27af360862e",
       "sum_type": "sha256",
@@ -1072,7 +1085,7 @@
   "1.24.0-3.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.24.0-3.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "042c3acb272fe1c6eddd443221939662c24a274db9d30ab14492134d8520bfcd",
       "sum_type": "sha256",
@@ -1098,7 +1111,7 @@
   "1.24.0-7.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.24.0-7.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "49a58240f816a95ce453d0348d8ea42160f41b77877d66d627f5ea57c91d3dda",
       "sum_type": "sha256",
@@ -1111,7 +1124,7 @@
   "1.25.0-4.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.25.0-4.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "23e537539f3271fa0f335681ccb41deaa17f1db012f6e4f519d86f37daf5db31",
       "sum_type": "sha256",
@@ -1124,7 +1137,7 @@
   "1.25.0-8.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.25.0-8.0.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "c0d9401c764bd568bb6834570ce6c37ac8a6e2df1dd9bc04521f21f36a6808f9",
       "sum_type": "sha256",
@@ -1137,7 +1150,7 @@
   "1.25.0-8.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.25.0-8.1.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "400d3532157f0a396c750268dc0c81da5684aff8a4ead873a0ec7ec3819cd9a0",
       "sum_type": "sha256",
@@ -1150,7 +1163,7 @@
   "1.25.0-8.2.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.25.0-8.2.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "4553bf289f403acb904b29757d3366daadfe3088b005e7baa2a5c6fd00e69271",
       "sum_type": "sha256",
@@ -1163,7 +1176,7 @@
   "1.25.0-8.3.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.25.0-8.3.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "9a608b5fc0b9d67924dcfb736143c33f16c0d9368063009a068241f2385dc8b5",
       "sum_type": "sha256",
@@ -1176,7 +1189,7 @@
   "1.26.0-1.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.26.0-1.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "ff926adeb9ede90d8cd27c139923c3cf0595997bf8594abf8a5931b2f83eb7e2",
       "sum_type": "sha256",
@@ -1189,7 +1202,7 @@
   "1.26.0-12.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.26.0-12.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "400e938aa19cfe6f44e2d319dde562982d269186526acdac53fbd8480109a8a4",
       "sum_type": "sha256",
@@ -1202,7 +1215,7 @@
   "1.26.0-17.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.26.0-17.1.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "dbaaaee93dd58113881218351a468d3d953555dc6c0e80d8f5e03eac3136adae",
       "sum_type": "sha256",
@@ -1215,7 +1228,7 @@
   "1.26.0-17.2.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.26.0-17.2.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "34efce24134aea08cd2677892b78849f4dbe315bfd76530ac4b69c63caacaff1",
       "sum_type": "sha256",
@@ -1226,7 +1239,7 @@
     },
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.26.0-17.2.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "356023bc28318da455f6840a4f9ab7648f974004aa1fb5f0c8e7d1a6f1a8a610",
       "sum_type": "sha256",
@@ -1239,7 +1252,7 @@
   "1.26.0-17.3.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.26.0-17.3.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "4376b0e857c28b8634662f95bec116a4c0945b8d418d29b766ba747b3a8efc95",
       "sum_type": "sha256",
@@ -1252,7 +1265,7 @@
   "1.26.0-17.4.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.26.0-17.4.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "00ac018863b95c940964109f7101debcfdb0fa1337e703fe0ad82a56ee70ccbb",
       "sum_type": "sha256",
@@ -1278,7 +1291,7 @@
   "1.26.0-17.6.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.26.0-17.6.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "4e997dfd0dc38336d1918aebe17d701a10262ea2590d05af047a3b828c94b8b3",
       "sum_type": "sha256",
@@ -1291,7 +1304,7 @@
   "1.26.0-17.7.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.26.0-17.7.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "eb0f8106e283d77cf125ddbe2dddfb8866f588e1b75f0d3c7e21d7aa0809fed1",
       "sum_type": "sha256",
@@ -1304,7 +1317,7 @@
   "1.26.0-17.8.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_1.26.0-17.8.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "31b457a5bd278432bd1147cb6857b4c635f36d0c11ca44d2f2642c704367c690",
       "sum_type": "sha256",
@@ -1317,7 +1330,7 @@
   "1.26.0-8.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.26.0-8.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "4e73f5aad7602add6108c10e2f86e1d5228f3fd5d96e37e0b0509c527e5d1849",
       "sum_type": "sha256",
@@ -1330,7 +1343,7 @@
   "1.27.0-1.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.27.0-1.0.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "b0aca40f8e82c798f185bae23bf62b3074f989c344002a1e13932f996b379277",
       "sum_type": "sha256",
@@ -1356,7 +1369,7 @@
   "1.27.0-8.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_1.27.0-8.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "e3e62300ee640eb92c368e3c96c7f14519c9fb956e186f7ff46f8654fe52e0ea",
       "sum_type": "sha256",
@@ -1713,7 +1726,7 @@
   "2.1.0-10.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.1.0-10.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "b39a0b292a39697d071ef75797efc84806d53dff011ae730ab9c91b3828b96e7",
       "sum_type": "sha256",
@@ -1726,7 +1739,7 @@
   "2.1.0-12.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.1.0-12.1.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "ff9b3428928d5619ff48cb13fff701d9100becefbf421f50810ca93c827f73ab",
       "sum_type": "sha256",
@@ -1739,7 +1752,7 @@
   "2.1.0-12.2.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.1.0-12.2.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "d23c843e754013f72e76350c541fd12b772ce51bd5dd0dd41a740e63bc47a9aa",
       "sum_type": "sha256",
@@ -1787,7 +1800,7 @@
   "2.10.0-0.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.10.0-0.1.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "6264b80778dafbf495c9f88860af51b55d0943c1f45acf5755cfc384e8b60577",
       "sum_type": "sha256",
@@ -1798,7 +1811,7 @@
     },
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.10.0-0.1.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "991756c466871abd04008e8cb0535f6afbdb0c48623e29385b6fa1b8bf8cd58b",
       "sum_type": "sha256",
@@ -1811,7 +1824,7 @@
   "2.10.0-0.2.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.10.0-0.2.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "ff87ecc1523de087a44456011ec670063a47afea6e1fe577c9fea2d616591f6e",
       "sum_type": "sha256",
@@ -1822,7 +1835,7 @@
     },
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.10.0-0.2.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "aed033e4922d2f61ab4bc9f7fcca5e3f80dd6e2e2cafdf5307e83baf487ac53b",
       "sum_type": "sha256",
@@ -1835,7 +1848,7 @@
   "2.10.0-0.3.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.10.0-0.3.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "843b0d785d3228cab427ffa5c3a2cc2fa7b48f03e007165e2c671684d7902a67",
       "sum_type": "sha256",
@@ -1846,7 +1859,7 @@
     },
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.10.0-0.3.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "63edb8877052b6aa168f6759b28ba43b5d530e7b5c82f0473a2ada78575e79ac",
       "sum_type": "sha256",
@@ -2479,7 +2492,7 @@
   "2.2.0-10.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.2.0-10.1.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "548e019c8712a0eea8e4004374a035cf3b0e222ebe4e150f01184b0dfbd6a46a",
       "sum_type": "sha256",
@@ -2490,7 +2503,7 @@
     },
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.2.0-10.1.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "bdfec73fb4d4bf2d96408a531cb9e1dc43b2b5094dc9de55ec0b84ad758e5319",
       "sum_type": "sha256",
@@ -2503,7 +2516,7 @@
   "2.2.0-10.2.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.2.0-10.2.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "610b5fb752e5d42a99002ede5d61be01817507c346c8d625b17f8b61dca7ab44",
       "sum_type": "sha256",
@@ -2516,7 +2529,7 @@
   "2.2.0-10.3.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.2.0-10.3.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "61c0e4938ae1029a9a4b78595e2845990750d3cc4c699aad7cfa358584b7cac2",
       "sum_type": "sha256",
@@ -2667,7 +2680,7 @@
   "2.3.0-0.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.3.0-0.1.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "a1e68754262ee079dd42605b335ad983e6adbcf0d493f910aa94beb92cc70082",
       "sum_type": "sha256",
@@ -2680,7 +2693,7 @@
   "2.3.0-1.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.3.0-1.0.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "97633b56d77a78fae58f2451408abcd5eba58fab451b3e45a198d54b0f68e73e",
       "sum_type": "sha256",
@@ -2693,7 +2706,7 @@
   "2.3.0-12.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.3.0-12.1.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "e4194a89f7e8a5b15a2d28abae5ef72b911d648a87ac37621702313986028859",
       "sum_type": "sha256",
@@ -2706,7 +2719,7 @@
   "2.3.0-16.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.3.0-16.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "1e6075b7d5517f81e7ee409d15bae600339965e035a650067b221f6e6160c557",
       "sum_type": "sha256",
@@ -2719,7 +2732,7 @@
   "2.3.0-24.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.3.0-24.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "64562a58bf9b1385c5d4684d4b031d11598991b5d8704c144245ed8dc247dc36",
       "sum_type": "sha256",
@@ -2732,7 +2745,7 @@
   "2.3.0-24.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.3.0-24.1.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "c6e63a8d23545473a58df5e5b1ea2007f619d1d82d73767504663fb0d29084c1",
       "sum_type": "sha256",
@@ -2745,7 +2758,7 @@
   "2.4.0-0.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.4.0-0.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "725315a69b4ed99feeae76c6681ebeeba618957bfe45125b7fb6d292a0aeafc1",
       "sum_type": "sha256",
@@ -2758,7 +2771,7 @@
   "2.4.0-4.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.4.0-4.0.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "2e9cda44abb851f998e35bb8bf507056ba622f0908e0775161f7d53531bd99fd",
       "sum_type": "sha256",
@@ -2771,7 +2784,7 @@
   "2.4.0-4.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.4.0-4.1.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "b0e1d05c502206a8eaedc85ffdf3a00e603c76be3e7789aada0c01cf60512c33",
       "sum_type": "sha256",
@@ -2784,7 +2797,7 @@
   "2.4.0-4.2.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.4.0-4.2.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "66fc61ea10a64b0621f7ca8bb4916af5a3bdf168bb2605ff69d01ab4b8ccf7e7",
       "sum_type": "sha256",
@@ -2865,7 +2878,7 @@
   "2.5.0-1.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.5.0-1.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "8ff21bcf5f85998ed8005bfb57839123245e1c826fce1b3756fee65543963ae5",
       "sum_type": "sha256",
@@ -2878,7 +2891,7 @@
   "2.5.0-5.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.5.0-5.0.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "9e2d95f0f6ff3687da76758581d8235b95002a867b1171e97ca3dba5daf9163a",
       "sum_type": "sha256",
@@ -2891,7 +2904,7 @@
   "2.5.0-5.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.5.0-5.1.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "1c3abd368566b55733055c6db9f275a9979c011a22248cc9397190fb9d1c262d",
       "sum_type": "sha256",
@@ -2904,7 +2917,7 @@
   "2.5.0-5.2.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.5.0-5.2.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "867bbad577bc939bff2bf4f854448a09ebc86298e87975ba890ce48bf330f52a",
       "sum_type": "sha256",
@@ -2917,7 +2930,7 @@
   "2.5.0-5.3.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.5.0-5.3.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "8a3dca932a2c333ad53e1a4adb3225f5db373c664cb55dad3e1bac2b9815b0c9",
       "sum_type": "sha256",
@@ -2930,7 +2943,7 @@
   "2.5.0-6.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.5.0-6.0.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "05d7c92b4cbdd6efccd44b3a7cd1ca9a49854125e49545c9e9a8b47b91f56e68",
       "sum_type": "sha256",
@@ -3048,7 +3061,7 @@
   "2.6.0-0.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.6.0-0.0.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "93de13757630f45b37f545dee26680f2a0f7bf894a348ba1ed3d8ef5c91112a8",
       "sum_type": "sha256",
@@ -3061,7 +3074,7 @@
   "2.6.0-11.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.6.0-11.0.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "e9fdb8f7a27840c6a74b8ea567f318e6bbbf40820cec6ca95859cf776083ad36",
       "sum_type": "sha256",
@@ -3074,7 +3087,7 @@
   "2.6.0-5.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.6.0-5.1.pre-dev.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "c97c965a78cb58283fb8e7e645a533ba98c1be189c7b2baeb3f823fe249855d4",
       "sum_type": "sha256",
@@ -3100,7 +3113,7 @@
   "2.7.0-3.0.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.7.0-3.0.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "5ed27b410fea09d53bbebf4b55827fe6376d284403b4272057f5cc31441d86b8",
       "sum_type": "sha256",
@@ -3113,7 +3126,7 @@
   "2.7.0-3.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.7.0-3.1.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "2124a4d5a7da1ba54c93cb7ad0d2d21afe69201f6a2c8fd3ea0f512b0be30de1",
       "sum_type": "sha256",
@@ -3161,7 +3174,7 @@
   "2.8.0-3.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.8.0-3.1.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "2d7de00e4a3b45eb934d60deb65e795e29720bb204b138b9e952693958d6aaf6",
       "sum_type": "sha256",
@@ -3174,7 +3187,7 @@
   "2.8.0-3.2.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.8.0-3.2.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "fbcd23e9ae1045f04e701c959980981a1e709ec4a05a40024052b962761c0167",
       "sum_type": "sha256",
@@ -3187,7 +3200,7 @@
   "2.8.0-3.3.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.8.0-3.3.pre-beta.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "eb7e56e524178eb550831c0d2c436d9febfff8eea7d80cce8c7638c0e903fb1c",
       "sum_type": "sha256",
@@ -3235,7 +3248,7 @@
   "2.9.0-0.1.pre": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_2.9.0-0.1.pre-beta.zip",
-      "arch": "amd64",
+      "arch": "arm64",
       "os": "windows",
       "sum": "e42d9407ddbc88499a0adbd96c93a9e237e6e4371abc0bf3c5ec523168077a36",
       "sum_type": "sha256",
@@ -3246,7 +3259,7 @@
     },
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_2.9.0-0.1.pre-dev.zip",
-      "arch": "arm64",
+      "arch": "amd64",
       "os": "windows",
       "sum": "fde151e4bd8a45a391d4b64d18fb795e95c9bb095e0133bc1d87441c38fe818b",
       "sum_type": "sha256",
@@ -7668,6 +7681,52 @@
       "extra": ""
     }
   ],
+  "3.28.0-0.1.pre": [
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/linux/flutter_linux_3.28.0-0.1.pre-beta.tar.xz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "1bcd83a8847d24817a0baf6930ca0d803ee9bc4eedf719e4696d2f415341d536",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/macos/flutter_macos_3.28.0-0.1.pre-beta.zip",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "f51978405ad411e39b0b276d665c73a763d4f8bbb47e6bf3606c3a856f767bef",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/macos/flutter_macos_arm64_3.28.0-0.1.pre-beta.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "75caba18aeb5ff0cd0434c74a10a378dc63ad4bbef2d2254775904cc69d64c06",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_3.28.0-0.1.pre-beta.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "af94839228190eafe8110950cab6f775035295628a7d455bf3ff34cc0292601d",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "3.3.0": [
     {
       "url": "https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_3.3.0-stable.tar.xz",
@@ -9655,12 +9714,12 @@
       "extra": ""
     }
   ],
-  "v1.10.12": [
+  "v1.10.11": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.10.12-dev.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.10.11-dev.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "7784b28c543dae62be992ea86ee81f82099fdad8fe3efaa6ca634ac612bf4432",
+      "sum": "47d8b508d9072a20866ad9152141e4613ccfb4067e4fbe89dedf1a90a0bddaa2",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -9668,12 +9727,12 @@
       "extra": ""
     }
   ],
-  "v1.10.14": [
+  "v1.10.13": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.10.14-dev.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.10.13-dev.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "02aa41557e3ad8555c2d775c13c4874b2941559b25c4904c32b74699955e9786",
+      "sum": "836a691ccd160c8121db1dc329a1ce0bbdaae9ca0cbea0aba178b4b452869cb5",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -9681,12 +9740,25 @@
       "extra": ""
     }
   ],
-  "v1.10.16": [
+  "v1.10.15": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.10.16-dev.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.10.15-dev.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "e0b0e433d113305f581528a99d18affa59c439ef250d0c996360a5025608138f",
+      "sum": "695cfe968a5e9918019f34f8d523b703b1dbca51ff7a2f7da6756ac74b83291a",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "v1.10.4": [
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.10.4-dev.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "963c572bf443ddafb155cd87e24edaf04895138be886980b743cdec59cb761d4",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -9707,64 +9779,12 @@
       "extra": ""
     }
   ],
-  "v1.10.6": [
+  "v1.12.0": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.10.6-dev.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.12.0-dev.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "0d50abd1b0cee54f461ae56d5bf696b4731baabbd30817a8b977368cf11b2af3",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "v1.10.7": [
-    {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.10.7-dev.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "21f39e6a0ca37d327dee705d47d072937086ecddd71d6efa53747fc00a391f0b",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "v1.11.0": [
-    {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_v1.11.0-beta.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "606d3e03aeb429dc7f04767441156095ffe78b68a824eaeba5ad8286fdff0436",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "v1.12.1": [
-    {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.12.1-dev.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "8e4e8b078d83962cbfcf532e7c31f5fdff35cffb21373dfe1b0059922cff0c5f",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "v1.12.10": [
-    {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.12.10-dev.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "5543c15cd8fa78ccd68ab0c9dfbbd6de8bd1731bd2e34a84baf9643762937bd9",
+      "sum": "d9fe3cdd6e4323f8fe39e98eae2a0a5bd814027f12d90a2cd6d8c4afb56593d3",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -9785,12 +9805,12 @@
       "extra": ""
     }
   ],
-  "v1.12.5": [
+  "v1.12.13+hotfix.8": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.12.5-dev.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/stable/windows/flutter_windows_v1.12.13+hotfix.8-stable.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "ad2a06c571c277de6939c7621684c71553858ca1f095a78505b3dc82190f13e4",
+      "sum": "1cd8a1bc42dfef1ced8aa8495580a5f33fd2f9b92cef7547f34734949602bd3b",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -9798,12 +9818,64 @@
       "extra": ""
     }
   ],
-  "v1.14.1": [
+  "v1.12.4": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.14.1-dev.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.12.4-dev.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "115c37354689972643f784582e47ae2d8e52efbaebeccdb9a3fee7aea3a6a2c9",
+      "sum": "0b7b090772491742e42d4a35e3436ff75eb6200a0b766791864ebfb79cab5327",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "v1.12.7": [
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.12.7-dev.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "bb83b904d6e3f8a06c48c243a7b818f6ccc8e6f4df8431b1727e3d713613f167",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "v1.12.9": [
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.12.9-dev.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "0ed9972983fdf96e68a2fd1fdf1693c4a12bc3e021220358ded6f510b5e69914",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "v1.14.0": [
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.14.0-dev.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "6c090e5985cf647c89ea63d973568c34702591db9c684f68b6514aeda2b57129",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "v1.14.2": [
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.14.2-dev.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "3ad199e01b512e6993e7a7a86be4a5979bb0557fe62021c4c1d6703c5f337497",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -9837,12 +9909,12 @@
       "extra": ""
     }
   ],
-  "v1.14.5": [
+  "v1.14.6": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.14.5-dev.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.14.6-dev.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "3c19165eea2569759d0c6ae0ff9374d3d74a391e1d29afa3a3728f1c1726e7e6",
+      "sum": "f0b41bcfe16b9cf8caa5cf2a69e1e7e6061da4de90e1cb1a1c537cffb5490a43",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -9850,12 +9922,12 @@
       "extra": ""
     }
   ],
-  "v1.14.6": [
+  "v1.15.0": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_v1.14.6-beta.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.15.0-dev.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "c57c477558243846bbbb5c8dcb5e798cba3767fd05e01f0c2d1b70c1792c1d82",
+      "sum": "d962766144872298a8f40fcd1e82daa959aff17d64af6b0ca9da78a523e65f80",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -9876,12 +9948,12 @@
       "extra": ""
     }
   ],
-  "v1.15.10": [
+  "v1.15.11": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.15.10-dev.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.15.11-dev.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "44dd2190ff714bd50cdfb336c50da6577f49a81a7cf8ff4579bd19f38b60df82",
+      "sum": "f68e570c11cdab3895897e2c82860b96347362c2440e60d89e0d63cb353f84d1",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -9902,12 +9974,12 @@
       "extra": ""
     }
   ],
-  "v1.15.13": [
+  "v1.15.14": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.15.13-dev.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.15.14-dev.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "ec690a0a03b097005f13d55c3c59c410333e07cdc566219da21c7b485fedd333",
+      "sum": "8c14e2c0de673c2f1aec5ff3f0536551b94db22e14b8776d5917b76f6120b4bc",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -9928,12 +10000,12 @@
       "extra": ""
     }
   ],
-  "v1.15.16": [
+  "v1.15.18": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.15.16-dev.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.15.18-dev.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "e5cb0e25371af7f595f34c5360719cc8e2d5202f9267906a2601c2adf56ff8d2",
+      "sum": "5866d95afaa3de13b219f4c8f6dc8785fee865c09fda9bbe1c9d0518aa7c35eb",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -9941,12 +10013,12 @@
       "extra": ""
     }
   ],
-  "v1.15.19": [
+  "v1.15.6": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.15.19-dev.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.15.6-dev.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "5243e9e69cd35ebfc2ab592e28c1cd47c438ba8c9c96d6cf7e496757b923f798",
+      "sum": "279f6fb10b32f984b88e1c493b5659676b97eb5bd70c1e98888c3927cb4460e7",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -9954,38 +10026,12 @@
       "extra": ""
     }
   ],
-  "v1.15.2": [
+  "v1.15.9": [
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.15.2-dev.zip",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.15.9-dev.zip",
       "arch": "amd64",
       "os": "windows",
-      "sum": "2c9aa6edbbabe72041e94073f45906a70279979130e3dd7a10440d3662c792ea",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "v1.15.4": [
-    {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.15.4-dev.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "fd8591d68f754dc9287df82a13381fe83d7b754ead10c8a8900f2830ff859fa5",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "v1.15.7": [
-    {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/dev/windows/flutter_windows_v1.15.7-dev.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "fe4a34631fdd53c3c368839f60a082bcf67a61988a61c5f9c080029b224757cf",
+      "sum": "b7d2246d2b1bd85defb2586c0b0b241bf6e6d8ae13b8ee369efcc3c954c8840b",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -9999,6 +10045,17 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "2a363c7862987987735ab06ffeeaa2a0b6984df89dd7b77ceef1a4efaceacebc",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_v1.9.1+hotfix.4-beta.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "6782d372798a7f18a98c3ca5624b88ee19300df2461275e2f9452d893050e5e3",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
