@@ -341,17 +341,6 @@
   ],
   "8.0.100-preview.5": [
     {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/93db1aea-6913-4cdc-8129-23e3e3de8dd1/4a942a2fbbb6ca6667c01ec414096ee0/dotnet-sdk-8.0.100-preview.5.23303.2-linux-arm64.tar.gz",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "13c6c559646c359ce07584328ef2e5cf5cb70371197deea9d31caee249c45b07ec1b874bcc5e3cb3b601b5ae280883cda555fd4cd2bf4a255d3be431574e46d6",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/07b027f8-4ef8-48cb-becc-132652c625bb/441ef662adfe931013745df24d53b26d/dotnet-sdk-8.0.100-preview.5.23303.2-linux-x64.tar.gz",
       "arch": "amd64",
       "os": "linux",
@@ -1142,6 +1131,17 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/a5ea5b30-001d-4438-ad5f-3318d601c9c0/08b9ba76a5a94dae385914d769ec6dbf/dotnet-sdk-8.0.107-win-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "088753c813432bbd94e13f45b7db4366730a832ce603efd5f60499c4d414575bca805c066ba5743d5639c5e427d9f4501640da7c0eef437d411382e0c17dfcc5",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
     }
   ],
   "8.0.108": [
@@ -1183,17 +1183,6 @@
       "arch": "amd64",
       "os": "darwin",
       "sum": "a80fee279abfeb558a5540ca2a969a11bb3dbeade8c39d8c47be8a2d622ef1c2bedb22c874598ad41dbff2b95d5a43197bd9f55fc933ab4ede5edcb6a76cf6cb",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/547b5a93-8197-415c-b131-356c44fa9240/a91b74ec9bb4c58687a9d82373f64417/dotnet-sdk-8.0.108-win-x64.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "9ab4a1fd0e593dfdac8834ff614f7d1d39022fe3cb3b70c500b07afe77ba7e1214b531a557303b8d3f667a3b22b88df12d4c9e2020427f5a3526a2a394740922",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
