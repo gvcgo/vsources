@@ -1,17 +1,4 @@
 {
-  "2.4.10": [
-    {
-      "url": "https://archive.apache.org/dist/groovy/2.4.10/distribution/apache-groovy-sdk-2.4.10.zip",
-      "arch": "any",
-      "os": "any",
-      "sum": "ec79329c9b93114fce4a7bbfc9e0411ca9aabb47b11575056d5487b1c8839f45",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "",
-      "lts": "",
-      "extra": ""
-    }
-  ],
   "2.4.11": [
     {
       "url": "https://archive.apache.org/dist/groovy/2.4.11/distribution/apache-groovy-sdk-2.4.11.zip",
@@ -148,6 +135,19 @@
       "arch": "any",
       "os": "any",
       "sum": "6cf72ac0c13328585ecc2347a2f3699220a6a619d196aac92b9deb7352ce26dc",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "2.4.8": [
+    {
+      "url": "https://archive.apache.org/dist/groovy/2.4.8/distribution/apache-groovy-sdk-2.4.8.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "b5dac7ff267eb93ab9eef4761344bfa79f2a8db8ee8c6bff181173b1e59d7bfd",
       "sum_type": "sha256",
       "size": 0,
       "installer": "",
@@ -597,19 +597,6 @@
       "extra": ""
     }
   ],
-  "2.6.0-alpha-3": [
-    {
-      "url": "https://archive.apache.org/dist/groovy/2.6.0-alpha-3/distribution/apache-groovy-sdk-2.6.0-alpha-3.zip",
-      "arch": "any",
-      "os": "any",
-      "sum": "4420425deed51ce5cd21f504b84be9c4524b2596ed1dc11e24488691148702ae",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "",
-      "lts": "",
-      "extra": ""
-    }
-  ],
   "2.6.0-alpha-4": [
     {
       "url": "https://archive.apache.org/dist/groovy/2.6.0-alpha-4/distribution/apache-groovy-sdk-2.6.0-alpha-4.zip",
@@ -831,19 +818,6 @@
       "extra": ""
     }
   ],
-  "3.0.14": [
-    {
-      "url": "https://archive.apache.org/dist/groovy/3.0.14/distribution/apache-groovy-sdk-3.0.14.zip",
-      "arch": "any",
-      "os": "any",
-      "sum": "0b2ce366c99c94d12ddd0962d2d43819f936b9b6651b04e469a085d2cb7c0621",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "",
-      "lts": "",
-      "extra": ""
-    }
-  ],
   "3.0.15": [
     {
       "url": "https://archive.apache.org/dist/groovy/3.0.15/distribution/apache-groovy-sdk-3.0.15.zip",
@@ -1000,6 +974,19 @@
       "extra": ""
     }
   ],
+  "3.0.5": [
+    {
+      "url": "https://archive.apache.org/dist/groovy/3.0.5/distribution/apache-groovy-sdk-3.0.5.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "22537785771c58f31ab7e32e7fdb4b96b8d15f1bb7bff4b0e211b0d904d3f623",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "3.0.6": [
     {
       "url": "https://archive.apache.org/dist/groovy/3.0.6/distribution/apache-groovy-sdk-3.0.6.zip",
@@ -1045,32 +1032,6 @@
       "arch": "any",
       "os": "any",
       "sum": "8bce7b90612bcfe8d19adce26335b25a9955aeaaa8a9e89df8b8769a77e97187",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "4.0.0": [
-    {
-      "url": "https://archive.apache.org/dist/groovy/4.0.0/distribution/apache-groovy-sdk-4.0.0.zip",
-      "arch": "any",
-      "os": "any",
-      "sum": "3dd2782573a422a9a399ea4ab3ae4c9ee64d16bf3e1553aa4bc7b4c50a2b5186",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "4.0.0-alpha-1": [
-    {
-      "url": "https://archive.apache.org/dist/groovy/4.0.0-alpha-1/distribution/apache-groovy-sdk-4.0.0-alpha-1.zip",
-      "arch": "any",
-      "os": "any",
-      "sum": "c702d13b53f98500a88ebacc1a3c2e60c34cde411afb551dffe636cf9893e027",
       "sum_type": "sha256",
       "size": 0,
       "installer": "",
@@ -1260,19 +1221,6 @@
       "extra": ""
     }
   ],
-  "4.0.17": [
-    {
-      "url": "https://archive.apache.org/dist/groovy/4.0.17/distribution/apache-groovy-sdk-4.0.17.zip",
-      "arch": "any",
-      "os": "any",
-      "sum": "d5ae8d088b038c82941bbce822c0ad00b577df069a5b82bde8a9be94683a71da",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "",
-      "lts": "",
-      "extra": ""
-    }
-  ],
   "4.0.18": [
     {
       "url": "https://archive.apache.org/dist/groovy/4.0.18/distribution/apache-groovy-sdk-4.0.18.zip",
@@ -1455,6 +1403,19 @@
       "extra": ""
     }
   ],
+  "4.0.9": [
+    {
+      "url": "https://archive.apache.org/dist/groovy/4.0.9/distribution/apache-groovy-sdk-4.0.9.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "7431ff1e8f9fcdf708bee6bd574b3a9c0f989e563ac037fb52ad103a84ca4283",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "5.0.0-alpha-1": [
     {
       "url": "https://archive.apache.org/dist/groovy/5.0.0-alpha-1/distribution/apache-groovy-sdk-5.0.0-alpha-1.zip",
@@ -1552,6 +1513,19 @@
       "arch": "any",
       "os": "any",
       "sum": "6bd536b2f57617dd62660b32e513c338b40eb87c515dc4c16a9d0e44b98dccdf",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "5.0.0-alpha-7": [
+    {
+      "url": "https://archive.apache.org/dist/groovy/5.0.0-alpha-7/distribution/apache-groovy-sdk-5.0.0-alpha-7.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "8971efb4f5f2e7ae451f0a9adb5b61005855035d40aaf155d97a38ae437d3725",
       "sum_type": "sha256",
       "size": 0,
       "installer": "",
