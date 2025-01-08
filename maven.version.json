@@ -95,7 +95,7 @@
       "url": "https://archive.apache.org/dist/maven/maven-3/3.2.3/binaries/apache-maven-3.2.3-bin.tar.gz",
       "arch": "any",
       "os": "any",
-      "sum": "1ce6641f7dcb4fd5785bedcdca2979da83f6d23f",
+      "sum": "",
       "sum_type": "sha1",
       "size": 0,
       "installer": "unarchiver",
@@ -218,6 +218,19 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": "3.5.3/"
+    }
+  ],
+  "3.5.4": [
+    {
+      "url": "https://archive.apache.org/dist/maven/maven-3/3.5.4/binaries/apache-maven-3.5.4-bin.tar.gz",
+      "arch": "any",
+      "os": "any",
+      "sum": "22cac91b3557586bb1eba326f2f7727543ff15e3",
+      "sum_type": "sha1",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "3.5.4/"
     }
   ],
   "3.6.0": [
@@ -374,6 +387,19 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": "3.8.8/"
+    }
+  ],
+  "3.9.0": [
+    {
+      "url": "https://archive.apache.org/dist/maven/maven-3/3.9.0/binaries/apache-maven-3.9.0-bin.tar.gz",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "sha1",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "3.9.0/"
     }
   ],
   "3.9.1": [
@@ -641,12 +667,25 @@
       "url": "https://archive.apache.org/dist/maven/maven-4/4.0.0-beta-4/binaries/apache-maven-4.0.0-beta-4-bin.tar.gz",
       "arch": "any",
       "os": "any",
-      "sum": "dc4610670c9c1cfaca0e6e8dae045087e5e97bb772d75c1c17f66d4839737dbc6a5c91b7e0178f3551f31269a2814897fc468cc241a6aaf7065625594c8e738f",
+      "sum": "",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
       "lts": "",
       "extra": "4.0.0-beta-4/"
+    }
+  ],
+  "4.0.0-beta-5": [
+    {
+      "url": "https://archive.apache.org/dist/maven/maven-4/4.0.0-beta-5/binaries/apache-maven-4.0.0-beta-5-bin.tar.gz",
+      "arch": "any",
+      "os": "any",
+      "sum": "e1b1a99203f478baa978d220be73ed4ae18c88bd615a6e2ef52e825b746b90c72e6f8a52d0f806f7a111f2663e2ed3ad887124ff7dcbad5a14d3d16894340d00",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "4.0.0-beta-5/"
     }
   ],
   "4.0.0-rc-1": [
