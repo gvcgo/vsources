@@ -1,12 +1,12 @@
-flag_dir_excepted = true
-additional_envs = []
+FlagDirExcepted = true
+AdditionalEnvs = []
 
-[flag_files]
-windows = ['fzf.exe']
-linux = ['fzf']
-darwin = ['fzf']
+[FlagFiles]
+Windows = ['fzf.exe']
+Linux = ['fzf']
+MacOS = ['fzf']
 
-[binary_dirs]
-windows = []
-linux = []
-darwin = []
+[BinaryDirs]
+Windows = []
+Linux = []
+MacOS = []
