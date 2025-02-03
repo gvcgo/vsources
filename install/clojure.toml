@@ -1,12 +1,12 @@
-flag_dir_excepted = true
-additional_envs = []
+FlagDirExcepted = true
+AdditionalEnvs = []
 
-[flag_files]
-windows = ['deps.edn', 'example-deps.edn']
-linux = ['deps.edn', 'example-deps.edn']
-darwin = ['deps.edn', 'example-deps.edn']
+[FlagFiles]
+Windows = ['deps.edn', 'example-deps.edn']
+Linux = ['deps.edn', 'example-deps.edn']
+MacOS = ['deps.edn', 'example-deps.edn']
 
-[binary_dirs]
-windows = [['bin']]
-linux = [['bin']]
-darwin = [['bin']]
+[BinaryDirs]
+Windows = [['bin']]
+Linux = [['bin']]
+MacOS = [['bin']]
