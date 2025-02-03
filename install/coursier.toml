@@ -1,12 +1,12 @@
-flag_dir_excepted = true
-additional_envs = []
+FlagDirExcepted = true
+AdditionalEnvs = []
 
-[flag_files]
-windows = ['cs.exe']
-linux = ['cs']
-darwin = ['cs']
+[FlagFiles]
+Windows = ['cs.exe']
+Linux = ['cs']
+MacOS = ['cs']
 
-[binary_dirs]
-windows = []
-linux = []
-darwin = []
+[BinaryDirs]
+Windows = []
+Linux = []
+MacOS = []
