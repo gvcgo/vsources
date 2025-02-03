@@ -1,12 +1,12 @@
-flag_dir_excepted = true
-additional_envs = []
+FlagDirExcepted = true
+AdditionalEnvs = []
 
-[flag_files]
-windows = ['acast.exe']
-linux = ['acast']
-darwin = ['acast']
+[FlagFiles]
+Windows = ['acast.exe']
+Linux = ['acast']
+MacOS = ['acast']
 
-[binary_dirs]
-windows = []
-linux = []
-darwin = []
+[BinaryDirs]
+Windows = []
+Linux = []
+MacOS = []
