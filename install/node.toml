@@ -1,12 +1,12 @@
-flag_dir_excepted = false
-additional_envs = []
+FlagDirExcepted = false
+AdditionalEnvs = []
 
-[flag_files]
-windows = ['LICENSE', 'README.md']
-linux = ['LICENSE', 'README.md']
-darwin = ['LICENSE', 'README.md']
+[FlagFiles]
+Windows = ['LICENSE', 'README.md']
+Linux = ['LICENSE', 'README.md']
+MacOS = ['LICENSE', 'README.md']
 
-[binary_dirs]
-windows = []
-linux = [['bin']]
-darwin = [['bin']]
+[BinaryDirs]
+Windows = []
+Linux = [['bin']]
+MacOS = [['bin']]
