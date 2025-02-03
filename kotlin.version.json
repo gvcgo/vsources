@@ -2734,6 +2734,19 @@
       "extra": ""
     }
   ],
+  "2.1.10": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.10/kotlin-compiler-2.1.10.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 86422666,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "2.1.10-RC": [
     {
       "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.10-RC/kotlin-compiler-2.1.10-RC.zip",
@@ -2768,6 +2781,19 @@
       "sum": "",
       "sum_type": "",
       "size": 83944647,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "2.1.20-Beta2": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.20-Beta2/kotlin-compiler-2.1.20-Beta2.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 86912034,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
@@ -6223,6 +6249,52 @@
       "extra": ""
     }
   ],
+  "native-2.1.10": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.10/kotlin-native-prebuilt-linux-x86_64-2.1.10.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 281635307,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.10/kotlin-native-prebuilt-macos-aarch64-2.1.10.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 327265278,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.10/kotlin-native-prebuilt-macos-x86_64-2.1.10.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 328221781,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.10/kotlin-native-prebuilt-windows-x86_64-2.1.10.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 285591464,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "native-2.1.10-RC": [
     {
       "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.10-RC/kotlin-native-prebuilt-linux-x86_64-2.1.10-RC.tar.gz",
@@ -6356,6 +6428,52 @@
       "sum": "",
       "sum_type": "",
       "size": 281286688,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "native-2.1.20-Beta2": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.20-Beta2/kotlin-native-prebuilt-linux-x86_64-2.1.20-Beta2.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 276759362,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.20-Beta2/kotlin-native-prebuilt-macos-aarch64-2.1.20-Beta2.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 322488011,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.20-Beta2/kotlin-native-prebuilt-macos-x86_64-2.1.20-Beta2.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 323429673,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.20-Beta2/kotlin-native-prebuilt-windows-x86_64-2.1.20-Beta2.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 281137966,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
