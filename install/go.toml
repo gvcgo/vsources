@@ -1,16 +1,16 @@
-flag_dir_excepted = false
+FlagDirExcepted = false
 
-[flag_files]
-windows = ['VERSION', 'LICENSE']
-linux = ['VERSION', 'LICENSE']
-darwin = ['VERSION', 'LICENSE']
+[FlagFiles]
+Windows = ['VERSION', 'LICENSE']
+Linux = ['VERSION', 'LICENSE']
+MacOS = ['VERSION', 'LICENSE']
 
-[binary_dirs]
-windows = [['bin']]
-linux = [['bin']]
-darwin = [['bin']]
+[BinaryDirs]
+Windows = [['bin']]
+Linux = [['bin']]
+MacOS = [['bin']]
 
-[[additional_envs]]
+[[AdditionalEnvs]]
 Name = 'GOROOT'
 Value = []
 Version = ''
