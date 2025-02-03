@@ -1,12 +1,12 @@
-flag_dir_excepted = false
-additional_envs = []
+FlagDirExcepted = false
+AdditionalEnvs = []
 
-[flag_files]
-windows = ['LICENSE.md']
-linux = ['LICENSE.md']
-darwin = ['LICENSE.md']
+[FlagFiles]
+Windows = ['LICENSE.md']
+Linux = ['LICENSE.md']
+MacOS = ['LICENSE.md']
 
-[binary_dirs]
-windows = [['bin']]
-linux = [['bin']]
-darwin = [['bin']]
+[BinaryDirs]
+Windows = [['bin']]
+Linux = [['bin']]
+MacOS = [['bin']]
