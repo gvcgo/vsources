@@ -1,12 +1,12 @@
-flag_dir_excepted = true
-additional_envs = []
+FlagDirExcepted = true
+AdditionalEnvs = []
 
-[flag_files]
-windows = ['upx.exe']
-linux = ['upx']
-darwin = ['upx']
+[FlagFiles]
+Windows = ['upx.exe']
+Linux = ['upx']
+MacOS = ['upx']
 
-[binary_dirs]
-windows = []
-linux = []
-darwin = []
+[BinaryDirs]
+Windows = []
+Linux = []
+MacOS = []
