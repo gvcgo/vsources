@@ -1,12 +1,12 @@
-flag_dir_excepted = false
-additional_envs = []
+FlagDirExcepted = false
+AdditionalEnvs = []
 
-[flag_files]
-windows = ['deno.exe']
-linux = ['deno']
-darwin = ['deno']
+[FlagFiles]
+Windows = ['deno.exe']
+Linux = ['deno']
+MacOS = ['deno']
 
-[binary_dirs]
-windows = []
-linux = []
-darwin = []
+[BinaryDirs]
+Windows = []
+Linux = []
+MacOS = []
