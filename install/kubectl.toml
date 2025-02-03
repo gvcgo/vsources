@@ -1,11 +1,11 @@
-flag_dir_excepted = false
-additional_envs = []
+FlagDirExcepted = false
+AdditionalEnvs = []
 
-[flag_files]
-windows = ['kubectl.exe']
-linux = ['kubectl']
-darwin = ['kubectl']
+[FlagFiles]
+Windows = ['kubectl.exe']
+Linux = ['kubectl']
+MacOS = ['kubectl']
 
-[binary_rename]
-name_flag = 'kubectl'
-rename_to = 'kubectl'
+[BinaryRename]
+NameFlag = 'kubectl'
+RenameTo = 'kubectl'
