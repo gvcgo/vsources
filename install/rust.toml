@@ -1,7 +1,7 @@
-flag_dir_excepted = false
-additional_envs = []
+FlagDirExcepted = false
+AdditionalEnvs = []
 
-[binary_dirs]
-windows = [['cargo', 'bin'], ['Library', 'bin']]
-linux = [['bin']]
-darwin = [['bin']]
+[BinaryDirs]
+Windows = [['cargo', 'bin'], ['Library', 'bin']]
+Linux = [['bin']]
+MacOS = [['bin']]
