@@ -7122,10 +7122,10 @@
       "extra": ""
     },
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/stable/macos/flutter_macos_arm64_3.24.0-stable.zip",
-      "arch": "arm64",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/stable/macos/flutter_macos_3.24.0-stable.zip",
+      "arch": "amd64",
       "os": "darwin",
-      "sum": "3c443985c9cda5f6959a274caddfeb38e11777fc8ed8a69ae700a1485e6dd258",
+      "sum": "94ab73b88a4a996c4eb930644838d0863918cbc4a039a8144ccafe2e1cacd304",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -7133,10 +7133,10 @@
       "extra": ""
     },
     {
-      "url": "https://storage.googleapis.com/flutter_infra_release/releases/stable/macos/flutter_macos_3.24.0-stable.zip",
-      "arch": "amd64",
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/stable/macos/flutter_macos_arm64_3.24.0-stable.zip",
+      "arch": "arm64",
       "os": "darwin",
-      "sum": "94ab73b88a4a996c4eb930644838d0863918cbc4a039a8144ccafe2e1cacd304",
+      "sum": "3c443985c9cda5f6959a274caddfeb38e11777fc8ed8a69ae700a1485e6dd258",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -7884,6 +7884,76 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "af94839228190eafe8110950cab6f775035295628a7d455bf3ff34cc0292601d",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "3.29.0-0.2.pre": [
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/linux/flutter_linux_3.29.0-0.2.pre-beta.tar.xz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "4affbc9f2b8c3b83b086471a46a7c908afca381d78339e5cba42982e66b3191b",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/macos/flutter_macos_3.29.0-0.2.pre-beta.zip",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "52132c40c7f71a1ab5b621020505a5b95c2413ed5c1326c250c9e0272d16ff3c",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/macos/flutter_macos_arm64_3.29.0-0.2.pre-beta.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "6d0e3140150f9942bbacef7a336a15d7791935780fd316afb195926fdf006bf5",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_3.29.0-0.2.pre-beta.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "7c095ca994e8f226a60ca433861ae466eeb0a36cc97838ab1b6d1ad1c58be031",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "3.29.0-0.3.pre": [
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/linux/flutter_linux_3.29.0-0.3.pre-beta.tar.xz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "4bee1a4090af8e1ecfb73816fc7d08bf4a6ae8137f2fd04b857b67c7c9e46110",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://storage.googleapis.com/flutter_infra_release/releases/beta/windows/flutter_windows_3.29.0-0.3.pre-beta.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "151a0b1e7f836aca8a3e3605b17772fc64186934894ddf7e81de57c18748227b",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
