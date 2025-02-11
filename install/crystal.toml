@@ -1,12 +1,12 @@
-FlagDirExcepted = false
-AdditionalEnvs = []
+flag_dir_excepted = false
+additional_envs = []
 
-[FlagFiles]
-Windows = ['lib', 'crystal.exe']
-Linux = ['bin', 'lib']
-MacOS = ['bin', 'src']
+[flag_files]
+windows = ['lib', 'crystal.exe']
+linux = ['bin', 'lib']
+darwin = ['bin', 'src']
 
-[BinaryDirs]
-Windows = []
-Linux = [['bin']]
-MacOS = [['bin']]
+[binary_dirs]
+windows = []
+linux = [['bin']]
+darwin = [['bin']]
