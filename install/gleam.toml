@@ -1,12 +1,12 @@
-FlagDirExcepted = true
-AdditionalEnvs = []
+flag_dir_excepted = true
+additional_envs = []
 
-[FlagFiles]
-Windows = ['gleam.exe']
-Linux = ['gleam']
-MacOS = ['gleam']
+[flag_files]
+windows = ['gleam.exe']
+linux = ['gleam']
+darwin = ['gleam']
 
-[BinaryDirs]
-Windows = []
-Linux = []
-MacOS = []
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
