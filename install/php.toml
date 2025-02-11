@@ -1,12 +1,12 @@
-FlagDirExcepted = false
-AdditionalEnvs = []
+flag_dir_excepted = false
+additional_envs = []
 
-[FlagFiles]
-Windows = ['php.exe', 'lib']
-Linux = ['bin', 'lib']
-MacOS = ['bin', 'lib']
+[flag_files]
+windows = ['php.exe', 'lib']
+linux = ['bin', 'lib']
+darwin = ['bin', 'lib']
 
-[BinaryDirs]
-Windows = []
-Linux = [['bin']]
-MacOS = [['bin']]
+[binary_dirs]
+windows = []
+linux = [['bin']]
+darwin = [['bin']]
