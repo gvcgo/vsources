@@ -1,16 +1,16 @@
-FlagDirExcepted = false
-AdditionalEnvs = []
+flag_dir_excepted = false
+additional_envs = []
 
-[FlagFiles]
-Windows = ['msys2-x86_64-latest.exe']
-Linux = ['msys2-x86_64-latest.exe']
-MacOS = ['msys2-x86_64-latest.exe']
+[flag_files]
+windows = ['msys2-x86_64-latest.exe']
+linux = ['msys2-x86_64-latest.exe']
+darwin = ['msys2-x86_64-latest.exe']
 
-[BinaryDirs]
-Windows = []
-Linux = []
-MacOS = []
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
 
-[BinaryRename]
-NameFlag = 'msys2-x86_64-latest'
-RenameTo = 'msys2-installer'
+[binary_rename]
+name_flag = 'msys2-x86_64-latest'
+rename_to = 'msys2-installer'
