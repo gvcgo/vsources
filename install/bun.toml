@@ -1,12 +1,12 @@
-FlagDirExcepted = true
-AdditionalEnvs = []
+flag_dir_excepted = true
+additional_envs = []
 
-[FlagFiles]
-Windows = ['bun.exe']
-Linux = ['bun']
-MacOS = ['bun']
+[flag_files]
+windows = ['bun.exe']
+linux = ['bun']
+darwin = ['bun']
 
-[BinaryDirs]
-Windows = []
-Linux = []
-MacOS = []
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
