@@ -1,16 +1,16 @@
-FlagDirExcepted = true
-AdditionalEnvs = []
+flag_dir_excepted = true
+additional_envs = []
 
-[FlagFiles]
-Windows = ['typst-lsp.exe']
-Linux = ['typst-lsp']
-MacOS = ['typst-lsp']
+[flag_files]
+windows = ['typst-lsp.exe']
+linux = ['typst-lsp']
+darwin = ['typst-lsp']
 
-[BinaryDirs]
-Windows = []
-Linux = []
-MacOS = []
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
 
-[BinaryRename]
-NameFlag = 'typst-lsp'
-RenameTo = 'typst-lsp'
+[binary_rename]
+name_flag = 'typst-lsp'
+rename_to = 'typst-lsp'
