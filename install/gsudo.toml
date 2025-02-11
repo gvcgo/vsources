@@ -1,12 +1,12 @@
-FlagDirExcepted = false
-AdditionalEnvs = []
+flag_dir_excepted = false
+additional_envs = []
 
-[FlagFiles]
-Windows = ['x86', 'x64', 'arm64']
-Linux = []
-MacOS = []
+[flag_files]
+windows = ['x86', 'x64', 'arm64']
+linux = []
+darwin = []
 
-[BinaryDirs]
-Windows = [['net46-AnyCpu']]
-Linux = []
-MacOS = []
+[binary_dirs]
+windows = [['net46-AnyCpu']]
+linux = []
+darwin = []
