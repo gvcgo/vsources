@@ -1,12 +1,12 @@
-FlagDirExcepted = true
-AdditionalEnvs = []
+flag_dir_excepted = true
+additional_envs = []
 
-[FlagFiles]
-Windows = ['moon.exe', 'moonc.exe']
-Linux = ['moon', 'moonc']
-MacOS = ['moon', 'moonc']
+[flag_files]
+windows = ['moon.exe', 'moonc.exe']
+linux = ['moon', 'moonc']
+darwin = ['moon', 'moonc']
 
-[BinaryDirs]
-Windows = []
-Linux = []
-MacOS = []
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
