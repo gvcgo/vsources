@@ -1,12 +1,12 @@
-FlagDirExcepted = false
-AdditionalEnvs = []
+flag_dir_excepted = false
+additional_envs = []
 
-[FlagFiles]
-Windows = ['ninja.exe']
-Linux = ['ninja']
-MacOS = ['ninja']
+[flag_files]
+windows = ['ninja.exe']
+linux = ['ninja']
+darwin = ['ninja']
 
-[BinaryDirs]
-Windows = []
-Linux = []
-MacOS = []
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
