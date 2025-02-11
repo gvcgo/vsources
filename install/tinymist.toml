@@ -1,16 +1,16 @@
-FlagDirExcepted = true
-AdditionalEnvs = []
+flag_dir_excepted = true
+additional_envs = []
 
-[FlagFiles]
-Windows = ['tinymist.exe']
-Linux = ['tinymist']
-MacOS = ['tinymist']
+[flag_files]
+windows = ['tinymist.exe']
+linux = ['tinymist']
+darwin = ['tinymist']
 
-[BinaryDirs]
-Windows = []
-Linux = []
-MacOS = []
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
 
-[BinaryRename]
-NameFlag = 'tinymist'
-RenameTo = 'tinymist'
+[binary_rename]
+name_flag = 'tinymist'
+rename_to = 'tinymist'
