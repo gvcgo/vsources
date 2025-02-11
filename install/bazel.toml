@@ -1,16 +1,16 @@
-FlagDirExcepted = true
-AdditionalEnvs = []
+flag_dir_excepted = true
+additional_envs = []
 
-[FlagFiles]
-Windows = ['bazel.exe']
-Linux = ['bazel']
-MacOS = ['bazel']
+[flag_files]
+windows = ['bazel.exe']
+linux = ['bazel']
+darwin = ['bazel']
 
-[BinaryDirs]
-Windows = []
-Linux = []
-MacOS = []
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
 
-[BinaryRename]
-NameFlag = 'bazel'
-RenameTo = 'bazel'
+[binary_rename]
+name_flag = 'bazel'
+rename_to = 'bazel'
