@@ -1,12 +1,12 @@
-FlagDirExcepted = false
-AdditionalEnvs = []
+flag_dir_excepted = false
+additional_envs = []
 
-[FlagFiles]
-Windows = ['cmd', 'v.exe']
-Linux = ['cmd', 'v']
-MacOS = ['cmd', 'v']
+[flag_files]
+windows = ['cmd', 'v.exe']
+linux = ['cmd', 'v']
+darwin = ['cmd', 'v']
 
-[BinaryDirs]
-Windows = [[], ['cmd', 'tools']]
-Linux = [[], ['cmd', 'tools']]
-MacOS = [[], ['cmd', 'tools']]
+[binary_dirs]
+windows = [[], ['cmd', 'tools']]
+linux = [[], ['cmd', 'tools']]
+darwin = [[], ['cmd', 'tools']]
