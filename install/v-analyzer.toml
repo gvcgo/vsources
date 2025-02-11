@@ -1,12 +1,12 @@
-FlagDirExcepted = true
-AdditionalEnvs = []
+flag_dir_excepted = true
+additional_envs = []
 
-[FlagFiles]
-Windows = ['v-analyzer.exe']
-Linux = ['v-analyzer']
-MacOS = ['v-analyzer']
+[flag_files]
+windows = ['v-analyzer.exe']
+linux = ['v-analyzer']
+darwin = ['v-analyzer']
 
-[BinaryDirs]
-Windows = []
-Linux = []
-MacOS = []
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
