@@ -1,16 +1,16 @@
-FlagDirExcepted = true
-AdditionalEnvs = []
+flag_dir_excepted = true
+additional_envs = []
 
-[FlagFiles]
-Windows = ['tree-sitter.exe']
-Linux = ['tree-sitter']
-MacOS = ['tree-sitter']
+[flag_files]
+windows = ['tree-sitter.exe']
+linux = ['tree-sitter']
+darwin = ['tree-sitter']
 
-[BinaryDirs]
-Windows = []
-Linux = []
-MacOS = []
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
 
-[BinaryRename]
-NameFlag = 'tree-sitter'
-RenameTo = 'tree-sitter'
+[binary_rename]
+name_flag = 'tree-sitter'
+rename_to = 'tree-sitter'
