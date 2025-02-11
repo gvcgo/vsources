@@ -1,16 +1,16 @@
-FlagDirExcepted = true
-AdditionalEnvs = []
+flag_dir_excepted = true
+additional_envs = []
 
-[FlagFiles]
-Windows = ['typst-preview.exe']
-Linux = ['typst-preview']
-MacOS = ['typst-preview']
+[flag_files]
+windows = ['typst-preview.exe']
+linux = ['typst-preview']
+darwin = ['typst-preview']
 
-[BinaryDirs]
-Windows = []
-Linux = []
-MacOS = []
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
 
-[BinaryRename]
-NameFlag = 'typst-preview'
-RenameTo = 'typst-preview'
+[binary_rename]
+name_flag = 'typst-preview'
+rename_to = 'typst-preview'
