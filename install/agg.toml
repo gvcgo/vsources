@@ -1,16 +1,16 @@
-FlagDirExcepted = true
-AdditionalEnvs = []
+flag_dir_excepted = true
+additional_envs = []
 
-[FlagFiles]
-Windows = ['agg.exe']
-Linux = ['agg']
-MacOS = ['agg']
+[flag_files]
+windows = ['agg.exe']
+linux = ['agg']
+darwin = ['agg']
 
-[BinaryDirs]
-Windows = []
-Linux = []
-MacOS = []
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
 
-[BinaryRename]
-NameFlag = 'agg'
-RenameTo = 'agg'
+[binary_rename]
+name_flag = 'agg'
+rename_to = 'agg'
