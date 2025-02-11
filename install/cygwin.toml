@@ -1,16 +1,16 @@
-FlagDirExcepted = false
-AdditionalEnvs = []
+flag_dir_excepted = false
+additional_envs = []
 
-[FlagFiles]
-Windows = ['setup-x86_64.exe']
-Linux = ['setup-x86_64.exe']
-MacOS = ['setup-x86_64.exe']
+[flag_files]
+windows = ['setup-x86_64.exe']
+linux = ['setup-x86_64.exe']
+darwin = ['setup-x86_64.exe']
 
-[BinaryDirs]
-Windows = []
-Linux = []
-MacOS = []
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
 
-[BinaryRename]
-NameFlag = 'setup-x86_64'
-RenameTo = 'cygwin-installer'
+[binary_rename]
+name_flag = 'setup-x86_64'
+rename_to = 'cygwin-installer'
