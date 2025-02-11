@@ -1,12 +1,12 @@
-FlagDirExcepted = true
-AdditionalEnvs = []
+flag_dir_excepted = true
+additional_envs = []
 
-[FlagFiles]
-Windows = ['serve-d.exe']
-Linux = ['serve-d']
-MacOS = ['serve-d']
+[flag_files]
+windows = ['serve-d.exe']
+linux = ['serve-d']
+darwin = ['serve-d']
 
-[BinaryDirs]
-Windows = []
-Linux = []
-MacOS = []
+[binary_dirs]
+windows = []
+linux = []
+darwin = []
