@@ -1,12 +1,12 @@
-FlagDirExcepted = true
-AdditionalEnvs = []
+flag_dir_excepted = true
+additional_envs = []
 
-[FlagFiles]
-Windows = ['wasmtime.exe', 'LICENSE']
-Linux = ['wasmtime', 'LICENSE']
-MacOS = ['wasmtime', 'LICENSE']
+[flag_files]
+windows = ['wasmtime.exe', 'LICENSE']
+linux = ['wasmtime', 'LICENSE']
+darwin = ['wasmtime', 'LICENSE']
 
-[BinaryDirs]
-Windows = [[]]
-Linux = [[]]
-MacOS = [[]]
+[binary_dirs]
+windows = [[]]
+linux = [[]]
+darwin = [[]]
