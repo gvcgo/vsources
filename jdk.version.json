@@ -71,34 +71,12 @@
   ],
   "11.0.11.0_9": [
     {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.11+9/bellsoft-jdk11.0.11+9-linux-aarch64-full.tar.gz",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "e48ecc03b3781c322ef0bbdf9e7a283934c69f80",
-      "sum_type": "sha1",
-      "size": 291319362,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": "11.0.11+9"
-    },
-    {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.11+9/bellsoft-jdk11.0.11+9-linux-amd64-full.tar.gz",
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.11+9/bellsoft-jdk11.0.11+9-windows-amd64-full.zip",
       "arch": "amd64",
-      "os": "linux",
-      "sum": "b0f73d467dc09cbd3103075ff3d24559c84d4491",
+      "os": "windows",
+      "sum": "c2c1196d547d7e4d73f6ce25f8eae1fc45a78334",
       "sum_type": "sha1",
-      "size": 306452726,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": "11.0.11+9"
-    },
-    {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.11+9/bellsoft-jdk11.0.11+9-macos-aarch64-full.zip",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "13b3d08583aaee5d60ddbbe29e57d652c00c30ab",
-      "sum_type": "sha1",
-      "size": 277828393,
+      "size": 274165598,
       "installer": "unarchiver",
       "lts": "1",
       "extra": "11.0.11+9"
@@ -115,23 +93,45 @@
       "extra": "11.0.11+9"
     },
     {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.11+9/bellsoft-jdk11.0.11+9-macos-aarch64-full.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "13b3d08583aaee5d60ddbbe29e57d652c00c30ab",
+      "sum_type": "sha1",
+      "size": 277828393,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "11.0.11+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.11+9/bellsoft-jdk11.0.11+9-linux-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "b0f73d467dc09cbd3103075ff3d24559c84d4491",
+      "sum_type": "sha1",
+      "size": 306452726,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "11.0.11+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.11+9/bellsoft-jdk11.0.11+9-linux-aarch64-full.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "e48ecc03b3781c322ef0bbdf9e7a283934c69f80",
+      "sum_type": "sha1",
+      "size": 291319362,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "11.0.11+9"
+    },
+    {
       "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.11+9/bellsoft-jdk11.0.11+9-windows-aarch64-full.zip",
       "arch": "arm64",
       "os": "windows",
       "sum": "2967ef82e1e1008dd12efab66b6b6dc686bba3b1",
       "sum_type": "sha1",
       "size": 217216533,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": "11.0.11+9"
-    },
-    {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.11+9/bellsoft-jdk11.0.11+9-windows-amd64-full.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "c2c1196d547d7e4d73f6ce25f8eae1fc45a78334",
-      "sum_type": "sha1",
-      "size": 274165598,
       "installer": "unarchiver",
       "lts": "1",
       "extra": "11.0.11+9"
@@ -1825,6 +1825,96 @@
       "extra": "11.0.25+11"
     }
   ],
+  "11.0.26.0_9": [
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.26+9/bellsoft-jdk11.0.26+9-linux-aarch64-full.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "8ca44a4eab6b300cbb67dc6db759099103a8f2eb",
+      "sum_type": "sha1",
+      "size": 330409023,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "11.0.26+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.26+9/bellsoft-jdk11.0.26+9-linux-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "4522b7b6886feafc4461eefa5aa2595ec8bcf21c",
+      "sum_type": "sha1",
+      "size": 342422240,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "11.0.26+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.26+9/bellsoft-jdk11.0.26+9-macos-aarch64-full.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "de69f10d2b5c4f0da5eaaf4b8962afe2daa59d50",
+      "sum_type": "sha1",
+      "size": 289882496,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "11.0.26+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.26+9/bellsoft-jdk11.0.26+9-macos-aarch64-full.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "aa658a91f6256a0c5e894d0364824b592393eec9",
+      "sum_type": "sha1",
+      "size": 295708620,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "11.0.26+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.26+9/bellsoft-jdk11.0.26+9-macos-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "fbe3dfe5821d7812324090232d076355d9ce8659",
+      "sum_type": "sha1",
+      "size": 306786610,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "11.0.26+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.26+9/bellsoft-jdk11.0.26+9-macos-amd64-full.zip",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "14ad6ef561b8ff6bd4d15a5434bdfd164fbc0a57",
+      "sum_type": "sha1",
+      "size": 312672352,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "11.0.26+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.26+9/bellsoft-jdk11.0.26+9-windows-aarch64-full.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "2fb60a1d4451da4894da21139228337f316672b2",
+      "sum_type": "sha1",
+      "size": 220288528,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "11.0.26+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.26+9/bellsoft-jdk11.0.26+9-windows-amd64-full.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "9a6238492742328a9a618cce5bb2747a9c7fe489",
+      "sum_type": "sha1",
+      "size": 296696931,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "11.0.26+9"
+    }
+  ],
   "11.0.6.0_10": [
     {
       "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.6+10/bellsoft-jdk11.0.6+10-linux-amd64-full.tar.gz",
@@ -2357,34 +2447,12 @@
   ],
   "15.0.2.0_10": [
     {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/15.0.2+10/bellsoft-jdk15.0.2+10-linux-aarch64-full.tar.gz",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "801f4008f3bd09d4d2a0ebd5000cf66d8dbfc1ad",
-      "sum_type": "sha1",
-      "size": 290925784,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "15.0.2+10"
-    },
-    {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/15.0.2+10/bellsoft-jdk15.0.2+10-linux-amd64-full.tar.gz",
+      "url": "https://github.com/bell-sw/Liberica/releases/download/15.0.2+10/bellsoft-jdk15.0.2+10-windows-amd64-full.zip",
       "arch": "amd64",
-      "os": "linux",
-      "sum": "ede6c0d3a1ee630e162099475be5102c9fee5555",
+      "os": "windows",
+      "sum": "b65614d99eaca4dcb5c97768792a00eb4f12b691",
       "sum_type": "sha1",
-      "size": 308741452,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "15.0.2+10"
-    },
-    {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/15.0.2+10/bellsoft-jdk15.0.2+10-macos-aarch64-full.zip",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "f7dc6b0ab3fd96e200b85bea5340e23c326e466b",
-      "sum_type": "sha1",
-      "size": 271357268,
+      "size": 277301336,
       "installer": "unarchiver",
       "lts": "",
       "extra": "15.0.2+10"
@@ -2401,12 +2469,34 @@
       "extra": "15.0.2+10"
     },
     {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/15.0.2+10/bellsoft-jdk15.0.2+10-windows-amd64-full.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "b65614d99eaca4dcb5c97768792a00eb4f12b691",
+      "url": "https://github.com/bell-sw/Liberica/releases/download/15.0.2+10/bellsoft-jdk15.0.2+10-macos-aarch64-full.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "f7dc6b0ab3fd96e200b85bea5340e23c326e466b",
       "sum_type": "sha1",
-      "size": 277301336,
+      "size": 271357268,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "15.0.2+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/15.0.2+10/bellsoft-jdk15.0.2+10-linux-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "ede6c0d3a1ee630e162099475be5102c9fee5555",
+      "sum_type": "sha1",
+      "size": 308741452,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "15.0.2+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/15.0.2+10/bellsoft-jdk15.0.2+10-linux-aarch64-full.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "801f4008f3bd09d4d2a0ebd5000cf66d8dbfc1ad",
+      "sum_type": "sha1",
+      "size": 290925784,
       "installer": "unarchiver",
       "lts": "",
       "extra": "15.0.2+10"
@@ -2471,34 +2561,12 @@
   ],
   "16.0.0.0_36": [
     {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-aarch64-full.tar.gz",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "d0d567f6f25775ae222ebb71e198d6ea36fbd99c",
-      "sum_type": "sha1",
-      "size": 295928850,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "16+36"
-    },
-    {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-amd64-full.tar.gz",
+      "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-windows-amd64-full.zip",
       "arch": "amd64",
-      "os": "linux",
-      "sum": "758ba613d60fab9c62d267b9df11b4ab28457e86",
+      "os": "windows",
+      "sum": "6cc1f3ead19e4d356210fddb544033d601336857",
       "sum_type": "sha1",
-      "size": 313702723,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "16+36"
-    },
-    {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-macos-aarch64-full.zip",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "179f0d2f9b92a7e9fa6c9893a50ab40f4b5e35fa",
-      "sum_type": "sha1",
-      "size": 279253173,
+      "size": 281782035,
       "installer": "unarchiver",
       "lts": "",
       "extra": "16+36"
@@ -2515,12 +2583,34 @@
       "extra": "16+36"
     },
     {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-windows-amd64-full.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "6cc1f3ead19e4d356210fddb544033d601336857",
+      "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-macos-aarch64-full.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "179f0d2f9b92a7e9fa6c9893a50ab40f4b5e35fa",
       "sum_type": "sha1",
-      "size": 281782035,
+      "size": 279253173,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "16+36"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "758ba613d60fab9c62d267b9df11b4ab28457e86",
+      "sum_type": "sha1",
+      "size": 313702723,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "16+36"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/16+36/bellsoft-jdk16+36-linux-aarch64-full.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "d0d567f6f25775ae222ebb71e198d6ea36fbd99c",
+      "sum_type": "sha1",
+      "size": 295928850,
       "installer": "unarchiver",
       "lts": "",
       "extra": "16+36"
@@ -2541,45 +2631,12 @@
   ],
   "16.0.1.0_9": [
     {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/16.0.1+9/bellsoft-jdk16.0.1+9-linux-aarch64-full.tar.gz",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "64bd9b8fef1c7e77d62b086a4e84718511d2555d",
-      "sum_type": "sha1",
-      "size": 297584810,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "16.0.1+9"
-    },
-    {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/16.0.1+9/bellsoft-jdk16.0.1+9-linux-amd64-full.tar.gz",
+      "url": "https://github.com/bell-sw/Liberica/releases/download/16.0.1+9/bellsoft-jdk16.0.1+9-windows-amd64-full.zip",
       "arch": "amd64",
-      "os": "linux",
-      "sum": "faab4e5fc32f79ad3ab7961a23a49e74b30e9f1e",
+      "os": "windows",
+      "sum": "db71f8ffc2e93644fe29f1b50fa9872f7e0fb426",
       "sum_type": "sha1",
-      "size": 315505623,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "16.0.1+9"
-    },
-    {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/16.0.1+9/bellsoft-jdk16.0.1+9-macos-aarch64-full.zip",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "14ccbb4fff206b138762348192d4a4d70ceba2e6",
-      "sum_type": "sha1",
-      "size": 280678428,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "16.0.1+9"
-    },
-    {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/16.0.1+9/bellsoft-jdk16.0.1+9-macos-amd64-full.zip",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "7d11d4255e06874a60a5d67731fcf6d8a83830d6",
-      "sum_type": "sha1",
-      "size": 300399780,
+      "size": 282877676,
       "installer": "unarchiver",
       "lts": "",
       "extra": "16.0.1+9"
@@ -2596,12 +2653,45 @@
       "extra": "16.0.1+9"
     },
     {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/16.0.1+9/bellsoft-jdk16.0.1+9-windows-amd64-full.zip",
+      "url": "https://github.com/bell-sw/Liberica/releases/download/16.0.1+9/bellsoft-jdk16.0.1+9-macos-amd64-full.zip",
       "arch": "amd64",
-      "os": "windows",
-      "sum": "db71f8ffc2e93644fe29f1b50fa9872f7e0fb426",
+      "os": "darwin",
+      "sum": "7d11d4255e06874a60a5d67731fcf6d8a83830d6",
       "sum_type": "sha1",
-      "size": 282877676,
+      "size": 300399780,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "16.0.1+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/16.0.1+9/bellsoft-jdk16.0.1+9-macos-aarch64-full.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "14ccbb4fff206b138762348192d4a4d70ceba2e6",
+      "sum_type": "sha1",
+      "size": 280678428,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "16.0.1+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/16.0.1+9/bellsoft-jdk16.0.1+9-linux-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "faab4e5fc32f79ad3ab7961a23a49e74b30e9f1e",
+      "sum_type": "sha1",
+      "size": 315505623,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "16.0.1+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/16.0.1+9/bellsoft-jdk16.0.1+9-linux-aarch64-full.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "64bd9b8fef1c7e77d62b086a4e84718511d2555d",
+      "sum_type": "sha1",
+      "size": 297584810,
       "installer": "unarchiver",
       "lts": "",
       "extra": "16.0.1+9"
@@ -3281,6 +3371,96 @@
       "installer": "unarchiver",
       "lts": "1",
       "extra": "17.0.13+12"
+    }
+  ],
+  "17.0.14.0_10": [
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.14+10/bellsoft-jdk17.0.14+10-linux-aarch64-full.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "7fe1eb041995cd0d27226f97670a1fd8eb08e3ac",
+      "sum_type": "sha1",
+      "size": 328937810,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "17.0.14+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.14+10/bellsoft-jdk17.0.14+10-linux-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "4aa376c5bcf24c2001510487ca0243e157536e22",
+      "sum_type": "sha1",
+      "size": 336240723,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "17.0.14+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.14+10/bellsoft-jdk17.0.14+10-macos-aarch64-full.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "2fdd61faec624a98c5652b6152f5f75225a22a35",
+      "sum_type": "sha1",
+      "size": 295420223,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "17.0.14+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.14+10/bellsoft-jdk17.0.14+10-macos-aarch64-full.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "d12b1840cc7a4f8bef2919557f1d1c58079911de",
+      "sum_type": "sha1",
+      "size": 300212253,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "17.0.14+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.14+10/bellsoft-jdk17.0.14+10-macos-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "4e8a15b2efeb42c357f85ad1607fce37e0c84c17",
+      "sum_type": "sha1",
+      "size": 305662017,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "17.0.14+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.14+10/bellsoft-jdk17.0.14+10-macos-amd64-full.zip",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "e116ace471b8771dd47d41cb57a7a66002e0374d",
+      "sum_type": "sha1",
+      "size": 310421289,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "17.0.14+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.14+10/bellsoft-jdk17.0.14+10-windows-aarch64-full.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "24fef1714dde484926efb9ce53ab0c46983abf22",
+      "sum_type": "sha1",
+      "size": 205593324,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "17.0.14+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/17.0.14+10/bellsoft-jdk17.0.14+10-windows-amd64-full.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "275f62045d63507513a22f4b22f070d63170efa5",
+      "sum_type": "sha1",
+      "size": 290997646,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "17.0.14+10"
     }
   ],
   "17.0.2.0_9": [
@@ -5893,6 +6073,96 @@
       "extra": "21.0.5+11"
     }
   ],
+  "21.0.6.0_10": [
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.6+10/bellsoft-jdk21.0.6+10-linux-aarch64-full.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "a14cb2aea90ca06f46471940b25084a99a51d86b",
+      "sum_type": "sha1",
+      "size": 345068100,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "21.0.6+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.6+10/bellsoft-jdk21.0.6+10-linux-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "23606bff0959f7249fbbee49e68796f2afbf9d5b",
+      "sum_type": "sha1",
+      "size": 352959870,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "21.0.6+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.6+10/bellsoft-jdk21.0.6+10-macos-aarch64-full.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "f175eed77b1d272ba49bb3c9ce14323a0e0fdf91",
+      "sum_type": "sha1",
+      "size": 310744044,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "21.0.6+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.6+10/bellsoft-jdk21.0.6+10-macos-aarch64-full.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "e2a31c8483220169e705fa22f5266051abb675fc",
+      "sum_type": "sha1",
+      "size": 315344387,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "21.0.6+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.6+10/bellsoft-jdk21.0.6+10-macos-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "98761f51cb59a343e6b34ea75e23958fc261c302",
+      "sum_type": "sha1",
+      "size": 320328657,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "21.0.6+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.6+10/bellsoft-jdk21.0.6+10-macos-amd64-full.zip",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "00abc9c33bbf6ba7fb665fd6f2294c5ee874b2ad",
+      "sum_type": "sha1",
+      "size": 324907391,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "21.0.6+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.6+10/bellsoft-jdk21.0.6+10-windows-aarch64-full.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "aec9a377556bf87159158899664c792166dc56a8",
+      "sum_type": "sha1",
+      "size": 219922172,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "21.0.6+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/21.0.6+10/bellsoft-jdk21.0.6+10-windows-amd64-full.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "8cb37ad3382bf12973b4ffb4e14f70a4469a1411",
+      "sum_type": "sha1",
+      "size": 306952662,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "21.0.6+10"
+    }
+  ],
   "22.0.0.0_37": [
     {
       "url": "https://github.com/bell-sw/Liberica/releases/download/22+37/bellsoft-jdk22+37-linux-aarch64-full.tar.gz",
@@ -6433,6 +6703,96 @@
       "extra": "23.0.1+13"
     }
   ],
+  "23.0.2.0_9": [
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-linux-aarch64-full.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "0e03dd2d5aed3e72f006c62a310fd05c7dd123a3",
+      "sum_type": "sha1",
+      "size": 353967846,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "23.0.2+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-linux-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "9d44ee7c56c4e75fabcb7bb304e938af578c251b",
+      "sum_type": "sha1",
+      "size": 361402524,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "23.0.2+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-macos-aarch64-full.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "bd2dd4fb35eec507669ae028ed4ac709c972296b",
+      "sum_type": "sha1",
+      "size": 319652693,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "23.0.2+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-macos-aarch64-full.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "397e3ac6c810cc3edc5139e9fedb39eed1dd13dd",
+      "sum_type": "sha1",
+      "size": 324160413,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "23.0.2+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-macos-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "19fe611181fd4bc9bf0c01289091fd61a5178eef",
+      "sum_type": "sha1",
+      "size": 329487551,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "23.0.2+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-macos-amd64-full.zip",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "1b8709504a939989652c9cc6523f0c9bf4b5b6bf",
+      "sum_type": "sha1",
+      "size": 333979913,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "23.0.2+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-aarch64-full.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "16f4c17365c2805535f4a8de95f95d53a4c2ed13",
+      "sum_type": "sha1",
+      "size": 227856196,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "23.0.2+9"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/23.0.2+9/bellsoft-jdk23.0.2+9-windows-amd64-full.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "62fcd98a293d4b7b1b29868c09f2356a3c9c0f66",
+      "sum_type": "sha1",
+      "size": 315756396,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "23.0.2+9"
+    }
+  ],
   "8.0.242.0_7": [
     {
       "url": "https://github.com/bell-sw/Liberica/releases/download/8u242+7/bellsoft-jdk8u242+7-linux-amd64-full.tar.gz",
@@ -6691,23 +7051,12 @@
   ],
   "8.0.292.0_10": [
     {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/8u292+10/bellsoft-jdk8u292+10-linux-amd64-full.tar.gz",
+      "url": "https://github.com/bell-sw/Liberica/releases/download/8u292+10/bellsoft-jdk8u292+10-windows-amd64-full.zip",
       "arch": "amd64",
-      "os": "linux",
-      "sum": "479edb112f527ad26339eea0b375d8a5496f3c87",
+      "os": "windows",
+      "sum": "86ad57be4a675485a461859857daa174cb385e0a",
       "sum_type": "sha1",
-      "size": 150476693,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": "8u292+10"
-    },
-    {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/8u292+10/bellsoft-jdk8u292+10-macos-aarch64-full.zip",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "03fca6745a78fc1d27742dce0f0261f2b7a67e8c",
-      "sum_type": "sha1",
-      "size": 145342324,
+      "size": 141737750,
       "installer": "unarchiver",
       "lts": "1",
       "extra": "8u292+10"
@@ -6724,12 +7073,23 @@
       "extra": "8u292+10"
     },
     {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/8u292+10/bellsoft-jdk8u292+10-windows-amd64-full.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "86ad57be4a675485a461859857daa174cb385e0a",
+      "url": "https://github.com/bell-sw/Liberica/releases/download/8u292+10/bellsoft-jdk8u292+10-macos-aarch64-full.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "03fca6745a78fc1d27742dce0f0261f2b7a67e8c",
       "sum_type": "sha1",
-      "size": 141737750,
+      "size": 145342324,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "8u292+10"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/8u292+10/bellsoft-jdk8u292+10-linux-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "479edb112f527ad26339eea0b375d8a5496f3c87",
+      "sum_type": "sha1",
+      "size": 150476693,
       "installer": "unarchiver",
       "lts": "1",
       "extra": "8u292+10"
@@ -7812,6 +8172,74 @@
       "installer": "unarchiver",
       "lts": "1",
       "extra": "8u432+7"
+    }
+  ],
+  "8.0.442.0_7": [
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/8u442+7/bellsoft-jdk8u442+7-linux-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "f71ec4ec84b39392da645ac637170ac6c3e1c67a",
+      "sum_type": "sha1",
+      "size": 164211760,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "8u442+7"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/8u442+7/bellsoft-jdk8u442+7-macos-aarch64-full.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "7376d5304c98dfda27fb0594a9686291b2eab7a1",
+      "sum_type": "sha1",
+      "size": 149534691,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "8u442+7"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/8u442+7/bellsoft-jdk8u442+7-macos-aarch64-full.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "631cfd22cdfc26490d961dc42537fb183e502721",
+      "sum_type": "sha1",
+      "size": 154115040,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "8u442+7"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/8u442+7/bellsoft-jdk8u442+7-macos-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "6ccd1c838772ee13e512ecdf4c4e72f6cc43cbf1",
+      "sum_type": "sha1",
+      "size": 153475164,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "8u442+7"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/8u442+7/bellsoft-jdk8u442+7-macos-amd64-full.zip",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "f60b935bfda41af21aab111d0ef420dfb9a5677d",
+      "sum_type": "sha1",
+      "size": 157988236,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "8u442+7"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/8u442+7/bellsoft-jdk8u442+7-windows-amd64-full.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "cfb2f536ce037acf2e53d1acb42fc0e0db1b88cb",
+      "sum_type": "sha1",
+      "size": 149578864,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "8u442+7"
     }
   ],
   "nik-11.0.13.8-21.3.0": [
@@ -9094,6 +9522,74 @@
       "installer": "unarchiver",
       "lts": "1",
       "extra": "23.0.6+1"
+    }
+  ],
+  "nik-17.0.14.10-23.0.7.1": [
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.0.7+1-17.0.14+10/bellsoft-liberica-vm-full-openjdk17.0.14+10-23.0.7+1-macos-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "fd7b270878692a1178fb036a7dbfbb947a16c6ad",
+      "sum_type": "sha1",
+      "size": 286524506,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.0.7+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.0.7+1-17.0.14+10/bellsoft-liberica-vm-full-openjdk17.0.14+10-23.0.7+1-macos-amd64.zip",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "44bce9ba53fe4b56b7d3b5fff80bb7e3b39844bb",
+      "sum_type": "sha1",
+      "size": 291418785,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.0.7+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.0.7+1-17.0.14+10/bellsoft-liberica-vm-full-openjdk17.0.14+10-23.0.7+1-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "6526510ec0794ec14106dba3de4edd2a1db5c57b",
+      "sum_type": "sha1",
+      "size": 284585814,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.0.7+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.0.7+1-17.0.14+10/bellsoft-liberica-vm-full-openjdk17.0.14+10-23.0.7+1-macos-aarch64.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "89ea2ac80cad12283d96ea4ebcd26add6532902d",
+      "sum_type": "sha1",
+      "size": 289492779,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.0.7+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.0.7+1-17.0.14+10/bellsoft-liberica-vm-full-openjdk17.0.14+10-23.0.7+1-windows-amd64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "8f16f81b2c1d69608cd8093084080d680ad37e5e",
+      "sum_type": "sha1",
+      "size": 301091722,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.0.7+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.0.7+1-17.0.14+10/bellsoft-liberica-vm-full-openjdk17.0.14+10-23.0.7+1-linux-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "2e5f2139a2e2d6388e4d0fae248d569e0cda8afc",
+      "sum_type": "sha1",
+      "size": 292228973,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.0.7+1"
     }
   ],
   "nik-17.0.2.9-21.3.1": [
@@ -10806,6 +11302,74 @@
       "extra": "23.1.5+1"
     }
   ],
+  "nik-21.0.6.10-23.1.6.1": [
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.1.6+1-21.0.6+10/bellsoft-liberica-vm-full-openjdk21.0.6+10-23.1.6+1-macos-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "16a84f4bd04c9f5013873e9a8ccd2ce7164ece40",
+      "sum_type": "sha1",
+      "size": 277416625,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.1.6+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.1.6+1-21.0.6+10/bellsoft-liberica-vm-full-openjdk21.0.6+10-23.1.6+1-macos-amd64.zip",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "52e72c1d79c1bda6d3cac81f29251780421217a8",
+      "sum_type": "sha1",
+      "size": 282559370,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.1.6+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.1.6+1-21.0.6+10/bellsoft-liberica-vm-full-openjdk21.0.6+10-23.1.6+1-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "e2a4a506d7646bbf2849c8b77715076614cab9ac",
+      "sum_type": "sha1",
+      "size": 292136456,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.1.6+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.1.6+1-21.0.6+10/bellsoft-liberica-vm-full-openjdk21.0.6+10-23.1.6+1-macos-aarch64.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "edfe453caea424ace01edd469aea63a70eb12cf2",
+      "sum_type": "sha1",
+      "size": 297308861,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.1.6+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.1.6+1-21.0.6+10/bellsoft-liberica-vm-full-openjdk21.0.6+10-23.1.6+1-linux-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "82ff5eaf5f8121d4f210ab68064f54ba000087fb",
+      "sum_type": "sha1",
+      "size": 283721639,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.1.6+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/23.1.6+1-21.0.6+10/bellsoft-liberica-vm-full-openjdk21.0.6+10-23.1.6+1-windows-amd64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "5f3852cd082cc66e72333625b0d595b308cebfb9",
+      "sum_type": "sha1",
+      "size": 295002745,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.1.6+1"
+    }
+  ],
   "nik-21.37-23.1.0.1": [
     {
       "url": "https://download.bell-sw.com/vm/23.1.0/bellsoft-liberica-vm-full-openjdk21+37-23.1.0+1-windows-amd64.zip",
@@ -11144,6 +11708,74 @@
       "installer": "unarchiver",
       "lts": "1",
       "extra": "24.1.1+1"
+    }
+  ],
+  "nik-23.0.2.9-24.1.2.1": [
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/24.1.2+1-23.0.2+9/bellsoft-liberica-vm-full-openjdk23.0.2+9-24.1.2+1-linux-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "602d62a65a17d9a5a70d4e87b43d5bf518937a0e",
+      "sum_type": "sha1",
+      "size": 342381869,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "24.1.2+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/24.1.2+1-23.0.2+9/bellsoft-liberica-vm-full-openjdk23.0.2+9-24.1.2+1-macos-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "a08f56ef78b74ea58075517580848e0918c08d4b",
+      "sum_type": "sha1",
+      "size": 330716432,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "24.1.2+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/24.1.2+1-23.0.2+9/bellsoft-liberica-vm-full-openjdk23.0.2+9-24.1.2+1-macos-amd64.zip",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "65d8dbca3a7eaf6970dd4c55431c732ab9358960",
+      "sum_type": "sha1",
+      "size": 335760858,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "24.1.2+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/24.1.2+1-23.0.2+9/bellsoft-liberica-vm-full-openjdk23.0.2+9-24.1.2+1-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "cd3cda1bb3dcbe16134f60763003b45560d723ca",
+      "sum_type": "sha1",
+      "size": 346043818,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "24.1.2+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/24.1.2+1-23.0.2+9/bellsoft-liberica-vm-full-openjdk23.0.2+9-24.1.2+1-macos-aarch64.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "16b1d4eca92fef8c3f9072aba4cb32cfae689705",
+      "sum_type": "sha1",
+      "size": 351121348,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "24.1.2+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/LibericaNIK/releases/download/24.1.2+1-23.0.2+9/bellsoft-liberica-vm-full-openjdk23.0.2+9-24.1.2+1-windows-amd64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "71499408c24bbd0215c3602da710ce8642e5fb48",
+      "sum_type": "sha1",
+      "size": 359794060,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "24.1.2+1"
     }
   ],
   "nik-23.38-24.1.0.1": [
