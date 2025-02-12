@@ -1,7 +1,7 @@
-FlagDirExcepted = false
-AdditionalEnvs = []
+flag_dir_excepted = false
+additional_envs = []
 
-[BinaryDirs]
-Windows = [['bin'], ['condabin']]
-Linux = [['bin'], ['condabin']]
-MacOS = [['bin'], ['condabin']]
+[binary_dirs]
+windows = [['bin'], ['condabin']]
+linux = [['bin'], ['condabin']]
+darwin = [['bin'], ['condabin']]
