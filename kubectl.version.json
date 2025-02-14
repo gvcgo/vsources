@@ -333,7 +333,7 @@
       "url": "https://dl.k8s.io/release/v1.15.12/bin/windows/amd64/kubectl.exe",
       "arch": "amd64",
       "os": "windows",
-      "sum": "",
+      "sum": "d11caa2d3d36181524e299e7880b644ce6b30504b95da41be8616b569c6fbab4",
       "sum_type": "sha256",
       "size": 0,
       "installer": "executable",
@@ -1416,12 +1416,12 @@
       "extra": ""
     }
   ],
-  "1.29.0": [
+  "1.29.14": [
     {
-      "url": "https://dl.k8s.io/release/v1.29.0/bin/darwin/amd64/kubectl",
+      "url": "https://dl.k8s.io/release/v1.29.14/bin/darwin/amd64/kubectl",
       "arch": "amd64",
       "os": "darwin",
-      "sum": "d69c2b0929070e42518b304758fbe05cf76c4fb60d36e93bb667d7b76e582124",
+      "sum": "011f03c3bbf424707f05d0f9edf48c6e4ff91ab0c6798a3207e0b8dd36483dd7",
       "sum_type": "sha256",
       "size": 0,
       "installer": "executable",
@@ -1429,10 +1429,10 @@
       "extra": ""
     },
     {
-      "url": "https://dl.k8s.io/release/v1.29.0/bin/darwin/arm64/kubectl",
+      "url": "https://dl.k8s.io/release/v1.29.14/bin/darwin/arm64/kubectl",
       "arch": "arm64",
       "os": "darwin",
-      "sum": "403beb5d64d8a8517f808a320619a28adc89003b1b710f02421933a9ee4eb968",
+      "sum": "ce605eef8e4ec262246d9d2aec84cfabe6e154630ccad69e69161e61fa2bfd88",
       "sum_type": "sha256",
       "size": 0,
       "installer": "executable",
@@ -1440,10 +1440,10 @@
       "extra": ""
     },
     {
-      "url": "https://dl.k8s.io/release/v1.29.0/bin/linux/amd64/kubectl",
+      "url": "https://dl.k8s.io/release/v1.29.14/bin/linux/amd64/kubectl",
       "arch": "amd64",
       "os": "linux",
-      "sum": "0e03ab096163f61ab610b33f37f55709d3af8e16e4dcc1eb682882ef80f96fd5",
+      "sum": "a4902c8a454a3678d589b51d95d810ec84791c03ed6b5779969df559c9c0357e",
       "sum_type": "sha256",
       "size": 0,
       "installer": "executable",
@@ -1451,10 +1451,10 @@
       "extra": ""
     },
     {
-      "url": "https://dl.k8s.io/release/v1.29.0/bin/linux/arm64/kubectl",
+      "url": "https://dl.k8s.io/release/v1.29.14/bin/linux/arm64/kubectl",
       "arch": "arm64",
       "os": "linux",
-      "sum": "8f7a4bd6bae900a4ddab12bd1399aa652c0d59ea508f39b910e111d248893ff7",
+      "sum": "03c95785fc0325896eb8540b9a1447ccc89b1f1721b7594012e4f32a719d8e0a",
       "sum_type": "sha256",
       "size": 0,
       "installer": "executable",
@@ -1462,751 +1462,10 @@
       "extra": ""
     },
     {
-      "url": "https://dl.k8s.io/release/v1.29.0/bin/windows/amd64/kubectl.exe",
+      "url": "https://dl.k8s.io/release/v1.29.14/bin/windows/amd64/kubectl.exe",
       "arch": "amd64",
       "os": "windows",
-      "sum": "0ba8da57990757e3bc02df838d36adaf0586e557f518d0149f00e63ac2057066",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "1.29.1": [
-    {
-      "url": "https://dl.k8s.io/release/v1.29.1/bin/darwin/amd64/kubectl",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "c4da86e5c0fc9415db14a48d9ef1515b0b472346cbc9b7f015175b6109505d2c",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.1/bin/darwin/arm64/kubectl",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "c31b99d7bf0faa486a6554c5f96e36af4821a488e90176a12ba18298bc4c8fb0",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.1/bin/linux/amd64/kubectl",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "69ab3a931e826bf7ac14d38ba7ca637d66a6fcb1ca0e3333a2cafdf15482af9f",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.1/bin/linux/arm64/kubectl",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "96d6dc7b2bdcd344ce58d17631c452225de5bbf59b83fd3c89c33c6298fb5d8b",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.1/bin/windows/amd64/kubectl.exe",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "d48a0b160f361bac2d7cb3e19c755e70f2ae8d7d15c89f52d33b66dd9ba5b89c",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "1.29.10": [
-    {
-      "url": "https://dl.k8s.io/release/v1.29.10/bin/darwin/amd64/kubectl",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "20cfa105fab897fccfdd67f10bcd9a1767c221c0156bd18b75d60be1302c08cf",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.10/bin/darwin/arm64/kubectl",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "babfa4db278d48ced9ef52cac235bdd788180ac125c83663dc3d9e92a9c87ee1",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.10/bin/linux/amd64/kubectl",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.10/bin/linux/arm64/kubectl",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "4cfa950fbd354bdc655cc425494aa77fe81710bc8f7d3f95285338aac223cc82",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.10/bin/windows/amd64/kubectl.exe",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "de02822a8e3580778e70232077eaf27e057af394b8920b0cf18480cf7d9c840f",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "1.29.11": [
-    {
-      "url": "https://dl.k8s.io/release/v1.29.11/bin/darwin/amd64/kubectl",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "2c0c7a5ff6d8e899db643c74498587791632b1c414359ab731fac5f3c0ddfd8f",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.11/bin/darwin/arm64/kubectl",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "8e5fcc918ae8933bcc88fdd1a79270ea7e46ad2598aa6852bc4b24fe41d308f1",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.11/bin/linux/amd64/kubectl",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "14d7ea4ada60ff15ef3b7734a83c4d05cff164d4843b6f4c081a50b86547c17d",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.11/bin/linux/arm64/kubectl",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "d0fcb8ead20f45ffab2d680b84a93c8e459b2c7c1d6dadf566769cf59f04c506",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.11/bin/windows/amd64/kubectl.exe",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "46cd0edd0ac1163fa47976c92affb936264fed7c0db3e890644660a0554ecb67",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "1.29.12": [
-    {
-      "url": "https://dl.k8s.io/release/v1.29.12/bin/darwin/amd64/kubectl",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "0df5932d0ba7a4665ea8033470f2f1a1db21637c3fabc709faa19db0fc62b5ec",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.12/bin/darwin/arm64/kubectl",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "5d1c59d8ce4d619bdd78fa849201dbfc9180f6dddcfdb30f29b5bbe20799b897",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.12/bin/linux/amd64/kubectl",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "35fc028853e6f5299a53f22ab58273ea2d882c0f261ead0a2eed5b844b12dbfb",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.12/bin/linux/arm64/kubectl",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "1cf2c00bb4f5ee6df69678e95af8ba9a4d4b1050ddefb0ae9d84b5c6f6c0e817",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.12/bin/windows/amd64/kubectl.exe",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "30ea9a390a119b02c38c52893837b60ee7d34cd8fd5405472134976872f7c3c7",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "1.29.13": [
-    {
-      "url": "https://dl.k8s.io/release/v1.29.13/bin/darwin/amd64/kubectl",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "347c60c071c3112909bb95557cbdc70ff2c224975d8c1094064ffc527bc33efc",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.13/bin/darwin/arm64/kubectl",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "d24a9cf168f01975c7be5ecb280dd805eb07df67f96aaf70fd11fc29ce99c115",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.13/bin/linux/amd64/kubectl",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "9f4cba9b3e12a3fd7fa99dee651d7293281333469852a8e755a1210d5b128b8d",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.13/bin/linux/arm64/kubectl",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "92a08a9e74efd81be46c9138fce597ab8827e18479fe5cc9c4065659d6464cf1",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.13/bin/windows/amd64/kubectl.exe",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "389b3291e0ebdaae9bf6fa16d05e615314134828e0b379134257d0ef4a79123c",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "1.29.2": [
-    {
-      "url": "https://dl.k8s.io/release/v1.29.2/bin/darwin/amd64/kubectl",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "bb04d9450d9c9fa120956c5cc7c8dfaa700297038ff9c941741e730b02bbd1f3",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.2/bin/darwin/arm64/kubectl",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "ce030f86625df96560402573d86d4e6f4b8b956ca3e3b9df57cb8ccf2b9a540c",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.2/bin/linux/amd64/kubectl",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "7816d067740f47f949be826ac76943167b7b3a38c4f0c18b902fffa8779a5afa",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.2/bin/linux/arm64/kubectl",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "3507ecb4224cf05ae2151a98d4932253624e7762159936d5347b19fe037655ca",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.2/bin/windows/amd64/kubectl.exe",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "5107162e20ef6e6f06c2db37e56da5db552858d83fa43b51787bf48c6e6d1caf",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "1.29.3": [
-    {
-      "url": "https://dl.k8s.io/release/v1.29.3/bin/darwin/amd64/kubectl",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "1a1f9040bce74fb28c475dc157a86565fcabf883a697ca576993ab8372935836",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.3/bin/darwin/arm64/kubectl",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "b54bf7a3f4d52117b79e4d4f0d7273a93cb60bad54a87f3ab35c6800243cbb8e",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.3/bin/linux/amd64/kubectl",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "89c0435cec75278f84b62b848b8c0d3e15897d6947b6c59a49ddccd93d7312bf",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.3/bin/linux/arm64/kubectl",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "191a96b27e3c6ae28b330da4c9bfefc9592762670727df4fcf124c9f1d5a466a",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.3/bin/windows/amd64/kubectl.exe",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "0192ce501a39ba1bb6cc7f1971a6004bc4b57d2c27400befaacaa4560dfff46e",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "1.29.4": [
-    {
-      "url": "https://dl.k8s.io/release/v1.29.4/bin/darwin/amd64/kubectl",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "7af9b8a233c49ad5eecb59004719e0bc07972492b674ebbce2919e53326b55b2",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.4/bin/darwin/arm64/kubectl",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "b3a881e6208aa41275a97481676a8c8a3c16282f3cd7b441b17f258a054012f1",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.4/bin/linux/amd64/kubectl",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "10e343861c3cb0010161e703307ba907add2aeeeaffc6444779ad915f9889c88",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.4/bin/linux/arm64/kubectl",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "61537408eedcad064d7334384aed508a8aa1ea786311b87b505456a2e0535d36",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.4/bin/windows/amd64/kubectl.exe",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "23ea3fce3a784b28e9445c1f813bdcdbd1270f92711f44f6e5772fa2ec2ce238",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "1.29.5": [
-    {
-      "url": "https://dl.k8s.io/release/v1.29.5/bin/darwin/amd64/kubectl",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "395082ef84594ea4cb170d599056406ed2cf39555b53e92e0caee013c1ed5cdf",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.5/bin/darwin/arm64/kubectl",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "23b09c126c0a0b71b58cc725a32cf84f1753242b3892dfd762511f2da6cce165",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.5/bin/linux/amd64/kubectl",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "603c8681fc0d8609c851f9cc58bcf55eeb97e2934896e858d0232aa8d1138366",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.5/bin/linux/arm64/kubectl",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "9ee9168def12ac6a6c0c6430e0f73175e756ed262db6040f8aa2121ad2c1f62e",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.5/bin/windows/amd64/kubectl.exe",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "8de419ccecdde90172345e7d12a63de42c217d28768d84c2398d932b44d73489",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "1.29.6": [
-    {
-      "url": "https://dl.k8s.io/release/v1.29.6/bin/darwin/amd64/kubectl",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "d6a844991d3853d9928a7593f583157403ea322ff712d7659b16e621fca00d79",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.6/bin/darwin/arm64/kubectl",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "0b7a3cd78503faf45c6506d594b586f58b9904ad48452466834397641d58d6f5",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.6/bin/linux/amd64/kubectl",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "339553c919874ebe3b719e9e1fcd68b55bc8875f9b5a005cf4c028738d54d309",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.6/bin/linux/arm64/kubectl",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "21816488cf3af4cf2b956ee58f7afc5b4964c29488f63756f5ddcf09b0df5be9",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.6/bin/windows/amd64/kubectl.exe",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "4c9cb51b40598f97bf2506da76d9482fa55e57adadaa49279e21e0cf6168ec18",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "1.29.7": [
-    {
-      "url": "https://dl.k8s.io/release/v1.29.7/bin/darwin/amd64/kubectl",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "e747b90725ebdac7b8a88621fc48ee56fabf5319da3080fa5855712e81fc88f8",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.7/bin/darwin/arm64/kubectl",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "f987c6a8cb769ec5062024ef27e2255bf8bc290d47f41b0fb974bb58094e11a7",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.7/bin/linux/amd64/kubectl",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "e3df008ef60ea50286ea93c3c40a020e178a338cea64a185b4e21792d88c75d6",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.7/bin/linux/arm64/kubectl",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "7b6649aaa298be728c5fb7ccb65f98738a4e8bda0741afbd5a9ed9e488c0e725",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.7/bin/windows/amd64/kubectl.exe",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "c4f76c46b792395e81c72a56ed55893bf5a31e3d1b4d67556c06f37aa7122d10",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "1.29.8": [
-    {
-      "url": "https://dl.k8s.io/release/v1.29.8/bin/darwin/amd64/kubectl",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "b1d780b97c36a2470c603a804476e85ad8fc4e13bb7761fd19180d79f8b06081",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.8/bin/darwin/arm64/kubectl",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "c48ad5e96b1dab12e504535fb2341476b3fe543d314cf90f98b11326ee0ed71d",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.8/bin/linux/amd64/kubectl",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "038454e0d79748aab41668f44ca6e4ac8affd1895a94f592b9739a0ae2a5f06a",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.8/bin/linux/arm64/kubectl",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "adf0007e702e05f59fb8de159463765c4440f872515bd04c24939d9c8fb5e4c7",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.8/bin/windows/amd64/kubectl.exe",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "1.29.9": [
-    {
-      "url": "https://dl.k8s.io/release/v1.29.9/bin/darwin/amd64/kubectl",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "89a8b681791ee30217935ce5e371375fe8a452b6b562452e059c9a694dc1b878",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.9/bin/darwin/arm64/kubectl",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "c50e4d42e642a449c0b5d835b311c8c8c02497027c3cb8a23a9d8e2fc32b7062",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.9/bin/linux/amd64/kubectl",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "7b0de2466458cc3c12cf8742dc800c77d4fa72e831aa522df65e510d33b329e2",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.9/bin/linux/arm64/kubectl",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "0fc73b3e4bf5395e0182ae62df24a96d5870baa44fabcc50b5eb2d8dcf22dd78",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.29.9/bin/windows/amd64/kubectl.exe",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "2d0e2c21434e34b8a1b3f5b8831f017a1d5253581f8625353ebcbdc524edbef3",
+      "sum": "4e8bd56ef027fbe2cdc3d5a0d1f3e91447806b5ecc9d023903841eac37c1dbd9",
       "sum_type": "sha256",
       "size": 0,
       "installer": "executable",
@@ -2378,6 +1637,63 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "f7391a2de0491caadedb5178ac2485cbf104189b2e0f3d6c577bd6ea1892898f",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "1.30.10": [
+    {
+      "url": "https://dl.k8s.io/release/v1.30.10/bin/darwin/amd64/kubectl",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "5d874c56a7b5ccade2d43eafcb917728b0b605e9bb0a93b01be80c9e8297b7aa",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://dl.k8s.io/release/v1.30.10/bin/darwin/arm64/kubectl",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "2bdbaaee0344b83947ca3fa7f92c47f6976e1b755483d7dbe3107d3d42981541",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://dl.k8s.io/release/v1.30.10/bin/linux/amd64/kubectl",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "bc74dbeefd4b9d53f03016f6778f3ffc9a72ef4ca7b7c80fd5dc1a41d52dcab7",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://dl.k8s.io/release/v1.30.10/bin/linux/arm64/kubectl",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "9d65d54f02b0b305d9f3f89d19a60d3e130e09f5407df99f6d48f8c10f31e2ae",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://dl.k8s.io/release/v1.30.10/bin/windows/amd64/kubectl.exe",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "cef0f508b4449c4f0fe3459c39639fd5e3ef1d2eaadb555056ca43ae25faf2c2",
       "sum_type": "sha256",
       "size": 0,
       "installer": "executable",
@@ -2732,7 +2048,7 @@
       "url": "https://dl.k8s.io/release/v1.30.8/bin/darwin/amd64/kubectl",
       "arch": "amd64",
       "os": "darwin",
-      "sum": "46682e24c3aecfbe92f53b86fb15beb740c43a0fafe0a4e06a1c8bb3ce9e985b",
+      "sum": "",
       "sum_type": "sha256",
       "size": 0,
       "installer": "executable",
@@ -3183,6 +2499,63 @@
       "extra": ""
     }
   ],
+  "1.31.6": [
+    {
+      "url": "https://dl.k8s.io/release/v1.31.6/bin/darwin/amd64/kubectl",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "3bb4ca370dba9f21d9202029b2bcba7f311ec0aa9089e63df6e697bf1905dfca",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://dl.k8s.io/release/v1.31.6/bin/darwin/arm64/kubectl",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "168a49e85c675b52c04b862a5e09ba4c887e0a252358cd774e7877af76e97f2b",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://dl.k8s.io/release/v1.31.6/bin/linux/amd64/kubectl",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "c46b2f5b0027e919299d1eca073ebf13a4c5c0528dd854fc71a5b93396c9fa9d",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://dl.k8s.io/release/v1.31.6/bin/linux/arm64/kubectl",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "fc40a8bbdba41f022aced2dec729a1b9e937ad99872b430b6c2489f1f36a61f5",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://dl.k8s.io/release/v1.31.6/bin/windows/amd64/kubectl.exe",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "24dfd31819859159b7364bdd7aa8ae322ef728512aa8e2207cd958516a397ddc",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "1.32.0": [
     {
       "url": "https://dl.k8s.io/release/v1.32.0/bin/darwin/amd64/kubectl",
@@ -3253,43 +2626,10 @@
       "extra": ""
     },
     {
-      "url": "https://dl.k8s.io/release/v1.32.1/bin/darwin/amd64/kubectl",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "8bffe90f5a034d392a0ba6fd7ee16c0d40b1dba1ccc4350821102c5d5c56d846",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://dl.k8s.io/release/v1.32.1/bin/darwin/arm64/kubectl",
       "arch": "arm64",
       "os": "darwin",
       "sum": "5b89f9598e2e7da04cc0b5dd6e8daca01d23855fd00c8ea259fd2aab993114db",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.32.1/bin/darwin/arm64/kubectl",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "5b89f9598e2e7da04cc0b5dd6e8daca01d23855fd00c8ea259fd2aab993114db",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "executable",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.k8s.io/release/v1.32.1/bin/linux/amd64/kubectl",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "e16c80f1a9f94db31063477eb9e61a2e24c1a4eee09ba776b029048f5369db0c",
       "sum_type": "sha256",
       "size": 0,
       "installer": "executable",
@@ -3319,10 +2659,89 @@
       "extra": ""
     },
     {
-      "url": "https://dl.k8s.io/release/v1.32.1/bin/linux/arm64/kubectl",
+      "url": "https://dl.k8s.io/release/v1.32.1/bin/windows/amd64/kubectl.exe",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "b6378f34dcab2d411fb7a89ba700df0f784c0b063dd02dbb92396a72c4d3104e",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "1.32.2": [
+    {
+      "url": "https://dl.k8s.io/release/v1.32.2/bin/darwin/amd64/kubectl",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "371b8fbd481e1e9052ace16d9c243e92618a2ea9a18c1aaf235d35fef20c0c32",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://dl.k8s.io/release/v1.32.2/bin/darwin/amd64/kubectl",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "371b8fbd481e1e9052ace16d9c243e92618a2ea9a18c1aaf235d35fef20c0c32",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://dl.k8s.io/release/v1.32.2/bin/darwin/arm64/kubectl",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "31b6318deaa72014b72121e1c7a2e12496d077cee49bbeda94250aec4c978ffb",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://dl.k8s.io/release/v1.32.2/bin/darwin/arm64/kubectl",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "31b6318deaa72014b72121e1c7a2e12496d077cee49bbeda94250aec4c978ffb",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://dl.k8s.io/release/v1.32.2/bin/linux/amd64/kubectl",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "4f6a959dcc5b702135f8354cc7109b542a2933c46b808b248a214c1f69f817ea",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://dl.k8s.io/release/v1.32.2/bin/linux/amd64/kubectl",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "4f6a959dcc5b702135f8354cc7109b542a2933c46b808b248a214c1f69f817ea",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://dl.k8s.io/release/v1.32.2/bin/linux/arm64/kubectl",
       "arch": "arm64",
       "os": "linux",
-      "sum": "98206fd83a4fd17f013f8c61c33d0ae8ec3a7c53ec59ef3d6a0a9400862dc5b2",
+      "sum": "7381bea99c83c264100f324c2ca6e7e13738a73b8928477ac805991440a065cd",
       "sum_type": "sha256",
       "size": 0,
       "installer": "executable",
@@ -3330,10 +2749,10 @@
       "extra": ""
     },
     {
-      "url": "https://dl.k8s.io/release/v1.32.1/bin/windows/amd64/kubectl.exe",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "b6378f34dcab2d411fb7a89ba700df0f784c0b063dd02dbb92396a72c4d3104e",
+      "url": "https://dl.k8s.io/release/v1.32.2/bin/linux/arm64/kubectl",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "7381bea99c83c264100f324c2ca6e7e13738a73b8928477ac805991440a065cd",
       "sum_type": "sha256",
       "size": 0,
       "installer": "executable",
@@ -3341,10 +2760,21 @@
       "extra": ""
     },
     {
-      "url": "https://dl.k8s.io/release/v1.32.1/bin/windows/amd64/kubectl.exe",
+      "url": "https://dl.k8s.io/release/v1.32.2/bin/windows/amd64/kubectl.exe",
       "arch": "amd64",
       "os": "windows",
-      "sum": "b6378f34dcab2d411fb7a89ba700df0f784c0b063dd02dbb92396a72c4d3104e",
+      "sum": "cf51a1c6bf3b6ba6a5b549d1debf8aa6afb00c4c5a3d5d4bb1072f54cbe4390f",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "executable",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://dl.k8s.io/release/v1.32.2/bin/windows/amd64/kubectl.exe",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "cf51a1c6bf3b6ba6a5b549d1debf8aa6afb00c4c5a3d5d4bb1072f54cbe4390f",
       "sum_type": "sha256",
       "size": 0,
       "installer": "executable",
