@@ -2812,6 +2812,19 @@
       "extra": ""
     }
   ],
+  "2.1.20-RC2": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.20-RC2/kotlin-compiler-2.1.20-RC2.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 86918410,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "native-1.5.30": [
     {
       "url": "https://github.com/JetBrains/kotlin/releases/download/v1.5.30/kotlin-native-linux-x86_64-1.5.30.tar.gz",
@@ -6533,6 +6546,52 @@
       "sum": "",
       "sum_type": "",
       "size": 280925766,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "native-2.1.20-RC2": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.20-RC2/kotlin-native-prebuilt-linux-x86_64-2.1.20-RC2.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 276748242,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.20-RC2/kotlin-native-prebuilt-macos-aarch64-2.1.20-RC2.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 322080356,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.20-RC2/kotlin-native-prebuilt-macos-x86_64-2.1.20-RC2.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 323024899,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.1.20-RC2/kotlin-native-prebuilt-windows-x86_64-2.1.20-RC2.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 281017369,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
