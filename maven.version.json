@@ -4,7 +4,7 @@
       "url": "https://archive.apache.org/dist/maven/maven-3/3.0.4/binaries/apache-maven-3.0.4-bin.tar.gz",
       "arch": "any",
       "os": "any",
-      "sum": "0de5dc162bafde3fcb0a6b009cfeea81a042523b",
+      "sum": "",
       "sum_type": "sha1",
       "size": 0,
       "installer": "unarchiver",
@@ -43,7 +43,7 @@
       "url": "https://archive.apache.org/dist/maven/maven-3/3.1.0-alpha-1/binaries/apache-maven-3.1.0-alpha-1-bin.tar.gz",
       "arch": "any",
       "os": "any",
-      "sum": "f7864a780335bf3c3a609929ef15e574d1411f68",
+      "sum": "",
       "sum_type": "sha1",
       "size": 0,
       "installer": "unarchiver",
@@ -166,6 +166,19 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": "3.5.0/"
+    }
+  ],
+  "3.5.0-alpha-1": [
+    {
+      "url": "https://archive.apache.org/dist/maven/maven-3/3.5.0-alpha-1/binaries/apache-maven-3.5.0-alpha-1-bin.tar.gz",
+      "arch": "any",
+      "os": "any",
+      "sum": "a677b8398313325d6c266279cb8d385bbc9d435d",
+      "sum_type": "sha1",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "3.5.0-alpha-1/"
     }
   ],
   "3.5.0-beta-1": [
@@ -348,19 +361,6 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": "3.8.6/"
-    }
-  ],
-  "3.8.7": [
-    {
-      "url": "https://archive.apache.org/dist/maven/maven-3/3.8.7/binaries/apache-maven-3.8.7-bin.tar.gz",
-      "arch": "any",
-      "os": "any",
-      "sum": "",
-      "sum_type": "sha1",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "3.8.7/"
     }
   ],
   "3.8.8": [
@@ -680,7 +680,7 @@
       "url": "https://archive.apache.org/dist/maven/maven-4/4.0.0-rc-1/binaries/apache-maven-4.0.0-rc-1-bin.tar.gz",
       "arch": "any",
       "os": "any",
-      "sum": "5aa8b80e4e6f603148ac13ef0f1e0f1890f2fc2962ea293828499be1ce6315ad4758de940c209a60962e9b3e550fda8c3adc794d43ecdc0110c1b000d8e00a5e",
+      "sum": "",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
