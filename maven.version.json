@@ -30,7 +30,7 @@
       "url": "https://archive.apache.org/dist/maven/maven-3/3.1.0/binaries/apache-maven-3.1.0-bin.tar.gz",
       "arch": "any",
       "os": "any",
-      "sum": "af0867027f0907631c1f85ecf668f74c08f5d5e9\n",
+      "sum": "",
       "sum_type": "sha1",
       "size": 0,
       "installer": "unarchiver",
@@ -121,7 +121,7 @@
       "url": "https://archive.apache.org/dist/maven/maven-3/3.3.1/binaries/apache-maven-3.3.1-bin.tar.gz",
       "arch": "any",
       "os": "any",
-      "sum": "a98e56056d17b415a3b13d113199bf5f8121489b",
+      "sum": "",
       "sum_type": "sha1",
       "size": 0,
       "installer": "unarchiver",
@@ -140,6 +140,19 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": "3.3.3/"
+    }
+  ],
+  "3.3.9": [
+    {
+      "url": "https://archive.apache.org/dist/maven/maven-3/3.3.9/binaries/apache-maven-3.3.9-bin.tar.gz",
+      "arch": "any",
+      "os": "any",
+      "sum": "5b4c117854921b527ab6190615f9435da730ba05",
+      "sum_type": "sha1",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "3.3.9/"
     }
   ],
   "3.5.0": [
@@ -173,7 +186,7 @@
       "url": "https://archive.apache.org/dist/maven/maven-3/3.5.0-beta-1/binaries/apache-maven-3.5.0-beta-1-bin.tar.gz",
       "arch": "any",
       "os": "any",
-      "sum": "",
+      "sum": "742788c3e7325ffd1f333fd6c9d4c8c640d0f10a",
       "sum_type": "sha1",
       "size": 0,
       "installer": "unarchiver",
@@ -296,6 +309,19 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": "3.8.2/"
+    }
+  ],
+  "3.8.3": [
+    {
+      "url": "https://archive.apache.org/dist/maven/maven-3/3.8.3/binaries/apache-maven-3.8.3-bin.tar.gz",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "sha1",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "3.8.3/"
     }
   ],
   "3.8.4": [
@@ -465,19 +491,6 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": "3.9.7/"
-    }
-  ],
-  "3.9.8": [
-    {
-      "url": "https://archive.apache.org/dist/maven/maven-3/3.9.8/binaries/apache-maven-3.9.8-bin.tar.gz",
-      "arch": "any",
-      "os": "any",
-      "sum": "",
-      "sum_type": "sha1",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "3.9.8/"
     }
   ],
   "3.9.9": [
