@@ -1383,12 +1383,12 @@
   ],
   "0.10.3": [
     {
-      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.10.3/lazygit_0.10.3_Windows_x86_64.zip",
+      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.10.3/lazygit_0.10.3_Darwin_x86_64.tar.gz",
       "arch": "amd64",
-      "os": "windows",
+      "os": "darwin",
       "sum": "",
       "sum_type": "",
-      "size": 7126175,
+      "size": 7409933,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
@@ -1416,12 +1416,12 @@
       "extra": ""
     },
     {
-      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.10.3/lazygit_0.10.3_Darwin_x86_64.tar.gz",
+      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.10.3/lazygit_0.10.3_Windows_x86_64.zip",
       "arch": "amd64",
-      "os": "darwin",
+      "os": "windows",
       "sum": "",
       "sum_type": "",
-      "size": 7409933,
+      "size": 7126175,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
@@ -6003,6 +6003,74 @@
       "sum": "",
       "sum_type": "",
       "size": 7116930,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "0.49.0": [
+    {
+      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.49.0/lazygit_0.49.0_Windows_arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 7215546,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.49.0/lazygit_0.49.0_Windows_x86_64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 7983381,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.49.0/lazygit_0.49.0_Darwin_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 7933923,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.49.0/lazygit_0.49.0_Darwin_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 7462315,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.49.0/lazygit_0.49.0_Linux_arm64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 7158441,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/jesseduffield/lazygit/releases/download/v0.49.0/lazygit_0.49.0_Linux_x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 7789226,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
