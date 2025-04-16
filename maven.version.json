@@ -108,7 +108,7 @@
       "url": "https://archive.apache.org/dist/maven/maven-3/3.2.5/binaries/apache-maven-3.2.5-bin.tar.gz",
       "arch": "any",
       "os": "any",
-      "sum": "41009327d5494e0e8970b25b77ffed8934cd7ca1",
+      "sum": "",
       "sum_type": "sha1",
       "size": 0,
       "installer": "unarchiver",
@@ -597,17 +597,17 @@
       "extra": "4.0.0-alpha-4/"
     }
   ],
-  "4.0.0-alpha-7": [
+  "4.0.0-alpha-5": [
     {
-      "url": "https://archive.apache.org/dist/maven/maven-4/4.0.0-alpha-7/binaries/apache-maven-4.0.0-alpha-7-bin.tar.gz",
+      "url": "https://archive.apache.org/dist/maven/maven-4/4.0.0-alpha-5/binaries/apache-maven-4.0.0-alpha-5-bin.tar.gz",
       "arch": "any",
       "os": "any",
-      "sum": "9959e537712167094a7909006168404c16b0788862311ef65840f57777b8d3afc519e63262b064db7361bc6ef77940bed14ead5e0a59d135bcdeea83be4d9893",
+      "sum": "b5ceab2d66ba1a428675f8db6ee96c723a3cc109cc14a2d708e57508090ba243868eca07f33c82ca3cf339eea0dbde8ef2e307b8b41ec7d5f5fc794d96849f0a",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
       "lts": "",
-      "extra": "4.0.0-alpha-7/"
+      "extra": "4.0.0-alpha-5/"
     }
   ],
   "4.0.0-alpha-8": [
@@ -673,6 +673,19 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": "4.0.0-beta-5/"
+    }
+  ],
+  "4.0.0-rc-1": [
+    {
+      "url": "https://archive.apache.org/dist/maven/maven-4/4.0.0-rc-1/binaries/apache-maven-4.0.0-rc-1-bin.tar.gz",
+      "arch": "any",
+      "os": "any",
+      "sum": "5aa8b80e4e6f603148ac13ef0f1e0f1890f2fc2962ea293828499be1ce6315ad4758de940c209a60962e9b3e550fda8c3adc794d43ecdc0110c1b000d8e00a5e",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "4.0.0-rc-1/"
     }
   ],
   "4.0.0-rc-2": [
