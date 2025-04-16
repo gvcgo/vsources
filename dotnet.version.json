@@ -45,17 +45,6 @@
       "extra": ""
     },
     {
-      "url": "https://download.visualstudio.microsoft.com/download/pr/fafaef8c-2fef-45d9-bc1d-df26963df6ba/94fee230c7e4fc7459fcd019ea1a7675/dotnet-sdk-10.0.100-preview.1.25120.13-win-x64.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "f574e68dbb4214679a123f2527fe0478c7a7d2ca6900c81e2cfec03984421a894d8e1304a5683f077185b71b4491ed12d449636620f96b640156aa251f4a6a53",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://download.visualstudio.microsoft.com/download/pr/f1b89b1d-3a64-411a-b404-928858fb2e11/0e8557a1eb130e436c8c549e736d3f5e/dotnet-sdk-10.0.100-preview.1.25120.13-win-arm64.zip",
       "arch": "arm64",
       "os": "windows",
@@ -1791,28 +1780,6 @@
       "extra": ""
     },
     {
-      "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.115/dotnet-sdk-8.0.115-osx-arm64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "2a12f510a771676863b423da9d283d619fe103e2b4c372b758d956320be6cedb8a4029bb5a46c8ccda4ad0a1ec24be22428e92de4a537209f2b2c354dd48b24e",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.115/dotnet-sdk-8.0.115-osx-x64.tar.gz",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "d748da7b91d574111ddb487865a2cf3659e1f75113ee9cd8676bc3e402956c145fa551955f6f4f9517b2caae98f4c6985424acffe5a80a2bf62504cd6cf54383",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.115/dotnet-sdk-8.0.115-win-x64.zip",
       "arch": "amd64",
       "os": "windows",
@@ -1972,6 +1939,17 @@
     }
   ],
   "8.0.202": [
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/d0a8cedc-978a-408c-a9d2-07d22b45b5dd/1b985478744a545465c0af18cff40a92/dotnet-sdk-8.0.202-linux-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "83ba9a467487de49bb38d388010c3f0d51336e6167cf3e116e56cd18b0ffd3d52099f8567bc434ce02430beef38dee20ff1e4ceb71a6d7967fc0e1c2da12ebae",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
     {
       "url": "https://download.visualstudio.microsoft.com/download/pr/14e4bb95-1b59-441e-87b9-58e9feb93426/b61087ddece464f4dc1a3d4e0f31aab3/dotnet-sdk-8.0.202-linux-x64.tar.gz",
       "arch": "amd64",
@@ -2135,6 +2113,17 @@
       "arch": "amd64",
       "os": "darwin",
       "sum": "a49c3dc8f364dcf2f88353b80267062b557ef4afff333fa4494e84d01234d38c57619aaf7a3e2cacfb16d066ab1523b6e5953cf864e5e8f411dd38855408bb5d",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://download.visualstudio.microsoft.com/download/pr/bf435b42-3f28-45db-a666-6e95c4faefe7/23e0b703124347b51f53faf64c829287/dotnet-sdk-8.0.204-win-x64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "17ee61b1addbf9d66455f95f1dc0988c34047928c072d02005eed283db8e64fc6a4e9f04ff1474e152af866c62fd8d51093abe587a6e2d177556d513a6bf4ce3",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -4263,6 +4252,17 @@
   ],
   "9.0.100-rc.2": [
     {
+      "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.100-rc.2.24474.11/dotnet-sdk-9.0.100-rc.2.24474.11-linux-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "b532dcbcb47c4fd2c906018d2ec663de1719179f7c9da8f62a3f21a62e34cd2609fb7ceec89f5aedb2a35247f67f543a02c684e1692053bff2fdc4184df63f53",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
       "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.100-rc.2.24474.11/dotnet-sdk-9.0.100-rc.2.24474.11-linux-x64.tar.gz",
       "arch": "amd64",
       "os": "linux",
@@ -4300,17 +4300,6 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "9abd147e58ec166ec1fb0ac0d7499dbafc82af8bc814ca83710f4d3d2e37194c841a603f66f278f05dd4efa27aeb6515e6357e8e7d074407cc5de8944d52e7c3",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.100-rc.2.24474.11/dotnet-sdk-9.0.100-rc.2.24474.11-win-arm64.zip",
-      "arch": "arm64",
-      "os": "windows",
-      "sum": "5bc7758d0be1a23e761dc532ef0498abc3d3c3c8378fc06c4cde151ae692e7dc7f059829843dcf5fef52d16a5619a599b426e056128261a5b022837cdcada35b",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
