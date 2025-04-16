@@ -51,19 +51,6 @@
       "extra": ""
     }
   ],
-  "2.4.14": [
-    {
-      "url": "https://archive.apache.org/dist/groovy/2.4.14/distribution/apache-groovy-sdk-2.4.14.zip",
-      "arch": "any",
-      "os": "any",
-      "sum": "2f493bbc3a1b2d02528b7573478007ff98e03824df1843e7e3d9f3a15c315eec",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "",
-      "lts": "",
-      "extra": ""
-    }
-  ],
   "2.4.15": [
     {
       "url": "https://archive.apache.org/dist/groovy/2.4.15/distribution/apache-groovy-sdk-2.4.15.zip",
@@ -181,12 +168,12 @@
       "extra": ""
     }
   ],
-  "2.5.0-alpha-1": [
+  "2.5.0": [
     {
-      "url": "https://archive.apache.org/dist/groovy/2.5.0-alpha-1/distribution/apache-groovy-sdk-2.5.0-alpha-1.zip",
+      "url": "https://archive.apache.org/dist/groovy/2.5.0/distribution/apache-groovy-sdk-2.5.0.zip",
       "arch": "any",
       "os": "any",
-      "sum": "b0a6323a989a78535ec6452d94d21c52658206b67bd4a8be19cb7c0933ea3e5b",
+      "sum": "866e9c7217f1fce76f202f8e64cdb3f910910e4ad8533724246a0b1310b3d5aa",
       "sum_type": "sha256",
       "size": 0,
       "installer": "",
@@ -213,32 +200,6 @@
       "arch": "any",
       "os": "any",
       "sum": "74315b45203822e8f9a154cfdcadeb1652332c80bc5fdff96fb7bbe6bcd4ba91",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "2.5.0-beta-3": [
-    {
-      "url": "https://archive.apache.org/dist/groovy/2.5.0-beta-3/distribution/apache-groovy-sdk-2.5.0-beta-3.zip",
-      "arch": "any",
-      "os": "any",
-      "sum": "df6df701db9cad229f63ec3c156cbd528ee0f3c7690314e238ae9867042bdcb2",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "2.5.0-rc-1": [
-    {
-      "url": "https://archive.apache.org/dist/groovy/2.5.0-rc-1/distribution/apache-groovy-sdk-2.5.0-rc-1.zip",
-      "arch": "any",
-      "os": "any",
-      "sum": "6a43286523da0de372ae93b49170f3927c1d76e3e26297a6bb6a75b8e6767d81",
       "sum_type": "sha256",
       "size": 0,
       "installer": "",
@@ -343,19 +304,6 @@
       "arch": "any",
       "os": "any",
       "sum": "0cd000f4e0e94e87cb81eab6dc9d1a904b9898cfa9519f7d8cd8f3ec4d5fe06f",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "2.5.15": [
-    {
-      "url": "https://archive.apache.org/dist/groovy/2.5.15/distribution/apache-groovy-sdk-2.5.15.zip",
-      "arch": "any",
-      "os": "any",
-      "sum": "7078159816d769567b9edb33ba4f81a11524d2ce58708840ae57d557c2eb7cd2",
       "sum_type": "sha256",
       "size": 0,
       "installer": "",
@@ -779,6 +727,19 @@
       "extra": ""
     }
   ],
+  "3.0.10": [
+    {
+      "url": "https://archive.apache.org/dist/groovy/3.0.10/distribution/apache-groovy-sdk-3.0.10.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "54cfb291aae01f885c70696a35fb7a1216646e024854ed8880d3aa17c9f725a5",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "3.0.11": [
     {
       "url": "https://archive.apache.org/dist/groovy/3.0.11/distribution/apache-groovy-sdk-3.0.11.zip",
@@ -902,19 +863,6 @@
       "arch": "any",
       "os": "any",
       "sum": "eff67194e868d822998460a322689bad82ca1154d6e2bc8f7c8b9ed6cc6a8709",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "3.0.20": [
-    {
-      "url": "https://archive.apache.org/dist/groovy/3.0.20/distribution/apache-groovy-sdk-3.0.20.zip",
-      "arch": "any",
-      "os": "any",
-      "sum": "3f32c547e55ddd349ebe825f0be4da8b93276b65377743bc3a9a1d7a3e216e5e",
       "sum_type": "sha256",
       "size": 0,
       "installer": "",
@@ -1071,19 +1019,6 @@
       "arch": "any",
       "os": "any",
       "sum": "3dd2782573a422a9a399ea4ab3ae4c9ee64d16bf3e1553aa4bc7b4c50a2b5186",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "",
-      "lts": "",
-      "extra": ""
-    }
-  ],
-  "4.0.0-alpha-1": [
-    {
-      "url": "https://archive.apache.org/dist/groovy/4.0.0-alpha-1/distribution/apache-groovy-sdk-4.0.0-alpha-1.zip",
-      "arch": "any",
-      "os": "any",
-      "sum": "c702d13b53f98500a88ebacc1a3c2e60c34cde411afb551dffe636cf9893e027",
       "sum_type": "sha256",
       "size": 0,
       "installer": "",
@@ -1507,19 +1442,6 @@
       "extra": ""
     }
   ],
-  "5.0.0-alpha-1": [
-    {
-      "url": "https://archive.apache.org/dist/groovy/5.0.0-alpha-1/distribution/apache-groovy-sdk-5.0.0-alpha-1.zip",
-      "arch": "any",
-      "os": "any",
-      "sum": "9921ecdb6e987e1d22a4cc4a94f8f6a1a959bd2ca04a4b59037910692e1c7598",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "",
-      "lts": "",
-      "extra": ""
-    }
-  ],
   "5.0.0-alpha-10": [
     {
       "url": "https://archive.apache.org/dist/groovy/5.0.0-alpha-10/distribution/apache-groovy-sdk-5.0.0-alpha-10.zip",
@@ -1533,12 +1455,12 @@
       "extra": ""
     }
   ],
-  "5.0.0-alpha-11": [
+  "5.0.0-alpha-12": [
     {
-      "url": "https://archive.apache.org/dist/groovy/5.0.0-alpha-11/distribution/apache-groovy-sdk-5.0.0-alpha-11.zip",
+      "url": "https://archive.apache.org/dist/groovy/5.0.0-alpha-12/distribution/apache-groovy-sdk-5.0.0-alpha-12.zip",
       "arch": "any",
       "os": "any",
-      "sum": "20fb35813fd0d2dd665547a2bb0ea9031900428daa6bddfada75946649d28866",
+      "sum": "a9f62ee172e60cb4fdad4a34645bc47d8171714111232e4fc530d9557e024721",
       "sum_type": "sha256",
       "size": 0,
       "installer": "",
@@ -1546,12 +1468,12 @@
       "extra": ""
     }
   ],
-  "5.0.0-alpha-12": [
+  "5.0.0-alpha-2": [
     {
-      "url": "https://archive.apache.org/dist/groovy/5.0.0-alpha-12/distribution/apache-groovy-sdk-5.0.0-alpha-12.zip",
+      "url": "https://archive.apache.org/dist/groovy/5.0.0-alpha-2/distribution/apache-groovy-sdk-5.0.0-alpha-2.zip",
       "arch": "any",
       "os": "any",
-      "sum": "a9f62ee172e60cb4fdad4a34645bc47d8171714111232e4fc530d9557e024721",
+      "sum": "45fc3180c503f376e4e97a202a7935c0c801ae94b92cef0b85a02596be4e096e",
       "sum_type": "sha256",
       "size": 0,
       "installer": "",
