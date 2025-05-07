@@ -1100,17 +1100,6 @@
       "extra": ""
     },
     {
-      "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.104/dotnet-sdk-8.0.104-linux-x64.tar.gz",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "cb7b5e509c16a7e27ccfc03b3a217460b9eac151ca973f262f82d4b4a494f7bdff3229e9aee91df1c110582ee8dd3d310dad39528c3bd292c5d9b7746ba3b6fd",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.104/dotnet-sdk-8.0.104-osx-arm64.tar.gz",
       "arch": "arm64",
       "os": "darwin",
@@ -1387,6 +1376,17 @@
       "arch": "arm64",
       "os": "darwin",
       "sum": "83b01276474b4b62bf0a282fbe11d2353a2191d90becd403b373cd6dfc95264442a907117ad8f615765b13969267b887d26a9f24dbd5f88d8b55daa94412d13c",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.108/dotnet-sdk-8.0.108-osx-x64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "a80fee279abfeb558a5540ca2a969a11bb3dbeade8c39d8c47be8a2d622ef1c2bedb22c874598ad41dbff2b95d5a43197bd9f55fc933ab4ede5edcb6a76cf6cb",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
@@ -1806,6 +1806,17 @@
       "arch": "amd64",
       "os": "windows",
       "sum": "3b0b57a031fd1cf42fc558ad8371045d8abcc9f6ae2406d81e5df0fdfa1b24821328b6dfe790014d36b5b3503f9bb8a36c5b41168b33b58c55946c5334651aac",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.115/dotnet-sdk-8.0.115-win-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "0e5841fa4b8aaba72e0340b993f0027970aa80513abdcb094dd288053d0719b40cc8830f48291ea200b5effe0ba7e268cccb28397b0936d38368947f35456051",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
