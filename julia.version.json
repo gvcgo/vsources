@@ -3188,6 +3188,74 @@
       "extra": ""
     }
   ],
+  "1.12.0-beta3": [
+    {
+      "url": "https://julialang-s3.julialang.org/bin/linux/x64/1.12/julia-1.12.0-beta3-linux-x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "ccae00efb7e8797b33c82d3064c8b20da015cbe001848a95149a7a5bdf3b27a5",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/linux/aarch64/1.12/julia-1.12.0-beta3-linux-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "80ac186be3a581973e8d0a571f7f95b2527728bce2173383fcba628d796cad3c",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/musl/x64/1.12/julia-1.12.0-beta3-musl-x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "4db9ef34463798fdeaff91c7cf4b8880b3bd135e2e809aae934bab6f2cba8d33",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/mac/x64/1.12/julia-1.12.0-beta3-mac64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "be63119073e862b09c8b7f7455d5690c3979574bf5d38f8598e0598756fb869b",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/mac/aarch64/1.12/julia-1.12.0-beta3-macaarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "4dfd98526088f8739cc13b568a6cabb120f69128c1a1144d55fc6aa9ac3c86f3",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.12/julia-1.12.0-beta3-win64.tar.gz",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "8d737f0049c45ed6d565602fa3fdf3c2ba503aa037c8e6a93a23c6fd1e0e4d8d",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "1.2.0": [
     {
       "url": "https://julialang-s3.julialang.org/bin/linux/x64/1.2/julia-1.2.0-linux-x86_64.tar.gz",
