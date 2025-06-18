@@ -387,45 +387,23 @@
   ],
   "11.0.14.1_1": [
     {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.14.1+1/bellsoft-jdk11.0.14.1+1-linux-aarch64-full.tar.gz",
-      "arch": "arm64",
-      "os": "linux",
-      "sum": "d148ac2f7d903e9bac90548ee91b36a8ed4457ed",
-      "sum_type": "sha1",
-      "size": 294172276,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": "11.0.14.1+1"
-    },
-    {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.14.1+1/bellsoft-jdk11.0.14.1+1-linux-amd64-full.tar.gz",
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.14.1+1/bellsoft-jdk11.0.14.1+1-windows-amd64-full.zip",
       "arch": "amd64",
-      "os": "linux",
-      "sum": "50abc27e7b2045d92b45280f530e868d9561b0f3",
+      "os": "windows",
+      "sum": "01cd419627c69cbbbf132953f99f857591a4830c",
       "sum_type": "sha1",
-      "size": 309254181,
+      "size": 276694644,
       "installer": "unarchiver",
       "lts": "1",
       "extra": "11.0.14.1+1"
     },
     {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.14.1+1/bellsoft-jdk11.0.14.1+1-macos-aarch64-full.tar.gz",
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.14.1+1/bellsoft-jdk11.0.14.1+1-windows-aarch64-full.zip",
       "arch": "arm64",
-      "os": "darwin",
-      "sum": "bb853b419eef79424e1d0b8e64beea25f21cba86",
+      "os": "windows",
+      "sum": "fd5d8de5cd0ee35ddffab9a4b7c65914bc97b9a8",
       "sum_type": "sha1",
-      "size": 259664561,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": "11.0.14.1+1"
-    },
-    {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.14.1+1/bellsoft-jdk11.0.14.1+1-macos-aarch64-full.zip",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "ebc4f1cc8f5b4506f4271bcf38cafb0a45877438",
-      "sum_type": "sha1",
-      "size": 264541578,
+      "size": 217430216,
       "installer": "unarchiver",
       "lts": "1",
       "extra": "11.0.14.1+1"
@@ -453,23 +431,45 @@
       "extra": "11.0.14.1+1"
     },
     {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.14.1+1/bellsoft-jdk11.0.14.1+1-windows-aarch64-full.zip",
-      "arch": "arm64",
-      "os": "windows",
-      "sum": "fd5d8de5cd0ee35ddffab9a4b7c65914bc97b9a8",
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.14.1+1/bellsoft-jdk11.0.14.1+1-linux-amd64-full.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "50abc27e7b2045d92b45280f530e868d9561b0f3",
       "sum_type": "sha1",
-      "size": 217430216,
+      "size": 309254181,
       "installer": "unarchiver",
       "lts": "1",
       "extra": "11.0.14.1+1"
     },
     {
-      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.14.1+1/bellsoft-jdk11.0.14.1+1-windows-amd64-full.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "01cd419627c69cbbbf132953f99f857591a4830c",
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.14.1+1/bellsoft-jdk11.0.14.1+1-linux-aarch64-full.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "d148ac2f7d903e9bac90548ee91b36a8ed4457ed",
       "sum_type": "sha1",
-      "size": 276694644,
+      "size": 294172276,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "11.0.14.1+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.14.1+1/bellsoft-jdk11.0.14.1+1-macos-aarch64-full.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "bb853b419eef79424e1d0b8e64beea25f21cba86",
+      "sum_type": "sha1",
+      "size": 259664561,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "11.0.14.1+1"
+    },
+    {
+      "url": "https://github.com/bell-sw/Liberica/releases/download/11.0.14.1+1/bellsoft-jdk11.0.14.1+1-macos-aarch64-full.zip",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "ebc4f1cc8f5b4506f4271bcf38cafb0a45877438",
+      "sum_type": "sha1",
+      "size": 264541578,
       "installer": "unarchiver",
       "lts": "1",
       "extra": "11.0.14.1+1"
@@ -9042,17 +9042,6 @@
       "extra": "22.2.0+3"
     },
     {
-      "url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk11.0.16.1+1-22.2.0+3-macos-amd64.tar.gz",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "f1a1d273165e6299d200cc2a2dece9f3d4f6c277",
-      "sum_type": "sha1",
-      "size": 274203955,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "22.2.0+3"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk11.0.16.1+1-22.2.0+3-macos-amd64.zip",
       "arch": "amd64",
       "os": "darwin",
@@ -9064,12 +9053,12 @@
       "extra": "22.2.0+3"
     },
     {
-      "url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk11.0.16.1+1-22.2.0+3-macos-aarch64.tar.gz",
-      "arch": "arm64",
+      "url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk11.0.16.1+1-22.2.0+3-macos-amd64.tar.gz",
+      "arch": "amd64",
       "os": "darwin",
-      "sum": "a4afdc830f4224405763fc39a93f05e813147e19",
+      "sum": "f1a1d273165e6299d200cc2a2dece9f3d4f6c277",
       "sum_type": "sha1",
-      "size": 269755309,
+      "size": 274203955,
       "installer": "unarchiver",
       "lts": "",
       "extra": "22.2.0+3"
@@ -9081,6 +9070,17 @@
       "sum": "81467b1b9035adfa747c5a2d33ba2f509fa2c216",
       "sum_type": "sha1",
       "size": 274645896,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "22.2.0+3"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk11.0.16.1+1-22.2.0+3-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "a4afdc830f4224405763fc39a93f05e813147e19",
+      "sum_type": "sha1",
+      "size": 269755309,
       "installer": "unarchiver",
       "lts": "",
       "extra": "22.2.0+3"
@@ -9134,23 +9134,23 @@
       "extra": "22.2.0+2"
     },
     {
-      "url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk11.0.16+8-22.2.0+2-macos-aarch64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "aee32dc1262dce6667759715a6c0a1728078436e",
-      "sum_type": "sha1",
-      "size": 269751132,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "22.2.0+2"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk11.0.16+8-22.2.0+2-macos-aarch64.zip",
       "arch": "arm64",
       "os": "darwin",
       "sum": "44ffd12f2a1dddeaa2c659b5f605f50b6ca5ca4c",
       "sum_type": "sha1",
       "size": 274648221,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "22.2.0+2"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk11.0.16+8-22.2.0+2-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "aee32dc1262dce6667759715a6c0a1728078436e",
+      "sum_type": "sha1",
+      "size": 269751132,
       "installer": "unarchiver",
       "lts": "",
       "extra": "22.2.0+2"
@@ -9204,23 +9204,23 @@
   ],
   "nik-11.0.17.7-22.3.0.2": [
     {
-      "url": "https://download.bell-sw.com/vm/22.3.0/bellsoft-liberica-vm-full-openjdk11.0.17+7-22.3.0+2-macos-amd64.tar.gz",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "a77b758c27bdc2b838a5a97bbe2d2d81e3393397",
-      "sum_type": "sha1",
-      "size": 275797820,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "22.3.0+2"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/22.3.0/bellsoft-liberica-vm-full-openjdk11.0.17+7-22.3.0+2-macos-amd64.zip",
       "arch": "amd64",
       "os": "darwin",
       "sum": "8db92c89814b6fb4e1b74a4394bc093d7f15fbf6",
       "sum_type": "sha1",
       "size": 280820381,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "22.3.0+2"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/22.3.0/bellsoft-liberica-vm-full-openjdk11.0.17+7-22.3.0+2-macos-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "a77b758c27bdc2b838a5a97bbe2d2d81e3393397",
+      "sum_type": "sha1",
+      "size": 275797820,
       "installer": "unarchiver",
       "lts": "",
       "extra": "22.3.0+2"
@@ -9316,23 +9316,23 @@
       "extra": "22.3.1+1"
     },
     {
-      "url": "https://download.bell-sw.com/vm/22.3.1/bellsoft-liberica-vm-full-openjdk11.0.18+10-22.3.1+1-macos-aarch64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "a30e2ebd8c21f3813839df313443b2a5e66d4769",
-      "sum_type": "sha1",
-      "size": 271635535,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "22.3.1+1"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/22.3.1/bellsoft-liberica-vm-full-openjdk11.0.18+10-22.3.1+1-macos-aarch64.zip",
       "arch": "arm64",
       "os": "darwin",
       "sum": "425c30c1fafc5cd2ba969e1275b040c0658d979b",
       "sum_type": "sha1",
       "size": 276618661,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "22.3.1+1"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/22.3.1/bellsoft-liberica-vm-full-openjdk11.0.18+10-22.3.1+1-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "a30e2ebd8c21f3813839df313443b2a5e66d4769",
+      "sum_type": "sha1",
+      "size": 271635535,
       "installer": "unarchiver",
       "lts": "",
       "extra": "22.3.1+1"
@@ -9362,23 +9362,23 @@
       "extra": "22.3.2+1"
     },
     {
-      "url": "https://download.bell-sw.com/vm/22.3.2/bellsoft-liberica-vm-full-openjdk11.0.19+7-22.3.2+1-macos-aarch64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "30dd9e7dc8ae02afcf86e63d20f1fe9aa87ed7d9",
-      "sum_type": "sha1",
-      "size": 271722209,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "22.3.2+1"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/22.3.2/bellsoft-liberica-vm-full-openjdk11.0.19+7-22.3.2+1-macos-aarch64.zip",
       "arch": "arm64",
       "os": "darwin",
       "sum": "0a7752e5dd0ea5c4ba95a914c12b5a3efbc93a20",
       "sum_type": "sha1",
       "size": 276705865,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "22.3.2+1"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/22.3.2/bellsoft-liberica-vm-full-openjdk11.0.19+7-22.3.2+1-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "30dd9e7dc8ae02afcf86e63d20f1fe9aa87ed7d9",
+      "sum_type": "sha1",
+      "size": 271722209,
       "installer": "unarchiver",
       "lts": "",
       "extra": "22.3.2+1"
@@ -9588,23 +9588,23 @@
       "extra": "22.3.4+1"
     },
     {
-      "url": "https://download.bell-sw.com/vm/22.3.4/bellsoft-liberica-vm-full-openjdk11.0.21+9-22.3.4+1-macos-aarch64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "3a707097624cbbfdd5f3ff0d187047d7acadb04c",
-      "sum_type": "sha1",
-      "size": 272326641,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "22.3.4+1"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/22.3.4/bellsoft-liberica-vm-full-openjdk11.0.21+9-22.3.4+1-macos-aarch64.zip",
       "arch": "arm64",
       "os": "darwin",
       "sum": "e8eca134d919ee582ba1fb4d2afb800f3a36e448",
       "sum_type": "sha1",
       "size": 277302806,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "22.3.4+1"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/22.3.4/bellsoft-liberica-vm-full-openjdk11.0.21+9-22.3.4+1-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "3a707097624cbbfdd5f3ff0d187047d7acadb04c",
+      "sum_type": "sha1",
+      "size": 272326641,
       "installer": "unarchiver",
       "lts": "",
       "extra": "22.3.4+1"
@@ -10204,23 +10204,23 @@
   ],
   "nik-17.0.2.9-22.0.0.2": [
     {
-      "url": "https://download.bell-sw.com/vm/22.0.0.2/bellsoft-liberica-vm-full-openjdk17-22.0.0.2-macos-amd64.tar.gz",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "fc2bcd522c8199c220471bf3cfffa5a1f13e346f",
-      "sum_type": "sha1",
-      "size": 271684114,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "22.0.0.2"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/22.0.0.2/bellsoft-liberica-vm-full-openjdk17-22.0.0.2-macos-amd64.zip",
       "arch": "amd64",
       "os": "darwin",
       "sum": "5a8648fb9198844f2ecfbaa6e3e9c873ff269de3",
       "sum_type": "sha1",
       "size": 276612969,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "22.0.0.2"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/22.0.0.2/bellsoft-liberica-vm-full-openjdk17-22.0.0.2-macos-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "fc2bcd522c8199c220471bf3cfffa5a1f13e346f",
+      "sum_type": "sha1",
+      "size": 271684114,
       "installer": "unarchiver",
       "lts": "",
       "extra": "22.0.0.2"
@@ -10414,17 +10414,6 @@
   ],
   "nik-17.0.4.1.1-22.2.0.3": [
     {
-      "url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk17.0.4.1+1-22.2.0+3-macos-amd64.tar.gz",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "4024aca7a6495723d9f62de4f8e0c95e27ebe86a",
-      "sum_type": "sha1",
-      "size": 278084053,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "22.2.0+3"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk17.0.4.1+1-22.2.0+3-macos-amd64.zip",
       "arch": "amd64",
       "os": "darwin",
@@ -10436,12 +10425,12 @@
       "extra": "22.2.0+3"
     },
     {
-      "url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk17.0.4.1+1-22.2.0+3-macos-aarch64.tar.gz",
-      "arch": "arm64",
+      "url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk17.0.4.1+1-22.2.0+3-macos-amd64.tar.gz",
+      "arch": "amd64",
       "os": "darwin",
-      "sum": "a70f53dcb3de9df98240b8268bf50819861a4d6c",
+      "sum": "4024aca7a6495723d9f62de4f8e0c95e27ebe86a",
       "sum_type": "sha1",
-      "size": 276210946,
+      "size": 278084053,
       "installer": "unarchiver",
       "lts": "",
       "extra": "22.2.0+3"
@@ -10453,6 +10442,17 @@
       "sum": "06dd79821aa2a34bfb072bb725f8e17380e9bb0c",
       "sum_type": "sha1",
       "size": 280956999,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "22.2.0+3"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk17.0.4.1+1-22.2.0+3-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "a70f53dcb3de9df98240b8268bf50819861a4d6c",
+      "sum_type": "sha1",
+      "size": 276210946,
       "installer": "unarchiver",
       "lts": "",
       "extra": "22.2.0+3"
@@ -10506,23 +10506,23 @@
   ],
   "nik-17.0.4.8-22.2.0.2": [
     {
-      "url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk17.0.4+8-22.2.0+2-macos-aarch64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "fd49950d79dc938caac89156109656e5504800c1",
-      "sum_type": "sha1",
-      "size": 276214718,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "22.2.0+2"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk17.0.4+8-22.2.0+2-macos-aarch64.zip",
       "arch": "arm64",
       "os": "darwin",
       "sum": "200d44ae464aaf518120069741665a2e694535fd",
       "sum_type": "sha1",
       "size": 280958956,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "22.2.0+2"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/22.2.0/bellsoft-liberica-vm-full-openjdk17.0.4+8-22.2.0+2-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "fd49950d79dc938caac89156109656e5504800c1",
+      "sum_type": "sha1",
+      "size": 276214718,
       "installer": "unarchiver",
       "lts": "",
       "extra": "22.2.0+2"
@@ -10778,23 +10778,23 @@
       "extra": "22.3.2+1"
     },
     {
-      "url": "https://download.bell-sw.com/vm/22.3.2/bellsoft-liberica-vm-full-openjdk17.0.7+7-22.3.2+1-macos-aarch64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "fb647cde70b5462970e54b7da91a67a834d9ef10",
-      "sum_type": "sha1",
-      "size": 278545611,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "22.3.2+1"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/22.3.2/bellsoft-liberica-vm-full-openjdk17.0.7+7-22.3.2+1-macos-aarch64.zip",
       "arch": "arm64",
       "os": "darwin",
       "sum": "37bdd9571cb0e546cb8aff8b76a5eed5e2fe4cf3",
       "sum_type": "sha1",
       "size": 283389209,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "22.3.2+1"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/22.3.2/bellsoft-liberica-vm-full-openjdk17.0.7+7-22.3.2+1-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "fb647cde70b5462970e54b7da91a67a834d9ef10",
+      "sum_type": "sha1",
+      "size": 278545611,
       "installer": "unarchiver",
       "lts": "",
       "extra": "22.3.2+1"
@@ -10846,17 +10846,6 @@
       "extra": "23.0.0+1"
     },
     {
-      "url": "https://download.bell-sw.com/vm/23.0.0/bellsoft-liberica-vm-full-openjdk17.0.7+7-23.0.0+1-macos-aarch64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "3c61f48e5aeb902c566fb6126654648c84425c36",
-      "sum_type": "sha1",
-      "size": 284649930,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": "23.0.0+1"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/23.0.0/bellsoft-liberica-vm-full-openjdk17.0.7+7-23.0.0+1-macos-aarch64.zip",
       "arch": "arm64",
       "os": "darwin",
@@ -10866,20 +10855,20 @@
       "installer": "unarchiver",
       "lts": "1",
       "extra": "23.0.0+1"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/23.0.0/bellsoft-liberica-vm-full-openjdk17.0.7+7-23.0.0+1-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "3c61f48e5aeb902c566fb6126654648c84425c36",
+      "sum_type": "sha1",
+      "size": 284649930,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.0.0+1"
     }
   ],
   "nik-17.0.8.1.1-22.3.3.2": [
-    {
-      "url": "https://download.bell-sw.com/vm/22.3.3/bellsoft-liberica-vm-full-openjdk17.0.8.1+1-22.3.3+2-macos-amd64.tar.gz",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "6c4b6d6eabc924902dbaacd2a6f1985ed9f5c62e",
-      "sum_type": "sha1",
-      "size": 280899442,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "22.3.3+2"
-    },
     {
       "url": "https://download.bell-sw.com/vm/22.3.3/bellsoft-liberica-vm-full-openjdk17.0.8.1+1-22.3.3+2-macos-amd64.zip",
       "arch": "amd64",
@@ -10887,6 +10876,17 @@
       "sum": "d0fa2c7b396073a919ccb2dae040f187d655a76e",
       "sum_type": "sha1",
       "size": 285900476,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "22.3.3+2"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/22.3.3/bellsoft-liberica-vm-full-openjdk17.0.8.1+1-22.3.3+2-macos-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "6c4b6d6eabc924902dbaacd2a6f1985ed9f5c62e",
+      "sum_type": "sha1",
+      "size": 280899442,
       "installer": "unarchiver",
       "lts": "",
       "extra": "22.3.3+2"
@@ -11028,23 +11028,23 @@
       "extra": "22.3.3+1"
     },
     {
-      "url": "https://download.bell-sw.com/vm/22.3.3/bellsoft-liberica-vm-full-openjdk17.0.8+7-22.3.3+1-macos-amd64.tar.gz",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "d52c4cb80d56ffbcaf50dbeddd893195b5da5fab",
-      "sum_type": "sha1",
-      "size": 280896299,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": "22.3.3+1"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/22.3.3/bellsoft-liberica-vm-full-openjdk17.0.8+7-22.3.3+1-macos-amd64.zip",
       "arch": "amd64",
       "os": "darwin",
       "sum": "c1611f0cd45d73cb6894c84724cd038e870707ec",
       "sum_type": "sha1",
       "size": 285893460,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "22.3.3+1"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/22.3.3/bellsoft-liberica-vm-full-openjdk17.0.8+7-22.3.3+1-macos-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "d52c4cb80d56ffbcaf50dbeddd893195b5da5fab",
+      "sum_type": "sha1",
+      "size": 280896299,
       "installer": "unarchiver",
       "lts": "",
       "extra": "22.3.3+1"
@@ -11085,23 +11085,23 @@
       "extra": "23.0.1+1"
     },
     {
-      "url": "https://download.bell-sw.com/vm/23.0.1/bellsoft-liberica-vm-full-openjdk17.0.8+7-23.0.1+1-macos-amd64.tar.gz",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "49a91efacf0f3c8488e83224906091cbf9c896e5",
-      "sum_type": "sha1",
-      "size": 286746980,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": "23.0.1+1"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/23.0.1/bellsoft-liberica-vm-full-openjdk17.0.8+7-23.0.1+1-macos-amd64.zip",
       "arch": "amd64",
       "os": "darwin",
       "sum": "849e52d7fba741fa1846ac0b26326c09fee70766",
       "sum_type": "sha1",
       "size": 291818117,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.0.1+1"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/23.0.1/bellsoft-liberica-vm-full-openjdk17.0.8+7-23.0.1+1-macos-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "49a91efacf0f3c8488e83224906091cbf9c896e5",
+      "sum_type": "sha1",
+      "size": 286746980,
       "installer": "unarchiver",
       "lts": "1",
       "extra": "23.0.1+1"
@@ -11210,23 +11210,23 @@
   ],
   "nik-17.0.9.11-23.0.2.1": [
     {
-      "url": "https://download.bell-sw.com/vm/23.0.2/bellsoft-liberica-vm-full-openjdk17.0.9+11-23.0.2+1-macos-aarch64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "a998093b4808c3db115aa6d18b2cd9037c6662e9",
-      "sum_type": "sha1",
-      "size": 284776056,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": "23.0.2+1"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/23.0.2/bellsoft-liberica-vm-full-openjdk17.0.9+11-23.0.2+1-macos-aarch64.zip",
       "arch": "arm64",
       "os": "darwin",
       "sum": "c0474873750d0a4b5afc7d36aa99236304f4d293",
       "sum_type": "sha1",
       "size": 289682940,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.0.2+1"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/23.0.2/bellsoft-liberica-vm-full-openjdk17.0.9+11-23.0.2+1-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "a998093b4808c3db115aa6d18b2cd9037c6662e9",
+      "sum_type": "sha1",
+      "size": 284776056,
       "installer": "unarchiver",
       "lts": "1",
       "extra": "23.0.2+1"
@@ -11322,17 +11322,6 @@
       "extra": "23.0.0+1"
     },
     {
-      "url": "https://download.bell-sw.com/vm/23.0.0/bellsoft-liberica-vm-full-openjdk20.0.1+10-23.0.0+1-macos-aarch64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "a5fb2ce414185fd0e65da6cd33534a268cadba75",
-      "sum_type": "sha1",
-      "size": 295856353,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": "23.0.0+1"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/23.0.0/bellsoft-liberica-vm-full-openjdk20.0.1+10-23.0.0+1-macos-aarch64.zip",
       "arch": "arm64",
       "os": "darwin",
@@ -11342,20 +11331,20 @@
       "installer": "unarchiver",
       "lts": "1",
       "extra": "23.0.0+1"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/23.0.0/bellsoft-liberica-vm-full-openjdk20.0.1+10-23.0.0+1-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "a5fb2ce414185fd0e65da6cd33534a268cadba75",
+      "sum_type": "sha1",
+      "size": 295856353,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.0.0+1"
     }
   ],
   "nik-20.0.2.10-23.0.1.1": [
-    {
-      "url": "https://download.bell-sw.com/vm/23.0.1/bellsoft-liberica-vm-full-openjdk20.0.2+10-23.0.1+1-macos-aarch64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "9cef5d28e87ac426c7aec6daa3d7d3ba8d43d2c0",
-      "sum_type": "sha1",
-      "size": 295588970,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": "23.0.1+1"
-    },
     {
       "url": "https://download.bell-sw.com/vm/23.0.1/bellsoft-liberica-vm-full-openjdk20.0.2+10-23.0.1+1-macos-aarch64.zip",
       "arch": "arm64",
@@ -11363,6 +11352,17 @@
       "sum": "0370af9787804a362b24a83fec67b8240285d6d7",
       "sum_type": "sha1",
       "size": 300890231,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.0.1+1"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/23.0.1/bellsoft-liberica-vm-full-openjdk20.0.2+10-23.0.1+1-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "9cef5d28e87ac426c7aec6daa3d7d3ba8d43d2c0",
+      "sum_type": "sha1",
+      "size": 295588970,
       "installer": "unarchiver",
       "lts": "1",
       "extra": "23.0.1+1"
@@ -11436,23 +11436,23 @@
       "extra": "23.1.1+1"
     },
     {
-      "url": "https://download.bell-sw.com/vm/23.1.1/bellsoft-liberica-vm-full-openjdk21.0.1+12-23.1.1+1-macos-aarch64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "92e3a30608bc8de87aec32cb41a977cbde6d7fd0",
-      "sum_type": "sha1",
-      "size": 294351968,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": "23.1.1+1"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/23.1.1/bellsoft-liberica-vm-full-openjdk21.0.1+12-23.1.1+1-macos-aarch64.zip",
       "arch": "arm64",
       "os": "darwin",
       "sum": "ed6df4413c0e86aaebae6d6e06b48d8486f04007",
       "sum_type": "sha1",
       "size": 299503071,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.1.1+1"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/23.1.1/bellsoft-liberica-vm-full-openjdk21.0.1+12-23.1.1+1-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "92e3a30608bc8de87aec32cb41a977cbde6d7fd0",
+      "sum_type": "sha1",
+      "size": 294351968,
       "installer": "unarchiver",
       "lts": "1",
       "extra": "23.1.1+1"
@@ -12070,23 +12070,23 @@
       "extra": "23.1.0+1"
     },
     {
-      "url": "https://download.bell-sw.com/vm/23.1.0/bellsoft-liberica-vm-full-openjdk21+37-23.1.0+1-macos-aarch64.tar.gz",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "f19ad2a65964dc31dab739cefcd53bc8ba231f48",
-      "sum_type": "sha1",
-      "size": 294308869,
-      "installer": "unarchiver",
-      "lts": "1",
-      "extra": "23.1.0+1"
-    },
-    {
       "url": "https://download.bell-sw.com/vm/23.1.0/bellsoft-liberica-vm-full-openjdk21+37-23.1.0+1-macos-aarch64.zip",
       "arch": "arm64",
       "os": "darwin",
       "sum": "09fd177f43410265a6531cdc96ff9300f8f12894",
       "sum_type": "sha1",
       "size": 299465674,
+      "installer": "unarchiver",
+      "lts": "1",
+      "extra": "23.1.0+1"
+    },
+    {
+      "url": "https://download.bell-sw.com/vm/23.1.0/bellsoft-liberica-vm-full-openjdk21+37-23.1.0+1-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "f19ad2a65964dc31dab739cefcd53bc8ba231f48",
+      "sum_type": "sha1",
+      "size": 294308869,
       "installer": "unarchiver",
       "lts": "1",
       "extra": "23.1.0+1"
