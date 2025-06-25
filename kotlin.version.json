@@ -2890,6 +2890,19 @@
       "extra": ""
     }
   ],
+  "2.2.0": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.2.0/kotlin-compiler-2.2.0.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 78044187,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "2.2.0-Beta1": [
     {
       "url": "https://github.com/JetBrains/kotlin/releases/download/v2.2.0-Beta1/kotlin-compiler-2.2.0-Beta1.zip",
@@ -6952,6 +6965,52 @@
       "sum": "",
       "sum_type": "",
       "size": 281066070,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "native-2.2.0": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.2.0/kotlin-native-prebuilt-linux-x86_64-2.2.0.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 273192185,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.2.0/kotlin-native-prebuilt-macos-aarch64-2.2.0.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 314294380,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.2.0/kotlin-native-prebuilt-macos-x86_64-2.2.0.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 314967349,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.2.0/kotlin-native-prebuilt-windows-x86_64-2.2.0.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 277824235,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
