@@ -505,5 +505,40 @@
       "lts": "",
       "extra": ""
     }
+  ],
+  "5.0.2": [
+    {
+      "url": "https://github.com/upx/upx/releases/download/v5.0.2/upx-5.0.2-amd64_linux.tar.xz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 626608,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/upx/upx/releases/download/v5.0.2/upx-5.0.2-arm64_linux.tar.xz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 632224,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/upx/upx/releases/download/v5.0.2/upx-5.0.2-win64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 646178,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
   ]
 }
