@@ -14417,6 +14417,74 @@
       "extra": "79MB"
     }
   ],
+  "1.25.0": [
+    {
+      "url": "https://go.dev/dl/go1.25.0.darwin-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "5bd60e823037062c2307c71e8111809865116714d6f6b410597cf5075dfd80ef",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "58MB"
+    },
+    {
+      "url": "https://go.dev/dl/go1.25.0.darwin-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "544932844156d8172f7a28f77f2ac9c15a23046698b6243f633b0a0b00c0749c",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "55MB"
+    },
+    {
+      "url": "https://go.dev/dl/go1.25.0.linux-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "2852af0cb20a13139b3448992e69b868e50ed0f8a1e5940ee1de9e19a123b613",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "57MB"
+    },
+    {
+      "url": "https://go.dev/dl/go1.25.0.linux-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "05de75d6994a2783699815ee553bd5a9327d8b79991de36e38b66862782f54ae",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "55MB"
+    },
+    {
+      "url": "https://go.dev/dl/go1.25.0.windows-amd64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "89efb4f9b30812eee083cc1770fdd2913c14d301064f6454851428f9707d190b",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "64MB"
+    },
+    {
+      "url": "https://go.dev/dl/go1.25.0.windows-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "27bab004c72b3d7bd05a69b6ec0fc54a309b4b78cc569dd963d8b3ec28bfdb8c",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "62MB"
+    }
+  ],
   "1.25rc1": [
     {
       "url": "https://go.dev/dl/go1.25rc1.darwin-amd64.tar.gz",
