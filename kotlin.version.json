@@ -3033,6 +3033,19 @@
       "extra": ""
     }
   ],
+  "2.2.20-RC": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.2.20-RC/kotlin-compiler-2.2.20-RC.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 78708121,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "native-1.5.30": [
     {
       "url": "https://github.com/JetBrains/kotlin/releases/download/v1.5.30/kotlin-native-linux-x86_64-1.5.30.tar.gz",
@@ -7536,6 +7549,52 @@
       "sum": "",
       "sum_type": "",
       "size": 212158676,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "native-2.2.20-RC": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.2.20-RC/kotlin-native-prebuilt-linux-x86_64-2.2.20-RC.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 206424180,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.2.20-RC/kotlin-native-prebuilt-macos-aarch64-2.2.20-RC.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 249061486,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.2.20-RC/kotlin-native-prebuilt-macos-x86_64-2.2.20-RC.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 249694003,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.2.20-RC/kotlin-native-prebuilt-windows-x86_64-2.2.20-RC.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 211964470,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
