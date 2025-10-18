@@ -273,6 +273,17 @@
   ],
   "10.0.100-preview.5": [
     {
+      "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.100-preview.5.25277.114/dotnet-sdk-10.0.100-preview.5.25277.114-linux-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "E99F03858BAFFA1B41E67EB6291B7E9EB68FC8926409794D4416982092B7E80356E5547BE779B774216C1EC7AEE236B6474567CB7C0D815ECD19EBC71B07F971",
+      "sum_type": "sha512",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
       "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/10.0.100-preview.5.25277.114/dotnet-sdk-10.0.100-preview.5.25277.114-linux-x64.tar.gz",
       "arch": "amd64",
       "os": "linux",
@@ -2135,17 +2146,6 @@
       "arch": "amd64",
       "os": "darwin",
       "sum": "d96c0a430087bdb24f2c142f26738dbf1b323655622e82fc6b34c39db193cd210c0b6d38189fd9bacb0c4da980f316a7b740a54ce11126775284cb6db9a3c627",
-      "sum_type": "sha512",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.114/dotnet-sdk-8.0.114-win-x64.zip",
-      "arch": "amd64",
-      "os": "windows",
-      "sum": "c712e419ff8fce03d85ba608d408caca850142d89ce5a2babeece7da14597afb774bf389a7a05d2b3dcfc7ca1f1fedf160d00cbfa1a648a31cb660878893fcf3",
       "sum_type": "sha512",
       "size": 0,
       "installer": "unarchiver",
