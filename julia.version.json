@@ -3984,6 +3984,63 @@
       "extra": ""
     }
   ],
+  "1.12.4": [
+    {
+      "url": "https://julialang-s3.julialang.org/bin/linux/x64/1.12/julia-1.12.4-linux-x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "c57baf178fe140926acb1a25396d482f325af9d7908d9b066d2fbc0d6639985d",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/linux/aarch64/1.12/julia-1.12.4-linux-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "a602a2dfee931224fd68e47567dc672743e2fd9e80f39d84cf3c99afc9663ddd",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/mac/x64/1.12/julia-1.12.4-mac64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "2c34495ab302a0f2ba776a7323924f154608649a19d75e92d68505c5f04bf497",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/mac/aarch64/1.12/julia-1.12.4-macaarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "ea46b20deb5b4102e86f382f2d42313912421333eafa37cf057fdad28edd7e0f",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.12/julia-1.12.4-win64.tar.gz",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "5fdb2091c06baa21897508f76c7ffd479e4402591b28661850b3804520faeb90",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "1.13.0-alpha2": [
     {
       "url": "https://julialang-s3.julialang.org/bin/linux/x64/1.13/julia-1.13.0-alpha2-linux-x86_64.tar.gz",
