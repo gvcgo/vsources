@@ -1,10 +1,10 @@
 {
-  "1.108.2": [
+  "1.109.0": [
     {
-      "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/c9d77990917f3102ada88be140d28b038d1dd7c7/VSCodeSetup-x64-1.108.2.exe",
+      "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/bdd88df003631aaa0bcbe057cb0a940b80a476fa/VSCodeSetup-x64-1.109.0.exe",
       "arch": "amd64",
       "os": "windows",
-      "sum": "9fe33324fb57d8b9945dd89cb35ba90a29d91610fb1124b004b2f0340eaa20ea",
+      "sum": "57f6743774e5f22f68d1d40b404a4925f66a2a174814f498043f8289822a1f68",
       "sum_type": "sha256",
       "size": 0,
       "installer": "executable",
@@ -12,10 +12,10 @@
       "extra": ""
     },
     {
-      "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/c9d77990917f3102ada88be140d28b038d1dd7c7/VSCodeSetup-arm64-1.108.2.exe",
+      "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/bdd88df003631aaa0bcbe057cb0a940b80a476fa/VSCodeSetup-arm64-1.109.0.exe",
       "arch": "arm64",
       "os": "windows",
-      "sum": "9ebcc50b85d81e5fdacecc4248e9ee9154903152b02071ebd844f1e67dc6c96f",
+      "sum": "5728a2e89333587615f163c3eb8945e68be532fbef24dae0dfc4738ac9161487",
       "sum_type": "sha256",
       "size": 0,
       "installer": "executable",
@@ -23,10 +23,10 @@
       "extra": ""
     },
     {
-      "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/c9d77990917f3102ada88be140d28b038d1dd7c7/code_1.108.2-1769004815_amd64.deb",
+      "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/bdd88df003631aaa0bcbe057cb0a940b80a476fa/code_1.109.0-1770171879_amd64.deb",
       "arch": "amd64",
       "os": "linux",
-      "sum": "af054638b3f0638ad117f636d8ca559e0b310d69d9369365c7f631fe81e0e7d1",
+      "sum": "5c45e63e503d608bfd02015073c18d7f5ec670fdbad270af108524ebfc53da42",
       "sum_type": "sha256",
       "size": 0,
       "installer": "dpkg",
@@ -34,10 +34,10 @@
       "extra": ""
     },
     {
-      "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/c9d77990917f3102ada88be140d28b038d1dd7c7/code-1.108.2-1769004860.el8.x86_64.rpm",
+      "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/bdd88df003631aaa0bcbe057cb0a940b80a476fa/code-1.109.0-1770171922.el8.x86_64.rpm",
       "arch": "amd64",
       "os": "linux",
-      "sum": "f4f2c8ed1c5698b62ee5afee2f4f79c138333fb31a5f8a488325465c16a77587",
+      "sum": "d14f531d1382a4ac9c2b5d73382450d1f5f1c88114eed384a2a30cbbd5d23a19",
       "sum_type": "sha256",
       "size": 0,
       "installer": "rpm",
@@ -45,10 +45,10 @@
       "extra": ""
     },
     {
-      "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/c9d77990917f3102ada88be140d28b038d1dd7c7/code_1.108.2-1769004889_arm64.deb",
+      "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/bdd88df003631aaa0bcbe057cb0a940b80a476fa/code_1.109.0-1770171878_arm64.deb",
       "arch": "arm64",
       "os": "linux",
-      "sum": "848f3571c51c69533c263e5a774e9ef3b200dcc6a23c3be5bbbe291f9dabce6a",
+      "sum": "8b71efb19aaffbaf432eb3343e4ebc8e7d0dca0dd18481850450e0e894296039",
       "sum_type": "sha256",
       "size": 0,
       "installer": "dpkg",
@@ -56,46 +56,13 @@
       "extra": ""
     },
     {
-      "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/c9d77990917f3102ada88be140d28b038d1dd7c7/code-1.108.2-1769004935.el8.aarch64.rpm",
+      "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/bdd88df003631aaa0bcbe057cb0a940b80a476fa/code-1.109.0-1770171923.el8.aarch64.rpm",
       "arch": "arm64",
       "os": "linux",
-      "sum": "3244cfab2ccf0d9bad8ecc5cf21d66dea452a8fcfdc4e5030661f766a61ebecf",
+      "sum": "79827cff55b9b5a670275836bc630f674bfda982990fcbbd1c9fe0d3707e040e",
       "sum_type": "sha256",
       "size": 0,
       "installer": "rpm",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/c9d77990917f3102ada88be140d28b038d1dd7c7/VSCode-darwin-arm64.zip",
-      "arch": "arm64",
-      "os": "darwin",
-      "sum": "649d102aa905418cf757b4c46a5337b05267a989ca060415a8f5ddb22d9cfbcd",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/c9d77990917f3102ada88be140d28b038d1dd7c7/VSCode-darwin.zip",
-      "arch": "amd64",
-      "os": "darwin",
-      "sum": "dcdef164826c8103d7ea2cda1fc6685f2dd22dc6d708dc09bc4f1a845c157c5f",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/c9d77990917f3102ada88be140d28b038d1dd7c7/VSCode-darwin-universal.zip",
-      "arch": "any",
-      "os": "darwin",
-      "sum": "f0a7998bb81fb8dccbc6a2cc371c54bafdb12d3d6f3e04e26769b44037efa8b8",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
       "lts": "",
       "extra": ""
     }
