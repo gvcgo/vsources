@@ -10323,6 +10323,272 @@
       "extra": ""
     }
   ],
+  "1.16.0-rc2": [
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-aarch64-apple-darwin.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 8458785,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-aarch64-apple-darwin.tar.gz.sbom.cyclonedx.json",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 343048,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-aarch64-apple-darwin.tar.gz.sbom.spdx.json",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 420923,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-aarch64-apple-darwin.tar.gz.sigstore",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 450979,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-aarch64-pc-windows-msvc.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 7447511,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-aarch64-pc-windows-msvc.zip.sbom.cyclonedx.json",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 343055,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-aarch64-pc-windows-msvc.zip.sbom.spdx.json",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 420923,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-aarch64-pc-windows-msvc.zip.sigstore",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 451023,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-aarch64-unknown-linux-musl.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 9082776,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-aarch64-unknown-linux-musl.tar.gz.sbom.cyclonedx.json",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 343050,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-aarch64-unknown-linux-musl.tar.gz.sbom.spdx.json",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 420923,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-aarch64-unknown-linux-musl.tar.gz.sigstore",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 450952,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-x86_64-apple-darwin.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 8853654,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-x86_64-apple-darwin.tar.gz.sbom.cyclonedx.json",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 343050,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-x86_64-apple-darwin.tar.gz.sbom.spdx.json",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 420923,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-x86_64-apple-darwin.tar.gz.sigstore",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 451065,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-x86_64-pc-windows-msvc.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 7824609,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-x86_64-pc-windows-msvc.zip.sbom.cyclonedx.json",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 343055,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-x86_64-pc-windows-msvc.zip.sbom.spdx.json",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 420923,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-x86_64-pc-windows-msvc.zip.sigstore",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 451019,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-x86_64-unknown-linux-musl.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 9408198,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-x86_64-unknown-linux-musl.tar.gz.sbom.cyclonedx.json",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 343050,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-x86_64-unknown-linux-musl.tar.gz.sbom.spdx.json",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 420923,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/gleam-lang/gleam/releases/download/v1.16.0-rc2/gleam-v1.16.0-rc2-x86_64-unknown-linux-musl.tar.gz.sigstore",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 451042,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "1.2.0": [
     {
       "url": "https://github.com/gleam-lang/gleam/releases/download/v1.2.0/gleam-v1.2.0-aarch64-apple-darwin.tar.gz",
