@@ -10,18 +10,18 @@
     "install_conf_sha256": "0fce270d64b032fe027a24676acf70f55c9cd5dabceb3e9ad810205760617f25"
   },
   "bazel": {
-    "sha256": "55fad79c13845a4f06427d36b07a77a833aab5754b475575925ce5d8b55f06e2",
+    "sha256": "9ec59ed6483026348c8a61240c37b9599d015eb6d967c5113a1dbc3972e987ef",
     "homepage": "https://github.com/bazelbuild/bazel",
     "install_conf_sha256": "62ffa3844fa0e13a0f5d5614bca489c9bdbdbdd99fbefcef068835a353a99425"
   },
   "bun": {
-    "sha256": "4fae5faf42ba5475d461781378eae1c535672ef9af86057cf262c71f6368c424",
+    "sha256": "4fb6f68dd66fc7f53c67eaba5de83ece3d4451eb5125d5618a63d7c2dfb27cc5",
     "homepage": "https://bun.sh/",
     "install_conf_sha256": "231d6c21bd9e235b5f4d1d1d76a266de4f1424fdb73a542b77963381acee4dd6"
   },
   "clang": {
-    "sha256": "2d0f5ea467873d0920d609561bf33db406e2c01a6875cb842898041e3912b5f6",
-    "homepage": "https://clang.llvm.org/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "clojure": {
@@ -30,7 +30,7 @@
     "install_conf_sha256": "7f3db31e5e389db89e8d659f6b217d4081cbd5a1e8783784c5cc42cb29ac696b"
   },
   "cmake": {
-    "sha256": "faf5d4f440b64ced16050343ea669bf07273ad91fdb1defddd7641bf23d602a3",
+    "sha256": "dac22655287b186949ecd702a93b7e80a8bffa163e1a07375788f51260649c9f",
     "homepage": "https://cmake.org/",
     "install_conf_sha256": "81595ddd30cb277c10e5bc2e460b6a2642bce046738f9f778b4164723f925d9b"
   },
@@ -70,7 +70,7 @@
     "install_conf_sha256": "6bdcc2f57874cbf5fe74482c8d9b37b33f83f7b8d6ccba76cc6defde86800d6b"
   },
   "dotnet": {
-    "sha256": "297637409278e172d729dd5b59cff42746a4a5f99174b81d1aed8b7fa06ca061",
+    "sha256": "2fa69d6ec21ea649a94e347bbce39b2017fef711f9e8b03957f9060a60ebeea2",
     "homepage": "https://dotnet.microsoft.com/",
     "install_conf_sha256": "88edbe982cfd47369a7bbdbaa99191e34d5ab43ab3dd86425733fe0e9ac085f8"
   },
@@ -80,7 +80,7 @@
     "install_conf_sha256": "83f48feeb60b474b7cd10d73e33091d7647bf94e030606803bd03f5b075a2443"
   },
   "erlang": {
-    "sha256": "f9396aaa4365c6aab3d9abed1fbe034c0c4b799f9d5934264e512cec126c7140",
+    "sha256": "c06506082cc67e8a1bf04977dab75519235d9dca47913e7192cae3a6ea7636a9",
     "homepage": "https://www.erlang.org/",
     "install_conf_sha256": "83f48feeb60b474b7cd10d73e33091d7647bf94e030606803bd03f5b075a2443"
   },
@@ -90,8 +90,8 @@
     "install_conf_sha256": "a893e7ff7a7c685bae4dbd06acbcc78b1b7bad6d980a2d022793373449def7a0"
   },
   "ffmpeg": {
-    "sha256": "b1cbdba3b2685fd64a4d206b602a21e3d944f743c8fbdfc2122f4717b56155c5",
-    "homepage": "https://ffmpeg.org/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "flutter": {
@@ -105,17 +105,17 @@
     "install_conf_sha256": "9b7426ed35c2eb845787baffc1f959dba73a93b83565bb27be29a16b884cbc80"
   },
   "garnet": {
-    "sha256": "18531ffe9fa0afadb027fb38d684089984c476adfd778efabbf288630ced4875",
+    "sha256": "3cd54ecc9500f53a4110ee5067d321a5d4e4031a38284c148196b484f465116d",
     "homepage": "https://github.com/microsoft/garnet",
     "install_conf_sha256": "6137523008742703ba87906144ee4d194ae948b9d20776aa7caa973aee035ac2"
   },
   "gcc": {
-    "sha256": "d96f0ca4d121f74ba10243b8ad58318ff34c823187d198f3f0e1163b0408613b",
-    "homepage": "https://gcc.gnu.org/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
   "git-win": {
-    "sha256": "7de43b522841c641484fe3a3d125a6a83d949d2928ea45767ed36e6dcaa9b2bb",
+    "sha256": "cff0fa666540290d41072e77b63b25b70936c5c1b9533a038049ba95cbe9e92b",
     "homepage": "https://git-scm.com/",
     "install_conf_sha256": "84197e7d53a8f1298580fba58e43295a5dfaa0f1df147558b73681c620035a75"
   },
@@ -125,7 +125,7 @@
     "install_conf_sha256": "a2f9fc89c4a504d2de0500c117efa74f3e1fb3c2a20df93b51701536e1631bfe"
   },
   "gleam": {
-    "sha256": "be279bf2d8c57d1c1ddf790d7658f1168e4185ee6e589e1013d0a7ecab8e9a8e",
+    "sha256": "28339a8fde0e2a59e4a768373341cb7d80f12f0f35559d8e07f336a8b1a69a27",
     "homepage": "https://gleam.run/",
     "install_conf_sha256": "a046b2733ee5813148484de9e990bb3504764f4abd5d4f0ff562947cab673da7"
   },
@@ -155,8 +155,8 @@
     "install_conf_sha256": "8c15c909b094bca518a95ffe3d14476e49a0ea281131414a210360815c4dcf19"
   },
   "gxx": {
-    "sha256": "7469afacba8bb7032deb41e72b2528b949f378d5b43f57d9a497753048164ff1",
-    "homepage": "https://gcc.gnu.org/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
   "jdk": {
@@ -175,12 +175,12 @@
     "install_conf_sha256": "a2f9fc89c4a504d2de0500c117efa74f3e1fb3c2a20df93b51701536e1631bfe"
   },
   "kubectl": {
-    "sha256": "869f63c9fc2a85099b411c90bb70c93def439523432d5e849fc81beb8281461d",
+    "sha256": "6768a33ec648955a81c08dfe5e19615fb8dee9a8b8de308019f905531f17ceab",
     "homepage": "https://kubernetes.io/docs/tasks/tools/",
     "install_conf_sha256": "1aed6ff154d099f9773ae07a6b568e3dff4f06330c37981c362d6aeb0a60a6eb"
   },
   "lazydocker": {
-    "sha256": "d44579b904b1fbc9e34cc56b45cfee4578d05dadffcc55c1f29e8c12d9a952c9",
+    "sha256": "2bb3a4893e34e332a335db140e866b54b951b1c70e85c33876e521a4e65e403c",
     "homepage": "https://github.com/jesseduffield/lazydocker",
     "install_conf_sha256": "e962c5b3b974f4b5dbcc45cff42dc6b938416423ba6d860b802b76cc198ae8dd"
   },
@@ -190,8 +190,8 @@
     "install_conf_sha256": "05e7b63242ed7f2f4865fb47f533f5d74d4165db857b89f53915afaa8bd37170"
   },
   "lfortran": {
-    "sha256": "a9ad40cd5c4d31fcaa06ee5fe15c5b78853ab25002ea5a7a720de9965f270cf7",
-    "homepage": "https://lfortran.org/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "llvm-mingw": {
@@ -200,8 +200,8 @@
     "install_conf_sha256": "dcc0848787d66037be1f1f99f2dade28aa1a8f67542c5fe1c8d8fa06a3733b45"
   },
   "lua": {
-    "sha256": "e1e067ea5772b44664a38043035cb04f47dded88501fce8f8d0cdbd3799f104f",
-    "homepage": "https://www.lua.org/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "maven": {
@@ -215,8 +215,8 @@
     "install_conf_sha256": "84ae51ee8f4e252b05e55af82e3eed3855e7c594bd0f7ef1eb7bd8b01de59e34"
   },
   "mongodb": {
-    "sha256": "0208878677adf0adf6f5968c920c51d34008c7886d2aa3b8a945a7fdbde18a8d",
-    "homepage": "https://www.mongodb.com/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "dd6a21845a338f3c57fd8147353dd41aea9de898b33a528b357ab875116995c3"
   },
   "moonbit": {
@@ -230,8 +230,8 @@
     "install_conf_sha256": "ea9f659bb9e884ee39b131003748cd8e656cb77a7190cc09867d7da68cb66d5c"
   },
   "mysql": {
-    "sha256": "5b042cb9612731fa9822b0f91e62f4ddc571c024f226420d1cb8dcb65fcb46d1",
-    "homepage": "https://www.mysql.com/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "neovim": {
@@ -240,8 +240,8 @@
     "install_conf_sha256": "81595ddd30cb277c10e5bc2e460b6a2642bce046738f9f778b4164723f925d9b"
   },
   "nim": {
-    "sha256": "da35208fb4943c80702c5ba585c5b89602701aa3a336b6a21e3bda802e25d1b4",
-    "homepage": "https://nim-lang.org/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
   "ninja": {
@@ -250,7 +250,7 @@
     "install_conf_sha256": "21d0d868f2bd55e7bf4ab06315b271421e37535fede409c99c6535f62b0bbe88"
   },
   "node": {
-    "sha256": "e4bbe018485d737565d8b5e8414a04bb60340befc663fbf41559227e15eb72f4",
+    "sha256": "7e5adc9313c3280eaf9c07654d13f24192e73f625f683e8707fe046b85349d1b",
     "homepage": "https://nodejs.org/en",
     "install_conf_sha256": "60699a59af4c777ba8d052343a57b31b4a90040adae1fec22136b0c00c0f495e"
   },
@@ -260,38 +260,38 @@
     "install_conf_sha256": "e50db18ace71bf38c58a07ea4bc7fb9d83f64f199eb6a72b259c30f6af8d741b"
   },
   "perl": {
-    "sha256": "8bb382321b0af544e2a6195457829d625f95de2651f5728facffaff302b7e67f",
-    "homepage": "https://www.perl.org/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "php": {
-    "sha256": "f01cf83acbb1ddb366c8cceddb9e62cd0af8a50b57fb64e3206b1bab15f32682",
-    "homepage": "https://www.php.net/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "cf9685a5b337b624dfd7376da30086efe67b1a90e599b78b389248bfbbcad020"
   },
   "postgresql": {
-    "sha256": "f850fc4a9f2afa49be6949f39061b8f7ff486b579c02c0f6071b57ffa3337a33",
-    "homepage": "https://www.postgresql.org/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "protoc": {
-    "sha256": "0b8487361e1b656389d24af4935cc7a54790e8a31968194d4efb18436406d9d6",
+    "sha256": "f69bb5d942608aeaf88cc6be7ea9406a07e776192c873447c2e1459bcd115ca4",
     "homepage": "https://protobuf.dev/",
     "install_conf_sha256": "a2f9fc89c4a504d2de0500c117efa74f3e1fb3c2a20df93b51701536e1631bfe"
   },
   "pypy": {
-    "sha256": "7c4ac0da66a0b62c8159fc270eaad15f59321decb639e343eb2cfa53ba6b3691",
-    "homepage": "https://www.pypy.org/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "19864a76f84fbac114fa1ac02f84eeef451c33fe5008884e0f62c5a6824044ed"
   },
   "python": {
-    "sha256": "910ae2d3e18f54e96fa9572deb8c9e169d8c9b3c44a8f4c6398a66e64143a886",
-    "homepage": "https://www.python.org/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "19864a76f84fbac114fa1ac02f84eeef451c33fe5008884e0f62c5a6824044ed"
   },
   "r": {
-    "sha256": "e39066615209a66e32c0e0dfdd7b4517bf07218c0fe4cd088ddb5dacd5679284",
-    "homepage": "https://www.r-project.org/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "b05a6291e7ea55101b2969fc3016565bc9e76604faf8d40b5196c9784a722c13"
   },
   "redka": {
@@ -305,13 +305,13 @@
     "install_conf_sha256": "3c6af7b0c22a9c6cd9d9fbeb58db4520fd88ecfeae6d01c7fe82931cf8e570ad"
   },
   "ruby": {
-    "sha256": "e6d7758d6e1740f99afd38a3632968ff8d0818e10b1be4ba3f74c898c1acc479",
-    "homepage": "https://www.ruby-lang.org/en/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
   "rust": {
-    "sha256": "f70e0c4f2e438e4dd689da6a4b65147a34a34f39b2693be31a06316a35793958",
-    "homepage": "https://www.rust-lang.org/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "06e02bfe19b5639e69e3cda0a9b8516fc29d052bb15b9a2446a960817ba508ca"
   },
   "rustup": {
@@ -325,8 +325,8 @@
     "install_conf_sha256": "596a8cc386e1e28bcadc6adf4983fa11bbc617b9637d97f53c680619d4e292cc"
   },
   "sdkmanager": {
-    "sha256": "4ad9c9032f8331ac7e7988a609d1dd7d7cd9b9ebabb000a89ed8e21c2d821e06",
-    "homepage": "https://developer.android.com/studio",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "83f48feeb60b474b7cd10d73e33091d7647bf94e030606803bd03f5b075a2443"
   },
   "served": {
@@ -335,8 +335,8 @@
     "install_conf_sha256": "de755f2150287ef23285cae420d04b0671204886c150094f93ca7ae9f754047c"
   },
   "thrift-compiler": {
-    "sha256": "a0bac36a3872482cc607b64cae8097363975a2f5623b00cddcc9a31c92735ffe",
-    "homepage": "https://thrift.apache.org/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
   "tinymist": {
@@ -350,8 +350,8 @@
     "install_conf_sha256": "473dd48cadbc1b4ec176a573b8fdd803f197727b9cfdb4ce552a2902c83e207f"
   },
   "typst": {
-    "sha256": "0c1f64af945ed94734ddd3ae2066761b97664bde9ce57beabd0b4ff8a5076be8",
-    "homepage": "https://typst.app/",
+    "sha256": "",
+    "homepage": "",
     "install_conf_sha256": "33aa19c6d45ce4950484e58db0c00d0e366ff2b7d3fc797f3b25eebba95c01d6"
   },
   "typst-lsp": {
@@ -400,12 +400,12 @@
     "install_conf_sha256": "a2f9fc89c4a504d2de0500c117efa74f3e1fb3c2a20df93b51701536e1631bfe"
   },
   "wasmtime": {
-    "sha256": "6429956cf69b94955b3f38c7d87c82969a275e4512ac6a82d6e824834f84b7f7",
+    "sha256": "559ee40784aa3af3d63ddefa52a94f4cfaeb88149ad486ded9d60e5bfd9b1d05",
     "homepage": "https://wasmtime.dev/",
     "install_conf_sha256": "20ed97bf9e6055ab188848c2082510507661147bf4e4deb2658283007a68da4c"
   },
   "zig": {
-    "sha256": "2d353da56896a1faf2ec17070ca63097741a3b9b53bb3ed24eb919d8cc31b899",
+    "sha256": "8c4d8c6279197d5c29dc15129a1dd3ba800281f537fc0d0eabd5a88b067233fa",
     "homepage": "https://ziglang.org/",
     "install_conf_sha256": "cbd064a2b316c5ddd2586e3817f5ced8e581feb505600926561c5e98a5e7b4ff"
   },
