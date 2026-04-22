@@ -3345,6 +3345,19 @@
       "extra": ""
     }
   ],
+  "2.4.0-Beta2": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.0-Beta2/kotlin-compiler-2.4.0-Beta2.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 87065793,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "native-1.5.30": [
     {
       "url": "https://github.com/JetBrains/kotlin/releases/download/v1.5.30/kotlin-native-linux-x86_64-1.5.30.tar.gz",
@@ -8952,6 +8965,52 @@
       "sum": "",
       "sum_type": "",
       "size": 222291183,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "native-2.4.0-Beta2": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.0-Beta2/kotlin-native-prebuilt-linux-x86_64-2.4.0-Beta2.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 217178637,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.0-Beta2/kotlin-native-prebuilt-macos-aarch64-2.4.0-Beta2.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 259048299,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.0-Beta2/kotlin-native-prebuilt-macos-x86_64-2.4.0-Beta2.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 259719949,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.0-Beta2/kotlin-native-prebuilt-windows-x86_64-2.4.0-Beta2.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 222380521,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
