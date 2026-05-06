@@ -10,7 +10,7 @@
     "install_conf_sha256": "0fce270d64b032fe027a24676acf70f55c9cd5dabceb3e9ad810205760617f25"
   },
   "bazel": {
-    "sha256": "abfef623575c2bb171d24cda8c7bed478677023f2e46ca7fcc5c817536888371",
+    "sha256": "910047fd4123d4f368baa42eaec5652d75640477f64c0152e7cc6739112a024c",
     "homepage": "https://github.com/bazelbuild/bazel",
     "install_conf_sha256": "62ffa3844fa0e13a0f5d5614bca489c9bdbdbdd99fbefcef068835a353a99425"
   },
@@ -70,7 +70,7 @@
     "install_conf_sha256": "6bdcc2f57874cbf5fe74482c8d9b37b33f83f7b8d6ccba76cc6defde86800d6b"
   },
   "dotnet": {
-    "sha256": "994a137a0d02cdd14cfdb5f7369c021d58d02772621255e58266393a8c611d83",
+    "sha256": "033db12d72c7b40b3d1b970cbfab621f9896c3a65cdad72f1edcf0c597e12e06",
     "homepage": "https://dotnet.microsoft.com/",
     "install_conf_sha256": "88edbe982cfd47369a7bbdbaa99191e34d5ab43ab3dd86425733fe0e9ac085f8"
   },
@@ -175,7 +175,7 @@
     "install_conf_sha256": "a2f9fc89c4a504d2de0500c117efa74f3e1fb3c2a20df93b51701536e1631bfe"
   },
   "kubectl": {
-    "sha256": "ffff59256f7255bd29f3ee1715b5636054e21e3f041d27d5343433b0a670b954",
+    "sha256": "7bf10f454c6a187ebe7758ac7792b1e3c80a9e4b5e51d86f043c6f561929aefa",
     "homepage": "https://kubernetes.io/docs/tasks/tools/",
     "install_conf_sha256": "1aed6ff154d099f9773ae07a6b568e3dff4f06330c37981c362d6aeb0a60a6eb"
   },
@@ -195,7 +195,7 @@
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "llvm-mingw": {
-    "sha256": "dacdd46ad2232ac4611bbf5b0475126138e6034eeade41e5d2089cad910e2558",
+    "sha256": "804192ebe034392058d1f93e02ecb5ff20c0d84e84753860598c83a0c108e5fa",
     "homepage": "https://github.com/mstorsjo/llvm-mingw",
     "install_conf_sha256": "dcc0848787d66037be1f1f99f2dade28aa1a8f67542c5fe1c8d8fa06a3733b45"
   },
@@ -250,7 +250,7 @@
     "install_conf_sha256": "21d0d868f2bd55e7bf4ab06315b271421e37535fede409c99c6535f62b0bbe88"
   },
   "node": {
-    "sha256": "7e5adc9313c3280eaf9c07654d13f24192e73f625f683e8707fe046b85349d1b",
+    "sha256": "f4023172015c4b07b07df175c9ff748f1950c61c0cc25802e4a7d19de2ba4bd1",
     "homepage": "https://nodejs.org/en",
     "install_conf_sha256": "60699a59af4c777ba8d052343a57b31b4a90040adae1fec22136b0c00c0f495e"
   },
@@ -265,8 +265,8 @@
     "install_conf_sha256": "39cfb065574e6ade2c10ec996b9801001c863823d53258dbbc06abe649b3630a"
   },
   "php": {
-    "sha256": "",
-    "homepage": "",
+    "sha256": "f8d79a3cf8b984ce87a0a22a50d7de693a56dc3ba41fca0ce8d28b2f031c3778",
+    "homepage": "https://www.php.net/",
     "install_conf_sha256": "cf9685a5b337b624dfd7376da30086efe67b1a90e599b78b389248bfbbcad020"
   },
   "postgresql": {
@@ -385,7 +385,7 @@
     "install_conf_sha256": "05e7b63242ed7f2f4865fb47f533f5d74d4165db857b89f53915afaa8bd37170"
   },
   "vscode": {
-    "sha256": "a5acae071534612c3ef8a01226d3ee8b429330834d5f56b709337596ad5a4b38",
+    "sha256": "d1c963edd4280fb606b5ffbe8c0ec1b21b5d7839ac5ee96d98b8686719a3ff87",
     "homepage": "https://code.visualstudio.com/",
     "install_conf_sha256": "596a8cc386e1e28bcadc6adf4983fa11bbc617b9637d97f53c680619d4e292cc"
   },
@@ -400,12 +400,12 @@
     "install_conf_sha256": "a2f9fc89c4a504d2de0500c117efa74f3e1fb3c2a20df93b51701536e1631bfe"
   },
   "wasmtime": {
-    "sha256": "c831cd64f30af346b4cd4ec9db86a3f1da5a5f59dc48fce371b251bd8e262cee",
+    "sha256": "16b8cf0abfd2716ad4d65951989f6e7b1c72bf7e718eca8d59d0320bae0ffcee",
     "homepage": "https://wasmtime.dev/",
     "install_conf_sha256": "20ed97bf9e6055ab188848c2082510507661147bf4e4deb2658283007a68da4c"
   },
   "zig": {
-    "sha256": "33b076aaa125e03a4dba8be236b8b6684e4cd2554118cef13afede610dfc6b6a",
+    "sha256": "626b711c13f6b7541b10599fb60560c3525b6362466c3e6f1d78feb57fe06193",
     "homepage": "https://ziglang.org/",
     "install_conf_sha256": "cbd064a2b316c5ddd2586e3817f5ced8e581feb505600926561c5e98a5e7b4ff"
   },
