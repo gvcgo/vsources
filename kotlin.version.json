@@ -3410,6 +3410,32 @@
       "extra": ""
     }
   ],
+  "2.4.10-RC": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.10-RC/kotlin-compiler-2.4.10-RC.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 87076808,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "2.4.20-Beta1": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20-Beta1/kotlin-compiler-2.4.20-Beta1.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 90282407,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "native-1.5.30": [
     {
       "url": "https://github.com/JetBrains/kotlin/releases/download/v1.5.30/kotlin-native-linux-x86_64-1.5.30.tar.gz",
@@ -9247,6 +9273,98 @@
       "sum": "",
       "sum_type": "",
       "size": 222236382,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "native-2.4.10-RC": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.10-RC/kotlin-native-prebuilt-linux-x86_64-2.4.10-RC.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 217183875,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.10-RC/kotlin-native-prebuilt-macos-aarch64-2.4.10-RC.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 259021564,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.10-RC/kotlin-native-prebuilt-macos-x86_64-2.4.10-RC.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 259710013,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.10-RC/kotlin-native-prebuilt-windows-x86_64-2.4.10-RC.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 222238818,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "native-2.4.20-Beta1": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20-Beta1/kotlin-native-prebuilt-linux-x86_64-2.4.20-Beta1.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 216424452,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20-Beta1/kotlin-native-prebuilt-macos-aarch64-2.4.20-Beta1.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 260138170,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20-Beta1/kotlin-native-prebuilt-macos-x86_64-2.4.20-Beta1.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 260719768,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20-Beta1/kotlin-native-prebuilt-windows-x86_64-2.4.20-Beta1.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 219964587,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
