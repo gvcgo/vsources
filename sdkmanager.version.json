@@ -1,10 +1,10 @@
 {
-  "11076708": [
+  "15859902": [
     {
-      "url": "https://dl.google.com/android/repository/commandlinetools-win-11076708_latest.zip",
+      "url": "https://dl.google.com/android/repository/commandlinetools-win-15859902_latest.zip",
       "arch": "any",
       "os": "windows",
-      "sum": "4d6931209eebb1bfb7c7e8b240a6a3cb3ab24479ea294f3539429574b1eec862",
+      "sum": "90ae805d20434428bffcb699c290860f19bb5f66a67e6b330067e3de801fb04a",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
@@ -12,21 +12,36 @@
       "extra": ""
     },
     {
-      "url": "https://dl.google.com/android/repository/commandlinetools-mac-11076708_latest.zip",
-      "arch": "any",
-      "os": "darwin",
-      "sum": "7bc5c72ba0275c80a8f19684fb92793b83a6b5c94d4d179fc5988930282d7e64",
-      "sum_type": "sha256",
-      "size": 0,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
-      "url": "https://dl.google.com/android/repository/commandlinetools-linux-11076708_latest.zip",
+      "url": "https://dl.google.com/android/repository/commandlinetools-linux-15859902_latest.zip",
       "arch": "any",
       "os": "linux",
-      "sum": "2d2d50857e4eb553af5a6dc3ad507a17adf43d115264b1afc116f95c92e5e258",
+      "sum": "4e4c464f145a7512b57d088ac6c278c03c9eea610886b35a5e0804e74eedf583",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "64": [
+    {
+      "url": "https://dl.google.com/android/repository/commandlinetools-mac_arm64-15859902_latest.zip",
+      "arch": "any",
+      "os": "",
+      "sum": "835b62a26162b229b441d1f6d4680383815a270809eb33522c0d480fa5002c4e",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "86": [
+    {
+      "url": "https://dl.google.com/android/repository/commandlinetools-mac_x86_64-15859902_latest.zip",
+      "arch": "any",
+      "os": "",
+      "sum": "c5a6378ab5cf7e0d5701921405115befff13e9ff7417fb588389338f8bd050f3",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
