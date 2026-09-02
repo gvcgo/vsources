@@ -684,17 +684,6 @@
   ],
   "1.2.70": [
     {
-      "url": "https://github.com/JetBrains/kotlin/releases/download/v1.2.70/kotlin-compiler-1.2.70.zip",
-      "arch": "any",
-      "os": "any",
-      "sum": "",
-      "sum_type": "",
-      "size": 37177896,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://github.com/JetBrains/kotlin/releases/download/v1.2.70/experimental-kotlin-compiler-1.2.70-linux-x64.zip",
       "arch": "any",
       "os": "any",
@@ -723,6 +712,17 @@
       "sum": "",
       "sum_type": "",
       "size": 68122125,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v1.2.70/kotlin-compiler-1.2.70.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 37177896,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
@@ -3496,6 +3496,19 @@
       "sum": "",
       "sum_type": "",
       "size": 89729269,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "2.4.20-RC3": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20-RC3/kotlin-compiler-2.4.20-RC3.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 89729302,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
@@ -9759,6 +9772,85 @@
       "sum": "",
       "sum_type": "",
       "size": 109048108,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "native-2.4.20-RC3": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20-RC3/kotlin-native-prebuilt-linux-x86_64-2.4.20-RC3.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 219980266,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20-RC3/kotlin-native-prebuilt-macos-aarch64-2.4.20-RC3.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 290215662,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20-RC3/kotlin-native-prebuilt-macos-x86_64-2.4.20-RC3.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 287679988,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20-RC3/kotlin-native-prebuilt-windows-x86_64-2.4.20-RC3.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 220187241,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20-RC3/kotlin-native-image-linux-x86_64-2.4.20-RC3.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 109189202,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20-RC3/kotlin-native-image-macos-aarch64-2.4.20-RC3.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 107391095,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.20-RC3/kotlin-native-image-windows-x86_64-2.4.20-RC3.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 109054738,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
