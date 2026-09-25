@@ -756,17 +756,6 @@
   ],
   "1.2.71": [
     {
-      "url": "https://github.com/JetBrains/kotlin/releases/download/v1.2.71/kotlin-compiler-1.2.71.zip",
-      "arch": "any",
-      "os": "any",
-      "sum": "",
-      "sum_type": "",
-      "size": 37179301,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://github.com/JetBrains/kotlin/releases/download/v1.2.71/experimental-kotlin-compiler-1.2.71-linux-x64.zip",
       "arch": "any",
       "os": "any",
@@ -795,6 +784,17 @@
       "sum": "",
       "sum_type": "",
       "size": 68126823,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v1.2.71/kotlin-compiler-1.2.71.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 37179301,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
@@ -3421,6 +3421,17 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.10/kotlin-compiler-embeddable-2.4.10.jar",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 60352373,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
     }
   ],
   "2.4.10-RC": [
@@ -3522,6 +3533,19 @@
       "sum": "",
       "sum_type": "",
       "size": 89729302,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "2.5.0-Beta1": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.5.0-Beta1/kotlin-compiler-2.5.0-Beta1.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 91139599,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
@@ -9413,6 +9437,50 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.10/kotlin-native-prebuilt-2.4.10-linux-x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 217174119,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.10/kotlin-native-prebuilt-2.4.10-macos-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 259023091,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.10/kotlin-native-prebuilt-2.4.10-macos-x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 259701296,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.4.10/kotlin-native-prebuilt-2.4.10-windows-x86_64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 222016219,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
     }
   ],
   "native-2.4.10-RC": [
@@ -9943,6 +10011,41 @@
       "sum": "",
       "sum_type": "",
       "size": 109054738,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "native-2.5.0-Beta1": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.5.0-Beta1/kotlin-native-prebuilt-linux-x86_64-2.5.0-Beta1.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 205976077,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.5.0-Beta1/kotlin-native-prebuilt-macos-aarch64-2.5.0-Beta1.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 266969101,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.5.0-Beta1/kotlin-native-prebuilt-windows-x86_64-2.5.0-Beta1.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 194300031,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
