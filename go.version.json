@@ -16729,6 +16729,74 @@
       "extra": "68MB"
     }
   ],
+  "1.26.9": [
+    {
+      "url": "https://go.dev/dl/go1.26.9.darwin-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "00c29e3d4c8562f547410daa18d2959b641bd691ab00c4a525ea817a0253d4bd",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "65MB"
+    },
+    {
+      "url": "https://go.dev/dl/go1.26.9.darwin-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "f9bb7c0a02506c5d9bf0d1eb1f7ee6c7684f844ae49558308a0427b830e022cc",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "62MB"
+    },
+    {
+      "url": "https://go.dev/dl/go1.26.9.linux-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "42d158b4d8f7b61ac0a830567c940a86098fb7aac52e467a5ebec03ef5cc2f8d",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "64MB"
+    },
+    {
+      "url": "https://go.dev/dl/go1.26.9.linux-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "4a97373d49fcacdcf3694fea368a500b00ee3e963974f3e7514132717632f052",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "61MB"
+    },
+    {
+      "url": "https://go.dev/dl/go1.26.9.windows-amd64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "d722201a9c0c086d1610e111c48203009af690892ed708072bd5ae20160e7a59",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "72MB"
+    },
+    {
+      "url": "https://go.dev/dl/go1.26.9.windows-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "05215f9e71ea27c9e843409314b1e6bf12dc6a5516318126b2357d497fed42c5",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "68MB"
+    }
+  ],
   "1.26rc1": [
     {
       "url": "https://go.dev/dl/go1.26rc1.darwin-amd64.tar.gz",
@@ -17062,6 +17130,74 @@
       "arch": "arm64",
       "os": "windows",
       "sum": "13b69b87bb0e83f96bc68560a8cace7f0343b1e03469f1110ea18d17e3234069",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "72MB"
+    }
+  ],
+  "1.27.2": [
+    {
+      "url": "https://go.dev/dl/go1.27.2.darwin-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "587b59182488b23aa6e5fc25110405a3e0e5b38ed2f5b2f46ed13c32aee356fe",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "68MB"
+    },
+    {
+      "url": "https://go.dev/dl/go1.27.2.darwin-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "76812b213b1b2302c978d28fa52fa92d541704b9e7d9d5db8002c50e4018c4c5",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "65MB"
+    },
+    {
+      "url": "https://go.dev/dl/go1.27.2.linux-amd64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "ecbadb99091a3f46e31f5f934b068b1864eafa7995211b39eaddf76996045fe5",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "67MB"
+    },
+    {
+      "url": "https://go.dev/dl/go1.27.2.linux-arm64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "94f3e30b8e374bc285e7dadc11e0865726b9bc6e85b841ccceaabc0214c6b7c8",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "64MB"
+    },
+    {
+      "url": "https://go.dev/dl/go1.27.2.windows-amd64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "1314008898bd40df77af4b014f777f08873dbdfbcd3d92308728ee03304fe04f",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": "75MB"
+    },
+    {
+      "url": "https://go.dev/dl/go1.27.2.windows-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "5c4b294f23b558619ae8a4aa94d023e3bca03f52c8398bb41b9026002b0013de",
       "sum_type": "sha256",
       "size": 0,
       "installer": "unarchiver",
