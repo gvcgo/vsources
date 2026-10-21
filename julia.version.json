@@ -5010,6 +5010,63 @@
       "extra": ""
     }
   ],
+  "1.14.0-alpha1": [
+    {
+      "url": "https://julialang-s3.julialang.org/bin/linux/x64/1.14/julia-1.14.0-alpha1-linux-x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "8cc30c86414dacbe58963eaf3e23d1605334a670f40051ef5a0de0619c9c252c",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/linux/aarch64/1.14/julia-1.14.0-alpha1-linux-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "c408dd0fa1bbb1ff475226ef7c5c9f0b65e3991306085882b1e2f86c453101c7",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/mac/x64/1.14/julia-1.14.0-alpha1-mac64.tar.gz",
+      "arch": "amd64",
+      "os": "darwin",
+      "sum": "ac6d986b4d6d18fb7b615dcb5521ed48be6de838be64835ca319de537bd870ab",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/mac/aarch64/1.14/julia-1.14.0-alpha1-macaarch64.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "7183594516ad0ce2fd8dc9286cf8a03b7fe43c2d4d53951ac1f16b3c11cd5a73",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://julialang-s3.julialang.org/bin/winnt/x64/1.14/julia-1.14.0-alpha1-win64.tar.gz",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "83cd2991f2963f1eab9c1d312906efb14d6ad08bc9ede6c048d3ca00cad52511",
+      "sum_type": "sha256",
+      "size": 0,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "1.2.0": [
     {
       "url": "https://julialang-s3.julialang.org/bin/linux/x64/1.2/julia-1.2.0-linux-x86_64.tar.gz",
