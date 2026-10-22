@@ -3885,6 +3885,39 @@
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.5.0-Beta2/kotlin-compiler-graalvm-native-image-linux-x86_64-2.5.0-Beta2.tar.gz",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 106295800,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.5.0-Beta2/kotlin-compiler-graalvm-native-image-macos-aarch64-2.5.0-Beta2.tar.gz",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 105665603,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.5.0-Beta2/kotlin-compiler-graalvm-native-image-windows-x86_64-2.5.0-Beta2.zip",
+      "arch": "any",
+      "os": "any",
+      "sum": "",
+      "sum_type": "",
+      "size": 106252184,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
     }
   ],
   "native-1.5.30": [
@@ -11646,6 +11679,39 @@
     }
   ],
   "native-2.5.0-Beta2": [
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.5.0-Beta2/kotlin-compiler-graalvm-native-image-linux-x86_64-2.5.0-Beta2.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 106295800,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.5.0-Beta2/kotlin-compiler-graalvm-native-image-macos-aarch64-2.5.0-Beta2.tar.gz",
+      "arch": "arm64",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 105665603,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/JetBrains/kotlin/releases/download/v2.5.0-Beta2/kotlin-compiler-graalvm-native-image-windows-x86_64-2.5.0-Beta2.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 106252184,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
     {
       "url": "https://github.com/JetBrains/kotlin/releases/download/v2.5.0-Beta2/kotlin-native-prebuilt-linux-x86_64-2.5.0-Beta2.tar.gz",
       "arch": "amd64",
