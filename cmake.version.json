@@ -333,23 +333,23 @@
       "extra": ""
     },
     {
-      "url": "https://github.com/Kitware/CMake/releases/download/v3.20.0-rc5/cmake-3.20.0-rc5-linux-x86_64.tar.gz",
-      "arch": "amd64",
-      "os": "linux",
-      "sum": "",
-      "sum_type": "",
-      "size": 43853422,
-      "installer": "unarchiver",
-      "lts": "",
-      "extra": ""
-    },
-    {
       "url": "https://github.com/Kitware/CMake/releases/download/v3.20.0-rc5/cmake-3.20.0-rc5-macos-universal.tar.gz",
       "arch": "any",
       "os": "darwin",
       "sum": "",
       "sum_type": "",
       "size": 66279724,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v3.20.0-rc5/cmake-3.20.0-rc5-linux-x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 43853422,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
@@ -10607,6 +10607,63 @@
       "extra": ""
     }
   ],
+  "4.3.6": [
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v4.3.6/cmake-4.3.6-linux-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 51280301,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v4.3.6/cmake-4.3.6-linux-x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 64044697,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v4.3.6/cmake-4.3.6-macos-universal.tar.gz",
+      "arch": "any",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 87478109,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v4.3.6/cmake-4.3.6-windows-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 51302305,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v4.3.6/cmake-4.3.6-windows-x86_64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 52975338,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
   "4.4.0": [
     {
       "url": "https://github.com/Kitware/CMake/releases/download/v4.4.0/cmake-4.4.0-linux-aarch64.tar.gz",
@@ -11058,6 +11115,63 @@
       "sum": "",
       "sum_type": "",
       "size": 54400562,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "4.4.5": [
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v4.4.5/cmake-4.4.5-linux-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 52041209,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v4.4.5/cmake-4.4.5-linux-x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 64865573,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v4.4.5/cmake-4.4.5-macos-universal.tar.gz",
+      "arch": "any",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 89451542,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v4.4.5/cmake-4.4.5-windows-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 52564319,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v4.4.5/cmake-4.4.5-windows-x86_64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 54412232,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
