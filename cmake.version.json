@@ -92,12 +92,12 @@
   ],
   "3.20.0": [
     {
-      "url": "https://github.com/Kitware/CMake/releases/download/v3.20.0/cmake-3.20.0-linux-aarch64.tar.gz",
-      "arch": "arm64",
-      "os": "linux",
+      "url": "https://github.com/Kitware/CMake/releases/download/v3.20.0/cmake-3.20.0-macos-universal.tar.gz",
+      "arch": "any",
+      "os": "darwin",
       "sum": "",
       "sum_type": "",
-      "size": 45109645,
+      "size": 66270460,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
@@ -114,12 +114,12 @@
       "extra": ""
     },
     {
-      "url": "https://github.com/Kitware/CMake/releases/download/v3.20.0/cmake-3.20.0-macos-universal.tar.gz",
-      "arch": "any",
-      "os": "darwin",
+      "url": "https://github.com/Kitware/CMake/releases/download/v3.20.0/cmake-3.20.0-linux-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
       "sum": "",
       "sum_type": "",
-      "size": 66270460,
+      "size": 45109645,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
@@ -11229,6 +11229,63 @@
       "sum": "",
       "sum_type": "",
       "size": 56389391,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    }
+  ],
+  "4.5.0-rc2": [
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v4.5.0-rc2/cmake-4.5.0-rc2-linux-aarch64.tar.gz",
+      "arch": "arm64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 53729084,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v4.5.0-rc2/cmake-4.5.0-rc2-linux-x86_64.tar.gz",
+      "arch": "amd64",
+      "os": "linux",
+      "sum": "",
+      "sum_type": "",
+      "size": 67013966,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v4.5.0-rc2/cmake-4.5.0-rc2-macos-universal.tar.gz",
+      "arch": "any",
+      "os": "darwin",
+      "sum": "",
+      "sum_type": "",
+      "size": 92296523,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v4.5.0-rc2/cmake-4.5.0-rc2-windows-arm64.zip",
+      "arch": "arm64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 54486733,
+      "installer": "unarchiver",
+      "lts": "",
+      "extra": ""
+    },
+    {
+      "url": "https://github.com/Kitware/CMake/releases/download/v4.5.0-rc2/cmake-4.5.0-rc2-windows-x86_64.zip",
+      "arch": "amd64",
+      "os": "windows",
+      "sum": "",
+      "sum_type": "",
+      "size": 56400485,
       "installer": "unarchiver",
       "lts": "",
       "extra": ""
